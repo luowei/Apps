@@ -1,0 +1,4131 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "d1-canonical-restore.mjs",
+      "file_type": "code",
+      "source_file": "scripts/d1-canonical-restore.mjs",
+      "source_location": "L1",
+      "id": "scripts_d1_canonical_restore_mjs",
+      "community": 18,
+      "norm_label": "d1-canonical-restore.mjs"
+    },
+    {
+      "label": "toSqlValue()",
+      "file_type": "code",
+      "source_file": "scripts/d1-canonical-restore.mjs",
+      "source_location": "L58",
+      "id": "scripts_d1_canonical_restore_tosqlvalue",
+      "community": 18,
+      "norm_label": "tosqlvalue()"
+    },
+    {
+      "label": "sync-lsky-assets-to-r2.mjs",
+      "file_type": "code",
+      "source_file": "scripts/sync-lsky-assets-to-r2.mjs",
+      "source_location": "L1",
+      "id": "scripts_sync_lsky_assets_to_r2_mjs",
+      "community": 10,
+      "norm_label": "sync-lsky-assets-to-r2.mjs"
+    },
+    {
+      "label": "worker()",
+      "file_type": "code",
+      "source_file": "scripts/sync-lsky-assets-to-r2.mjs",
+      "source_location": "L52",
+      "id": "scripts_sync_lsky_assets_to_r2_worker",
+      "community": 10,
+      "norm_label": "worker()"
+    },
+    {
+      "label": "syncOne()",
+      "file_type": "code",
+      "source_file": "scripts/sync-lsky-assets-to-r2.mjs",
+      "source_location": "L98",
+      "id": "scripts_sync_lsky_assets_to_r2_syncone",
+      "community": 10,
+      "norm_label": "syncone()"
+    },
+    {
+      "label": "retry()",
+      "file_type": "code",
+      "source_file": "scripts/sync-lsky-assets-to-r2.mjs",
+      "source_location": "L126",
+      "id": "scripts_sync_lsky_assets_to_r2_retry",
+      "community": 10,
+      "norm_label": "retry()"
+    },
+    {
+      "label": "sleep()",
+      "file_type": "code",
+      "source_file": "scripts/sync-lsky-assets-to-r2.mjs",
+      "source_location": "L148",
+      "id": "scripts_sync_lsky_assets_to_r2_sleep",
+      "community": 10,
+      "norm_label": "sleep()"
+    },
+    {
+      "label": "readState()",
+      "file_type": "code",
+      "source_file": "scripts/sync-lsky-assets-to-r2.mjs",
+      "source_location": "L152",
+      "id": "scripts_sync_lsky_assets_to_r2_readstate",
+      "community": 10,
+      "norm_label": "readstate()"
+    },
+    {
+      "label": "writeState()",
+      "file_type": "code",
+      "source_file": "scripts/sync-lsky-assets-to-r2.mjs",
+      "source_location": "L163",
+      "id": "scripts_sync_lsky_assets_to_r2_writestate",
+      "community": 10,
+      "norm_label": "writestate()"
+    },
+    {
+      "label": "import-list-to-d1.mjs",
+      "file_type": "code",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L1",
+      "id": "scripts_import_list_to_d1_mjs",
+      "community": 5,
+      "norm_label": "import-list-to-d1.mjs"
+    },
+    {
+      "label": "runQuery()",
+      "file_type": "code",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L16",
+      "id": "scripts_import_list_to_d1_runquery",
+      "community": 5,
+      "norm_label": "runquery()"
+    },
+    {
+      "label": "executeSqlFile()",
+      "file_type": "code",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L32",
+      "id": "scripts_import_list_to_d1_executesqlfile",
+      "community": 5,
+      "norm_label": "executesqlfile()"
+    },
+    {
+      "label": "listFiles()",
+      "file_type": "code",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L45",
+      "id": "scripts_import_list_to_d1_listfiles",
+      "community": 5,
+      "norm_label": "listfiles()"
+    },
+    {
+      "label": "parseFrontmatter()",
+      "file_type": "code",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L64",
+      "id": "scripts_import_list_to_d1_parsefrontmatter",
+      "community": 5,
+      "norm_label": "parsefrontmatter()"
+    },
+    {
+      "label": "sanitizeSlug()",
+      "file_type": "code",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L89",
+      "id": "scripts_import_list_to_d1_sanitizeslug",
+      "community": 5,
+      "norm_label": "sanitizeslug()"
+    },
+    {
+      "label": "parseFileName()",
+      "file_type": "code",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L98",
+      "id": "scripts_import_list_to_d1_parsefilename",
+      "community": 5,
+      "norm_label": "parsefilename()"
+    },
+    {
+      "label": "normalizeTerms()",
+      "file_type": "code",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L115",
+      "id": "scripts_import_list_to_d1_normalizeterms",
+      "community": 5,
+      "norm_label": "normalizeterms()"
+    },
+    {
+      "label": "stripJekyllIncludes()",
+      "file_type": "code",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L132",
+      "id": "scripts_import_list_to_d1_stripjekyllincludes",
+      "community": 5,
+      "norm_label": "stripjekyllincludes()"
+    },
+    {
+      "label": "stripMarkdownToText()",
+      "file_type": "code",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L140",
+      "id": "scripts_import_list_to_d1_stripmarkdowntotext",
+      "community": 5,
+      "norm_label": "stripmarkdowntotext()"
+    },
+    {
+      "label": "deriveSummary()",
+      "file_type": "code",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L152",
+      "id": "scripts_import_list_to_d1_derivesummary",
+      "community": 5,
+      "norm_label": "derivesummary()"
+    },
+    {
+      "label": "deriveMemoId()",
+      "file_type": "code",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L160",
+      "id": "scripts_import_list_to_d1_derivememoid",
+      "community": 5,
+      "norm_label": "derivememoid()"
+    },
+    {
+      "label": "resolveSlug()",
+      "file_type": "code",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L169",
+      "id": "scripts_import_list_to_d1_resolveslug",
+      "community": 5,
+      "norm_label": "resolveslug()"
+    },
+    {
+      "label": "sqlQuote()",
+      "file_type": "code",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L189",
+      "id": "scripts_import_list_to_d1_sqlquote",
+      "community": 5,
+      "norm_label": "sqlquote()"
+    },
+    {
+      "label": "rewrite-lsky-prefix.mjs",
+      "file_type": "code",
+      "source_file": "scripts/rewrite-lsky-prefix.mjs",
+      "source_location": "L1",
+      "id": "scripts_rewrite_lsky_prefix_mjs",
+      "community": 11,
+      "norm_label": "rewrite-lsky-prefix.mjs"
+    },
+    {
+      "label": "sqlString()",
+      "file_type": "code",
+      "source_file": "scripts/rewrite-lsky-prefix.mjs",
+      "source_location": "L45",
+      "id": "scripts_rewrite_lsky_prefix_sqlstring",
+      "community": 11,
+      "norm_label": "sqlstring()"
+    },
+    {
+      "label": "runQuery()",
+      "file_type": "code",
+      "source_file": "scripts/rewrite-lsky-prefix.mjs",
+      "source_location": "L103",
+      "id": "scripts_rewrite_lsky_prefix_runquery",
+      "community": 11,
+      "norm_label": "runquery()"
+    },
+    {
+      "label": "rewriteMarkdownUrls()",
+      "file_type": "code",
+      "source_file": "scripts/rewrite-lsky-prefix.mjs",
+      "source_location": "L118",
+      "id": "scripts_rewrite_lsky_prefix_rewritemarkdownurls",
+      "community": 11,
+      "norm_label": "rewritemarkdownurls()"
+    },
+    {
+      "label": "readOptionalJson()",
+      "file_type": "code",
+      "source_file": "scripts/rewrite-lsky-prefix.mjs",
+      "source_location": "L129",
+      "id": "scripts_rewrite_lsky_prefix_readoptionaljson",
+      "community": 11,
+      "norm_label": "readoptionaljson()"
+    },
+    {
+      "label": "scan-lsky-assets.mjs",
+      "file_type": "code",
+      "source_file": "scripts/scan-lsky-assets.mjs",
+      "source_location": "L1",
+      "id": "scripts_scan_lsky_assets_mjs",
+      "community": 15,
+      "norm_label": "scan-lsky-assets.mjs"
+    },
+    {
+      "label": "runQuery()",
+      "file_type": "code",
+      "source_file": "scripts/scan-lsky-assets.mjs",
+      "source_location": "L15",
+      "id": "scripts_scan_lsky_assets_runquery",
+      "community": 15,
+      "norm_label": "runquery()"
+    },
+    {
+      "label": "extractUrls()",
+      "file_type": "code",
+      "source_file": "scripts/scan-lsky-assets.mjs",
+      "source_location": "L30",
+      "id": "scripts_scan_lsky_assets_extracturls",
+      "community": 15,
+      "norm_label": "extracturls()"
+    },
+    {
+      "label": "plan-missing-published-at-backfill.mjs",
+      "file_type": "code",
+      "source_file": "scripts/plan-missing-published-at-backfill.mjs",
+      "source_location": "L1",
+      "id": "scripts_plan_missing_published_at_backfill_mjs",
+      "community": 9,
+      "norm_label": "plan-missing-published-at-backfill.mjs"
+    },
+    {
+      "label": "parseCsv()",
+      "file_type": "code",
+      "source_file": "scripts/plan-missing-published-at-backfill.mjs",
+      "source_location": "L163",
+      "id": "scripts_plan_missing_published_at_backfill_parsecsv",
+      "community": 9,
+      "norm_label": "parsecsv()"
+    },
+    {
+      "label": "csvEscape()",
+      "file_type": "code",
+      "source_file": "scripts/plan-missing-published-at-backfill.mjs",
+      "source_location": "L207",
+      "id": "scripts_plan_missing_published_at_backfill_csvescape",
+      "community": 9,
+      "norm_label": "csvescape()"
+    },
+    {
+      "label": "sqlEscape()",
+      "file_type": "code",
+      "source_file": "scripts/plan-missing-published-at-backfill.mjs",
+      "source_location": "L211",
+      "id": "scripts_plan_missing_published_at_backfill_sqlescape",
+      "community": 9,
+      "norm_label": "sqlescape()"
+    },
+    {
+      "label": "hashString()",
+      "file_type": "code",
+      "source_file": "scripts/plan-missing-published-at-backfill.mjs",
+      "source_location": "L215",
+      "id": "scripts_plan_missing_published_at_backfill_hashstring",
+      "community": 9,
+      "norm_label": "hashstring()"
+    },
+    {
+      "label": "classify()",
+      "file_type": "code",
+      "source_file": "scripts/plan-missing-published-at-backfill.mjs",
+      "source_location": "L224",
+      "id": "scripts_plan_missing_published_at_backfill_classify",
+      "community": 9,
+      "norm_label": "classify()"
+    },
+    {
+      "label": "randomTimestamp()",
+      "file_type": "code",
+      "source_file": "scripts/plan-missing-published-at-backfill.mjs",
+      "source_location": "L235",
+      "id": "scripts_plan_missing_published_at_backfill_randomtimestamp",
+      "community": 9,
+      "norm_label": "randomtimestamp()"
+    },
+    {
+      "label": "iso()",
+      "file_type": "code",
+      "source_file": "scripts/plan-missing-published-at-backfill.mjs",
+      "source_location": "L242",
+      "id": "scripts_plan_missing_published_at_backfill_iso",
+      "community": 9,
+      "norm_label": "iso()"
+    },
+    {
+      "label": "migrate-wodedata-from-jekyll.mjs",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L1",
+      "id": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "community": 0,
+      "norm_label": "migrate-wodedata-from-jekyll.mjs"
+    },
+    {
+      "label": "parseArgs()",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L14",
+      "id": "scripts_migrate_wodedata_from_jekyll_parseargs",
+      "community": 0,
+      "norm_label": "parseargs()"
+    },
+    {
+      "label": "walkFiles()",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L31",
+      "id": "scripts_migrate_wodedata_from_jekyll_walkfiles",
+      "community": 0,
+      "norm_label": "walkfiles()"
+    },
+    {
+      "label": "toRelative()",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L51",
+      "id": "scripts_migrate_wodedata_from_jekyll_torelative",
+      "community": 0,
+      "norm_label": "torelative()"
+    },
+    {
+      "label": "isInterestingFile()",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L55",
+      "id": "scripts_migrate_wodedata_from_jekyll_isinterestingfile",
+      "community": 0,
+      "norm_label": "isinterestingfile()"
+    },
+    {
+      "label": "classify()",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L69",
+      "id": "scripts_migrate_wodedata_from_jekyll_classify",
+      "community": 0,
+      "norm_label": "classify()"
+    },
+    {
+      "label": "stripQuotes()",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L109",
+      "id": "scripts_migrate_wodedata_from_jekyll_stripquotes",
+      "community": 0,
+      "norm_label": "stripquotes()"
+    },
+    {
+      "label": "parseScalar()",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L113",
+      "id": "scripts_migrate_wodedata_from_jekyll_parsescalar",
+      "community": 0,
+      "norm_label": "parsescalar()"
+    },
+    {
+      "label": "parseFrontMatter()",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L134",
+      "id": "scripts_migrate_wodedata_from_jekyll_parsefrontmatter",
+      "community": 0,
+      "norm_label": "parsefrontmatter()"
+    },
+    {
+      "label": "nowUnix()",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L192",
+      "id": "scripts_migrate_wodedata_from_jekyll_nowunix",
+      "community": 0,
+      "norm_label": "nowunix()"
+    },
+    {
+      "label": "toId()",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L196",
+      "id": "scripts_migrate_wodedata_from_jekyll_toid",
+      "community": 0,
+      "norm_label": "toid()"
+    },
+    {
+      "label": "normalizeRoutePath()",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L200",
+      "id": "scripts_migrate_wodedata_from_jekyll_normalizeroutepath",
+      "community": 0,
+      "norm_label": "normalizeroutepath()"
+    },
+    {
+      "label": "slugFromRelativePath()",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L210",
+      "id": "scripts_migrate_wodedata_from_jekyll_slugfromrelativepath",
+      "community": 0,
+      "norm_label": "slugfromrelativepath()"
+    },
+    {
+      "label": "escapeSql()",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L216",
+      "id": "scripts_migrate_wodedata_from_jekyll_escapesql",
+      "community": 0,
+      "norm_label": "escapesql()"
+    },
+    {
+      "label": "normalizeWonderkibodLegacyUrl()",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L220",
+      "id": "scripts_migrate_wodedata_from_jekyll_normalizewonderkibodlegacyurl",
+      "community": 0,
+      "norm_label": "normalizewonderkibodlegacyurl()"
+    },
+    {
+      "label": "parseLegacyConfig()",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L226",
+      "id": "scripts_migrate_wodedata_from_jekyll_parselegacyconfig",
+      "community": 0,
+      "norm_label": "parselegacyconfig()"
+    },
+    {
+      "label": "readFrontModuleFiles()",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L275",
+      "id": "scripts_migrate_wodedata_from_jekyll_readfrontmodulefiles",
+      "community": 0,
+      "norm_label": "readfrontmodulefiles()"
+    },
+    {
+      "label": "buildImportData()",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L304",
+      "id": "scripts_migrate_wodedata_from_jekyll_buildimportdata",
+      "community": 0,
+      "norm_label": "buildimportdata()"
+    },
+    {
+      "label": "renderInsert()",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L440",
+      "id": "scripts_migrate_wodedata_from_jekyll_renderinsert",
+      "community": 0,
+      "norm_label": "renderinsert()"
+    },
+    {
+      "label": "renderImportSql()",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L470",
+      "id": "scripts_migrate_wodedata_from_jekyll_renderimportsql",
+      "community": 0,
+      "norm_label": "renderimportsql()"
+    },
+    {
+      "label": "syncStaticFiles()",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L528",
+      "id": "scripts_migrate_wodedata_from_jekyll_syncstaticfiles",
+      "community": 0,
+      "norm_label": "syncstaticfiles()"
+    },
+    {
+      "label": "buildInventory()",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L539",
+      "id": "scripts_migrate_wodedata_from_jekyll_buildinventory",
+      "community": 0,
+      "norm_label": "buildinventory()"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L575",
+      "id": "scripts_migrate_wodedata_from_jekyll_main",
+      "community": 0,
+      "norm_label": "main()"
+    },
+    {
+      "label": "sync-public-assets-to-github.mjs",
+      "file_type": "code",
+      "source_file": "scripts/sync-public-assets-to-github.mjs",
+      "source_location": "L1",
+      "id": "scripts_sync_public_assets_to_github_mjs",
+      "community": 7,
+      "norm_label": "sync-public-assets-to-github.mjs"
+    },
+    {
+      "label": "ensureRepo()",
+      "file_type": "code",
+      "source_file": "scripts/sync-public-assets-to-github.mjs",
+      "source_location": "L79",
+      "id": "scripts_sync_public_assets_to_github_ensurerepo",
+      "community": 7,
+      "norm_label": "ensurerepo()"
+    },
+    {
+      "label": "ensureBranch()",
+      "file_type": "code",
+      "source_file": "scripts/sync-public-assets-to-github.mjs",
+      "source_location": "L91",
+      "id": "scripts_sync_public_assets_to_github_ensurebranch",
+      "community": 7,
+      "norm_label": "ensurebranch()"
+    },
+    {
+      "label": "ensureGitIdentity()",
+      "file_type": "code",
+      "source_file": "scripts/sync-public-assets-to-github.mjs",
+      "source_location": "L95",
+      "id": "scripts_sync_public_assets_to_github_ensuregitidentity",
+      "community": 7,
+      "norm_label": "ensuregitidentity()"
+    },
+    {
+      "label": "hasStagedChanges()",
+      "file_type": "code",
+      "source_file": "scripts/sync-public-assets-to-github.mjs",
+      "source_location": "L100",
+      "id": "scripts_sync_public_assets_to_github_hasstagedchanges",
+      "community": 7,
+      "norm_label": "hasstagedchanges()"
+    },
+    {
+      "label": "collectPublicItems()",
+      "file_type": "code",
+      "source_file": "scripts/sync-public-assets-to-github.mjs",
+      "source_location": "L109",
+      "id": "scripts_sync_public_assets_to_github_collectpublicitems",
+      "community": 7,
+      "norm_label": "collectpublicitems()"
+    },
+    {
+      "label": "dedupeByKey()",
+      "file_type": "code",
+      "source_file": "scripts/sync-public-assets-to-github.mjs",
+      "source_location": "L135",
+      "id": "scripts_sync_public_assets_to_github_dedupebykey",
+      "community": 7,
+      "norm_label": "dedupebykey()"
+    },
+    {
+      "label": "syncOne()",
+      "file_type": "code",
+      "source_file": "scripts/sync-public-assets-to-github.mjs",
+      "source_location": "L147",
+      "id": "scripts_sync_public_assets_to_github_syncone",
+      "community": 7,
+      "norm_label": "syncone()"
+    },
+    {
+      "label": "runWithConcurrency()",
+      "file_type": "code",
+      "source_file": "scripts/sync-public-assets-to-github.mjs",
+      "source_location": "L183",
+      "id": "scripts_sync_public_assets_to_github_runwithconcurrency",
+      "community": 7,
+      "norm_label": "runwithconcurrency()"
+    },
+    {
+      "label": "writeFailuresReport()",
+      "file_type": "code",
+      "source_file": "scripts/sync-public-assets-to-github.mjs",
+      "source_location": "L196",
+      "id": "scripts_sync_public_assets_to_github_writefailuresreport",
+      "community": 7,
+      "norm_label": "writefailuresreport()"
+    },
+    {
+      "label": "build-public-data-indexes.mjs",
+      "file_type": "code",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L1",
+      "id": "scripts_build_public_data_indexes_mjs",
+      "community": 6,
+      "norm_label": "build-public-data-indexes.mjs"
+    },
+    {
+      "label": "encode()",
+      "file_type": "code",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L12",
+      "id": "scripts_build_public_data_indexes_encode",
+      "community": 6,
+      "norm_label": "encode()"
+    },
+    {
+      "label": "writeValue()",
+      "file_type": "code",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L18",
+      "id": "scripts_build_public_data_indexes_writevalue",
+      "community": 6,
+      "norm_label": "writevalue()"
+    },
+    {
+      "label": "writeInteger()",
+      "file_type": "code",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L42",
+      "id": "scripts_build_public_data_indexes_writeinteger",
+      "community": 6,
+      "norm_label": "writeinteger()"
+    },
+    {
+      "label": "writeString()",
+      "file_type": "code",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L72",
+      "id": "scripts_build_public_data_indexes_writestring",
+      "community": 6,
+      "norm_label": "writestring()"
+    },
+    {
+      "label": "writeArray()",
+      "file_type": "code",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L91",
+      "id": "scripts_build_public_data_indexes_writearray",
+      "community": 6,
+      "norm_label": "writearray()"
+    },
+    {
+      "label": "fileSize()",
+      "file_type": "code",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L108",
+      "id": "scripts_build_public_data_indexes_filesize",
+      "community": 6,
+      "norm_label": "filesize()"
+    },
+    {
+      "label": "normalizeString()",
+      "file_type": "code",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L116",
+      "id": "scripts_build_public_data_indexes_normalizestring",
+      "community": 6,
+      "norm_label": "normalizestring()"
+    },
+    {
+      "label": "normalizeArray()",
+      "file_type": "code",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L120",
+      "id": "scripts_build_public_data_indexes_normalizearray",
+      "community": 6,
+      "norm_label": "normalizearray()"
+    },
+    {
+      "label": "buildSearchIndex()",
+      "file_type": "code",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L124",
+      "id": "scripts_build_public_data_indexes_buildsearchindex",
+      "community": 6,
+      "norm_label": "buildsearchindex()"
+    },
+    {
+      "label": "truncateTitle()",
+      "file_type": "code",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L148",
+      "id": "scripts_build_public_data_indexes_truncatetitle",
+      "community": 6,
+      "norm_label": "truncatetitle()"
+    },
+    {
+      "label": "buildActivityCalendarIndex()",
+      "file_type": "code",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L153",
+      "id": "scripts_build_public_data_indexes_buildactivitycalendarindex",
+      "community": 6,
+      "norm_label": "buildactivitycalendarindex()"
+    },
+    {
+      "label": "build-public-static-assets.mjs",
+      "file_type": "code",
+      "source_file": "scripts/build-public-static-assets.mjs",
+      "source_location": "L1",
+      "id": "scripts_build_public_static_assets_mjs",
+      "community": 13,
+      "norm_label": "build-public-static-assets.mjs"
+    },
+    {
+      "label": "readAsset()",
+      "file_type": "code",
+      "source_file": "scripts/build-public-static-assets.mjs",
+      "source_location": "L23",
+      "id": "scripts_build_public_static_assets_readasset",
+      "community": 13,
+      "norm_label": "readasset()"
+    },
+    {
+      "label": "buildJs()",
+      "file_type": "code",
+      "source_file": "scripts/build-public-static-assets.mjs",
+      "source_location": "L27",
+      "id": "scripts_build_public_static_assets_buildjs",
+      "community": 13,
+      "norm_label": "buildjs()"
+    },
+    {
+      "label": "buildCss()",
+      "file_type": "code",
+      "source_file": "scripts/build-public-static-assets.mjs",
+      "source_location": "L37",
+      "id": "scripts_build_public_static_assets_buildcss",
+      "community": 13,
+      "norm_label": "buildcss()"
+    },
+    {
+      "label": "d1-canonical-backup.mjs",
+      "file_type": "code",
+      "source_file": "scripts/d1-canonical-backup.mjs",
+      "source_location": "L1",
+      "id": "scripts_d1_canonical_backup_mjs",
+      "community": 19,
+      "norm_label": "d1-canonical-backup.mjs"
+    },
+    {
+      "label": "runQuery()",
+      "file_type": "code",
+      "source_file": "scripts/d1-canonical-backup.mjs",
+      "source_location": "L28",
+      "id": "scripts_d1_canonical_backup_runquery",
+      "community": 19,
+      "norm_label": "runquery()"
+    },
+    {
+      "label": "build-public-asset-manifest.mjs",
+      "file_type": "code",
+      "source_file": "scripts/build-public-asset-manifest.mjs",
+      "source_location": "L1",
+      "id": "scripts_build_public_asset_manifest_mjs",
+      "community": 21,
+      "norm_label": "build-public-asset-manifest.mjs"
+    },
+    {
+      "label": "import-mywiki-to-d1.mjs",
+      "file_type": "code",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L1",
+      "id": "scripts_import_mywiki_to_d1_mjs",
+      "community": 3,
+      "norm_label": "import-mywiki-to-d1.mjs"
+    },
+    {
+      "label": "runQuery()",
+      "file_type": "code",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L15",
+      "id": "scripts_import_mywiki_to_d1_runquery",
+      "community": 3,
+      "norm_label": "runquery()"
+    },
+    {
+      "label": "executeSqlFile()",
+      "file_type": "code",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L31",
+      "id": "scripts_import_mywiki_to_d1_executesqlfile",
+      "community": 3,
+      "norm_label": "executesqlfile()"
+    },
+    {
+      "label": "listFiles()",
+      "file_type": "code",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L44",
+      "id": "scripts_import_mywiki_to_d1_listfiles",
+      "community": 3,
+      "norm_label": "listfiles()"
+    },
+    {
+      "label": "parseFrontmatter()",
+      "file_type": "code",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L63",
+      "id": "scripts_import_mywiki_to_d1_parsefrontmatter",
+      "community": 3,
+      "norm_label": "parsefrontmatter()"
+    },
+    {
+      "label": "sanitizeSlug()",
+      "file_type": "code",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L88",
+      "id": "scripts_import_mywiki_to_d1_sanitizeslug",
+      "community": 3,
+      "norm_label": "sanitizeslug()"
+    },
+    {
+      "label": "parseFileName()",
+      "file_type": "code",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L97",
+      "id": "scripts_import_mywiki_to_d1_parsefilename",
+      "community": 3,
+      "norm_label": "parsefilename()"
+    },
+    {
+      "label": "normalizeTerms()",
+      "file_type": "code",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L114",
+      "id": "scripts_import_mywiki_to_d1_normalizeterms",
+      "community": 3,
+      "norm_label": "normalizeterms()"
+    },
+    {
+      "label": "stripJekyllIncludes()",
+      "file_type": "code",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L127",
+      "id": "scripts_import_mywiki_to_d1_stripjekyllincludes",
+      "community": 3,
+      "norm_label": "stripjekyllincludes()"
+    },
+    {
+      "label": "stripMarkdownToText()",
+      "file_type": "code",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L135",
+      "id": "scripts_import_mywiki_to_d1_stripmarkdowntotext",
+      "community": 3,
+      "norm_label": "stripmarkdowntotext()"
+    },
+    {
+      "label": "deriveSummary()",
+      "file_type": "code",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L147",
+      "id": "scripts_import_mywiki_to_d1_derivesummary",
+      "community": 3,
+      "norm_label": "derivesummary()"
+    },
+    {
+      "label": "deriveMemoId()",
+      "file_type": "code",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L155",
+      "id": "scripts_import_mywiki_to_d1_derivememoid",
+      "community": 3,
+      "norm_label": "derivememoid()"
+    },
+    {
+      "label": "resolveSlug()",
+      "file_type": "code",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L164",
+      "id": "scripts_import_mywiki_to_d1_resolveslug",
+      "community": 3,
+      "norm_label": "resolveslug()"
+    },
+    {
+      "label": "sqlQuote()",
+      "file_type": "code",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L184",
+      "id": "scripts_import_mywiki_to_d1_sqlquote",
+      "community": 3,
+      "norm_label": "sqlquote()"
+    },
+    {
+      "label": "createRandomUuid()",
+      "file_type": "code",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L189",
+      "id": "scripts_import_mywiki_to_d1_createrandomuuid",
+      "community": 3,
+      "norm_label": "createrandomuuid()"
+    },
+    {
+      "label": "import-xusiyuan-to-d1.mjs",
+      "file_type": "code",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L1",
+      "id": "scripts_import_xusiyuan_to_d1_mjs",
+      "community": 4,
+      "norm_label": "import-xusiyuan-to-d1.mjs"
+    },
+    {
+      "label": "runQuery()",
+      "file_type": "code",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L16",
+      "id": "scripts_import_xusiyuan_to_d1_runquery",
+      "community": 4,
+      "norm_label": "runquery()"
+    },
+    {
+      "label": "executeSqlFile()",
+      "file_type": "code",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L32",
+      "id": "scripts_import_xusiyuan_to_d1_executesqlfile",
+      "community": 4,
+      "norm_label": "executesqlfile()"
+    },
+    {
+      "label": "listFiles()",
+      "file_type": "code",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L45",
+      "id": "scripts_import_xusiyuan_to_d1_listfiles",
+      "community": 4,
+      "norm_label": "listfiles()"
+    },
+    {
+      "label": "parseFrontmatter()",
+      "file_type": "code",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L59",
+      "id": "scripts_import_xusiyuan_to_d1_parsefrontmatter",
+      "community": 4,
+      "norm_label": "parsefrontmatter()"
+    },
+    {
+      "label": "sanitizeSlug()",
+      "file_type": "code",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L84",
+      "id": "scripts_import_xusiyuan_to_d1_sanitizeslug",
+      "community": 4,
+      "norm_label": "sanitizeslug()"
+    },
+    {
+      "label": "parseFileName()",
+      "file_type": "code",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L93",
+      "id": "scripts_import_xusiyuan_to_d1_parsefilename",
+      "community": 4,
+      "norm_label": "parsefilename()"
+    },
+    {
+      "label": "normalizeTerms()",
+      "file_type": "code",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L107",
+      "id": "scripts_import_xusiyuan_to_d1_normalizeterms",
+      "community": 4,
+      "norm_label": "normalizeterms()"
+    },
+    {
+      "label": "stripLeadingBodyDateLine()",
+      "file_type": "code",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L124",
+      "id": "scripts_import_xusiyuan_to_d1_stripleadingbodydateline",
+      "community": 4,
+      "norm_label": "stripleadingbodydateline()"
+    },
+    {
+      "label": "stripMarkdownToText()",
+      "file_type": "code",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L131",
+      "id": "scripts_import_xusiyuan_to_d1_stripmarkdowntotext",
+      "community": 4,
+      "norm_label": "stripmarkdowntotext()"
+    },
+    {
+      "label": "deriveSummary()",
+      "file_type": "code",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L144",
+      "id": "scripts_import_xusiyuan_to_d1_derivesummary",
+      "community": 4,
+      "norm_label": "derivesummary()"
+    },
+    {
+      "label": "deriveMemoId()",
+      "file_type": "code",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L152",
+      "id": "scripts_import_xusiyuan_to_d1_derivememoid",
+      "community": 4,
+      "norm_label": "derivememoid()"
+    },
+    {
+      "label": "resolveSlug()",
+      "file_type": "code",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L161",
+      "id": "scripts_import_xusiyuan_to_d1_resolveslug",
+      "community": 4,
+      "norm_label": "resolveslug()"
+    },
+    {
+      "label": "sqlQuote()",
+      "file_type": "code",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L181",
+      "id": "scripts_import_xusiyuan_to_d1_sqlquote",
+      "community": 4,
+      "norm_label": "sqlquote()"
+    },
+    {
+      "label": "chunkString()",
+      "file_type": "code",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L186",
+      "id": "scripts_import_xusiyuan_to_d1_chunkstring",
+      "community": 4,
+      "norm_label": "chunkstring()"
+    },
+    {
+      "label": "import-crawler-authors-to-d1.mjs",
+      "file_type": "code",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L1",
+      "id": "scripts_import_crawler_authors_to_d1_mjs",
+      "community": 2,
+      "norm_label": "import-crawler-authors-to-d1.mjs"
+    },
+    {
+      "label": "runQuery()",
+      "file_type": "code",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L15",
+      "id": "scripts_import_crawler_authors_to_d1_runquery",
+      "community": 2,
+      "norm_label": "runquery()"
+    },
+    {
+      "label": "executeSqlFile()",
+      "file_type": "code",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L31",
+      "id": "scripts_import_crawler_authors_to_d1_executesqlfile",
+      "community": 2,
+      "norm_label": "executesqlfile()"
+    },
+    {
+      "label": "listFiles()",
+      "file_type": "code",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L44",
+      "id": "scripts_import_crawler_authors_to_d1_listfiles",
+      "community": 2,
+      "norm_label": "listfiles()"
+    },
+    {
+      "label": "parseFrontmatter()",
+      "file_type": "code",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L63",
+      "id": "scripts_import_crawler_authors_to_d1_parsefrontmatter",
+      "community": 2,
+      "norm_label": "parsefrontmatter()"
+    },
+    {
+      "label": "sanitizeSlug()",
+      "file_type": "code",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L88",
+      "id": "scripts_import_crawler_authors_to_d1_sanitizeslug",
+      "community": 2,
+      "norm_label": "sanitizeslug()"
+    },
+    {
+      "label": "parseFileName()",
+      "file_type": "code",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L97",
+      "id": "scripts_import_crawler_authors_to_d1_parsefilename",
+      "community": 2,
+      "norm_label": "parsefilename()"
+    },
+    {
+      "label": "normalizeTerms()",
+      "file_type": "code",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L111",
+      "id": "scripts_import_crawler_authors_to_d1_normalizeterms",
+      "community": 2,
+      "norm_label": "normalizeterms()"
+    },
+    {
+      "label": "stripJekyllIncludes()",
+      "file_type": "code",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L128",
+      "id": "scripts_import_crawler_authors_to_d1_stripjekyllincludes",
+      "community": 2,
+      "norm_label": "stripjekyllincludes()"
+    },
+    {
+      "label": "stripLeadingBodyDateLine()",
+      "file_type": "code",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L136",
+      "id": "scripts_import_crawler_authors_to_d1_stripleadingbodydateline",
+      "community": 2,
+      "norm_label": "stripleadingbodydateline()"
+    },
+    {
+      "label": "stripMarkdownToText()",
+      "file_type": "code",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L143",
+      "id": "scripts_import_crawler_authors_to_d1_stripmarkdowntotext",
+      "community": 2,
+      "norm_label": "stripmarkdowntotext()"
+    },
+    {
+      "label": "deriveSummary()",
+      "file_type": "code",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L156",
+      "id": "scripts_import_crawler_authors_to_d1_derivesummary",
+      "community": 2,
+      "norm_label": "derivesummary()"
+    },
+    {
+      "label": "deriveMemoId()",
+      "file_type": "code",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L164",
+      "id": "scripts_import_crawler_authors_to_d1_derivememoid",
+      "community": 2,
+      "norm_label": "derivememoid()"
+    },
+    {
+      "label": "resolveSlug()",
+      "file_type": "code",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L173",
+      "id": "scripts_import_crawler_authors_to_d1_resolveslug",
+      "community": 2,
+      "norm_label": "resolveslug()"
+    },
+    {
+      "label": "sqlQuote()",
+      "file_type": "code",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L193",
+      "id": "scripts_import_crawler_authors_to_d1_sqlquote",
+      "community": 2,
+      "norm_label": "sqlquote()"
+    },
+    {
+      "label": "chunkString()",
+      "file_type": "code",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L198",
+      "id": "scripts_import_crawler_authors_to_d1_chunkstring",
+      "community": 2,
+      "norm_label": "chunkstring()"
+    },
+    {
+      "label": "deriveSourceSite()",
+      "file_type": "code",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L208",
+      "id": "scripts_import_crawler_authors_to_d1_derivesourcesite",
+      "community": 2,
+      "norm_label": "derivesourcesite()"
+    },
+    {
+      "label": "index.ts",
+      "file_type": "code",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L1",
+      "id": "packages_wodedata_exporter_src_index_ts",
+      "community": 8,
+      "norm_label": "index.ts"
+    },
+    {
+      "label": "writeJson()",
+      "file_type": "code",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L114",
+      "id": "src_index_writejson",
+      "community": 8,
+      "norm_label": "writejson()"
+    },
+    {
+      "label": "runPnpmExec()",
+      "file_type": "code",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L118",
+      "id": "src_index_runpnpmexec",
+      "community": 8,
+      "norm_label": "runpnpmexec()"
+    },
+    {
+      "label": "queryRemote()",
+      "file_type": "code",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L135",
+      "id": "src_index_queryremote",
+      "community": 8,
+      "norm_label": "queryremote()"
+    },
+    {
+      "label": "mapSiteConfig()",
+      "file_type": "code",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L148",
+      "id": "src_index_mapsiteconfig",
+      "community": 8,
+      "norm_label": "mapsiteconfig()"
+    },
+    {
+      "label": "loadFromFallbackJson()",
+      "file_type": "code",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L269",
+      "id": "src_index_loadfromfallbackjson",
+      "community": 8,
+      "norm_label": "loadfromfallbackjson()"
+    },
+    {
+      "label": "loadFromD1()",
+      "file_type": "code",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L317",
+      "id": "src_index_loadfromd1",
+      "community": 8,
+      "norm_label": "loadfromd1()"
+    },
+    {
+      "label": "loadExportData()",
+      "file_type": "code",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L416",
+      "id": "src_index_loadexportdata",
+      "community": 8,
+      "norm_label": "loadexportdata()"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L424",
+      "id": "src_index_main",
+      "community": 8,
+      "norm_label": "main()"
+    },
+    {
+      "label": "index.ts",
+      "file_type": "code",
+      "source_file": "packages/wodedata-schema/src/index.ts",
+      "source_location": "L1",
+      "id": "packages_wodedata_schema_src_index_ts",
+      "community": 22,
+      "norm_label": "index.ts"
+    },
+    {
+      "label": "astro.config.mjs",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/astro.config.mjs",
+      "source_location": "L1",
+      "id": "apps_wodedata_site_astro_config_mjs",
+      "community": 23,
+      "norm_label": "astro.config.mjs"
+    },
+    {
+      "label": "urls.ts",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/urls.ts",
+      "source_location": "L1",
+      "id": "apps_wodedata_site_src_lib_urls_ts",
+      "community": 16,
+      "norm_label": "urls.ts"
+    },
+    {
+      "label": "withBase()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/urls.ts",
+      "source_location": "L3",
+      "id": "lib_urls_withbase",
+      "community": 16,
+      "norm_label": "withbase()"
+    },
+    {
+      "label": "toAbsoluteUrl()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/urls.ts",
+      "source_location": "L29",
+      "id": "lib_urls_toabsoluteurl",
+      "community": 16,
+      "norm_label": "toabsoluteurl()"
+    },
+    {
+      "label": "content.ts",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L1",
+      "id": "apps_wodedata_site_src_lib_content_ts",
+      "community": 1,
+      "norm_label": "content.ts"
+    },
+    {
+      "label": "escapeHtml()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L1",
+      "id": "lib_content_escapehtml",
+      "community": 1,
+      "norm_label": "escapehtml()"
+    },
+    {
+      "label": "renderInlineMarkdown()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L63",
+      "id": "lib_content_renderinlinemarkdown",
+      "community": 1,
+      "norm_label": "renderinlinemarkdown()"
+    },
+    {
+      "label": "renderMarkdownLite()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L86",
+      "id": "lib_content_rendermarkdownlite",
+      "community": 1,
+      "norm_label": "rendermarkdownlite()"
+    },
+    {
+      "label": "formatUnixDate()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L207",
+      "id": "lib_content_formatunixdate",
+      "community": 1,
+      "norm_label": "formatunixdate()"
+    },
+    {
+      "label": "replaceLegacyVariables()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L216",
+      "id": "lib_content_replacelegacyvariables",
+      "community": 1,
+      "norm_label": "replacelegacyvariables()"
+    },
+    {
+      "label": "decodeHtml()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L236",
+      "id": "lib_content_decodehtml",
+      "community": 1,
+      "norm_label": "decodehtml()"
+    },
+    {
+      "label": "stripGoogleAdsSnippets()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L246",
+      "id": "lib_content_stripgoogleadssnippets",
+      "community": 1,
+      "norm_label": "stripgoogleadssnippets()"
+    },
+    {
+      "label": "stripHtml()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L254",
+      "id": "lib_content_striphtml",
+      "community": 1,
+      "norm_label": "striphtml()"
+    },
+    {
+      "label": "stripMarkdown()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L258",
+      "id": "lib_content_stripmarkdown",
+      "community": 1,
+      "norm_label": "stripmarkdown()"
+    },
+    {
+      "label": "excerptMarkdown()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L275",
+      "id": "lib_content_excerptmarkdown",
+      "community": 1,
+      "norm_label": "excerptmarkdown()"
+    },
+    {
+      "label": "extractLegacyHero()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L284",
+      "id": "lib_content_extractlegacyhero",
+      "community": 1,
+      "norm_label": "extractlegacyhero()"
+    },
+    {
+      "label": "extractLegacySectionSummary()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L294",
+      "id": "lib_content_extractlegacysectionsummary",
+      "community": 1,
+      "norm_label": "extractlegacysectionsummary()"
+    },
+    {
+      "label": "extractLegacyServiceItems()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L311",
+      "id": "lib_content_extractlegacyserviceitems",
+      "community": 1,
+      "norm_label": "extractlegacyserviceitems()"
+    },
+    {
+      "label": "extractLegacyPortfolioItems()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L320",
+      "id": "lib_content_extractlegacyportfolioitems",
+      "community": 1,
+      "norm_label": "extractlegacyportfolioitems()"
+    },
+    {
+      "label": "extractLegacyContactItems()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L330",
+      "id": "lib_content_extractlegacycontactitems",
+      "community": 1,
+      "norm_label": "extractlegacycontactitems()"
+    },
+    {
+      "label": "extractLegacyNavItems()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L340",
+      "id": "lib_content_extractlegacynavitems",
+      "community": 1,
+      "norm_label": "extractlegacynavitems()"
+    },
+    {
+      "label": "extractLegacyAnchorLinks()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L351",
+      "id": "lib_content_extractlegacyanchorlinks",
+      "community": 1,
+      "norm_label": "extractlegacyanchorlinks()"
+    },
+    {
+      "label": "extractLegacyParagraphs()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L372",
+      "id": "lib_content_extractlegacyparagraphs",
+      "community": 1,
+      "norm_label": "extractlegacyparagraphs()"
+    },
+    {
+      "label": "extractLegacyMediaItems()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L379",
+      "id": "lib_content_extractlegacymediaitems",
+      "community": 1,
+      "norm_label": "extractlegacymediaitems()"
+    },
+    {
+      "label": "extractLegacyShortcutCards()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L394",
+      "id": "lib_content_extractlegacyshortcutcards",
+      "community": 1,
+      "norm_label": "extractlegacyshortcutcards()"
+    },
+    {
+      "label": "renderLegacyHtmlFragment()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L406",
+      "id": "lib_content_renderlegacyhtmlfragment",
+      "community": 1,
+      "norm_label": "renderlegacyhtmlfragment()"
+    },
+    {
+      "label": "extractHtmlSectionsByHeading()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L420",
+      "id": "lib_content_extracthtmlsectionsbyheading",
+      "community": 1,
+      "norm_label": "extracthtmlsectionsbyheading()"
+    },
+    {
+      "label": "apple-itunes-app.ts",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/apple-itunes-app.ts",
+      "source_location": "L1",
+      "id": "apps_wodedata_site_src_lib_apple_itunes_app_ts",
+      "community": 14,
+      "norm_label": "apple-itunes-app.ts"
+    },
+    {
+      "label": "resolveWodedataAppleAppId()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/apple-itunes-app.ts",
+      "source_location": "L16",
+      "id": "lib_apple_itunes_app_resolvewodedataappleappid",
+      "community": 14,
+      "norm_label": "resolvewodedataappleappid()"
+    },
+    {
+      "label": "buildWodedataAppleAppArgument()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/apple-itunes-app.ts",
+      "source_location": "L20",
+      "id": "lib_apple_itunes_app_buildwodedataappleappargument",
+      "community": 14,
+      "norm_label": "buildwodedataappleappargument()"
+    },
+    {
+      "label": "buildWodedataAppleItunesAppContent()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/apple-itunes-app.ts",
+      "source_location": "L26",
+      "id": "lib_apple_itunes_app_buildwodedataappleitunesappcontent",
+      "community": 14,
+      "norm_label": "buildwodedataappleitunesappcontent()"
+    },
+    {
+      "label": "app-page-routing.ts",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/app-page-routing.ts",
+      "source_location": "L1",
+      "id": "apps_wodedata_site_src_lib_app_page_routing_ts",
+      "community": 17,
+      "norm_label": "app-page-routing.ts"
+    },
+    {
+      "label": "isTutorialAppPage()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/app-page-routing.ts",
+      "source_location": "L14",
+      "id": "lib_app_page_routing_istutorialapppage",
+      "community": 17,
+      "norm_label": "istutorialapppage()"
+    },
+    {
+      "label": "classifyAppPageKind()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/app-page-routing.ts",
+      "source_location": "L18",
+      "id": "lib_app_page_routing_classifyapppagekind",
+      "community": 17,
+      "norm_label": "classifyapppagekind()"
+    },
+    {
+      "label": "site-modules.ts",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/site-modules.ts",
+      "source_location": "L1",
+      "id": "apps_wodedata_site_src_lib_site_modules_ts",
+      "community": 20,
+      "norm_label": "site-modules.ts"
+    },
+    {
+      "label": "readModuleRichTextHtml()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/lib/site-modules.ts",
+      "source_location": "L1",
+      "id": "lib_site_modules_readmodulerichtexthtml",
+      "community": 20,
+      "norm_label": "readmodulerichtexthtml()"
+    },
+    {
+      "label": "podcast.xml.ts",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/pages/podcast.xml.ts",
+      "source_location": "L1",
+      "id": "apps_wodedata_site_src_pages_podcast_xml_ts",
+      "community": 12,
+      "norm_label": "podcast.xml.ts"
+    },
+    {
+      "label": "escapeXml()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/pages/podcast.xml.ts",
+      "source_location": "L41",
+      "id": "pages_podcast_xml_escapexml",
+      "community": 12,
+      "norm_label": "escapexml()"
+    },
+    {
+      "label": "stripMarkdown()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/pages/podcast.xml.ts",
+      "source_location": "L50",
+      "id": "pages_podcast_xml_stripmarkdown",
+      "community": 12,
+      "norm_label": "stripmarkdown()"
+    },
+    {
+      "label": "toRfc2822()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/pages/podcast.xml.ts",
+      "source_location": "L61",
+      "id": "pages_podcast_xml_torfc2822",
+      "community": 12,
+      "norm_label": "torfc2822()"
+    },
+    {
+      "label": "GET()",
+      "file_type": "code",
+      "source_file": "apps/wodedata-site/src/pages/podcast.xml.ts",
+      "source_location": "L69",
+      "id": "pages_podcast_xml_get",
+      "community": 12,
+      "norm_label": "get()"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/d1-canonical-restore.mjs",
+      "source_location": "L58",
+      "weight": 1.0,
+      "source": "scripts_d1_canonical_restore_mjs",
+      "target": "scripts_d1_canonical_restore_tosqlvalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/sync-lsky-assets-to-r2.mjs",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "scripts_sync_lsky_assets_to_r2_mjs",
+      "target": "scripts_sync_lsky_assets_to_r2_worker",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/sync-lsky-assets-to-r2.mjs",
+      "source_location": "L98",
+      "weight": 1.0,
+      "source": "scripts_sync_lsky_assets_to_r2_mjs",
+      "target": "scripts_sync_lsky_assets_to_r2_syncone",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/sync-lsky-assets-to-r2.mjs",
+      "source_location": "L126",
+      "weight": 1.0,
+      "source": "scripts_sync_lsky_assets_to_r2_mjs",
+      "target": "scripts_sync_lsky_assets_to_r2_retry",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/sync-lsky-assets-to-r2.mjs",
+      "source_location": "L148",
+      "weight": 1.0,
+      "source": "scripts_sync_lsky_assets_to_r2_mjs",
+      "target": "scripts_sync_lsky_assets_to_r2_sleep",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/sync-lsky-assets-to-r2.mjs",
+      "source_location": "L152",
+      "weight": 1.0,
+      "source": "scripts_sync_lsky_assets_to_r2_mjs",
+      "target": "scripts_sync_lsky_assets_to_r2_readstate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/sync-lsky-assets-to-r2.mjs",
+      "source_location": "L163",
+      "weight": 1.0,
+      "source": "scripts_sync_lsky_assets_to_r2_mjs",
+      "target": "scripts_sync_lsky_assets_to_r2_writestate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/sync-lsky-assets-to-r2.mjs",
+      "source_location": "L56",
+      "weight": 1.0,
+      "source": "scripts_sync_lsky_assets_to_r2_worker",
+      "target": "scripts_sync_lsky_assets_to_r2_syncone",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/sync-lsky-assets-to-r2.mjs",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "scripts_sync_lsky_assets_to_r2_worker",
+      "target": "scripts_sync_lsky_assets_to_r2_writestate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/sync-lsky-assets-to-r2.mjs",
+      "source_location": "L105",
+      "weight": 1.0,
+      "source": "scripts_sync_lsky_assets_to_r2_syncone",
+      "target": "scripts_sync_lsky_assets_to_r2_retry",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/sync-lsky-assets-to-r2.mjs",
+      "source_location": "L141",
+      "weight": 1.0,
+      "source": "scripts_sync_lsky_assets_to_r2_retry",
+      "target": "scripts_sync_lsky_assets_to_r2_sleep",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "scripts_import_list_to_d1_mjs",
+      "target": "scripts_import_list_to_d1_runquery",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "scripts_import_list_to_d1_mjs",
+      "target": "scripts_import_list_to_d1_executesqlfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "scripts_import_list_to_d1_mjs",
+      "target": "scripts_import_list_to_d1_listfiles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "scripts_import_list_to_d1_mjs",
+      "target": "scripts_import_list_to_d1_parsefrontmatter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L89",
+      "weight": 1.0,
+      "source": "scripts_import_list_to_d1_mjs",
+      "target": "scripts_import_list_to_d1_sanitizeslug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L98",
+      "weight": 1.0,
+      "source": "scripts_import_list_to_d1_mjs",
+      "target": "scripts_import_list_to_d1_parsefilename",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L115",
+      "weight": 1.0,
+      "source": "scripts_import_list_to_d1_mjs",
+      "target": "scripts_import_list_to_d1_normalizeterms",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L132",
+      "weight": 1.0,
+      "source": "scripts_import_list_to_d1_mjs",
+      "target": "scripts_import_list_to_d1_stripjekyllincludes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L140",
+      "weight": 1.0,
+      "source": "scripts_import_list_to_d1_mjs",
+      "target": "scripts_import_list_to_d1_stripmarkdowntotext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L152",
+      "weight": 1.0,
+      "source": "scripts_import_list_to_d1_mjs",
+      "target": "scripts_import_list_to_d1_derivesummary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L160",
+      "weight": 1.0,
+      "source": "scripts_import_list_to_d1_mjs",
+      "target": "scripts_import_list_to_d1_derivememoid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L169",
+      "weight": 1.0,
+      "source": "scripts_import_list_to_d1_mjs",
+      "target": "scripts_import_list_to_d1_resolveslug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L189",
+      "weight": 1.0,
+      "source": "scripts_import_list_to_d1_mjs",
+      "target": "scripts_import_list_to_d1_sqlquote",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L111",
+      "weight": 1.0,
+      "source": "scripts_import_list_to_d1_parsefilename",
+      "target": "scripts_import_list_to_d1_sanitizeslug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-list-to-d1.mjs",
+      "source_location": "L157",
+      "weight": 1.0,
+      "source": "scripts_import_list_to_d1_derivesummary",
+      "target": "scripts_import_list_to_d1_stripmarkdowntotext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/rewrite-lsky-prefix.mjs",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "scripts_rewrite_lsky_prefix_mjs",
+      "target": "scripts_rewrite_lsky_prefix_sqlstring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/rewrite-lsky-prefix.mjs",
+      "source_location": "L103",
+      "weight": 1.0,
+      "source": "scripts_rewrite_lsky_prefix_mjs",
+      "target": "scripts_rewrite_lsky_prefix_runquery",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/rewrite-lsky-prefix.mjs",
+      "source_location": "L118",
+      "weight": 1.0,
+      "source": "scripts_rewrite_lsky_prefix_mjs",
+      "target": "scripts_rewrite_lsky_prefix_rewritemarkdownurls",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/rewrite-lsky-prefix.mjs",
+      "source_location": "L129",
+      "weight": 1.0,
+      "source": "scripts_rewrite_lsky_prefix_mjs",
+      "target": "scripts_rewrite_lsky_prefix_readoptionaljson",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/scan-lsky-assets.mjs",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "scripts_scan_lsky_assets_mjs",
+      "target": "scripts_scan_lsky_assets_runquery",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/scan-lsky-assets.mjs",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "scripts_scan_lsky_assets_mjs",
+      "target": "scripts_scan_lsky_assets_extracturls",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/plan-missing-published-at-backfill.mjs",
+      "source_location": "L163",
+      "weight": 1.0,
+      "source": "scripts_plan_missing_published_at_backfill_mjs",
+      "target": "scripts_plan_missing_published_at_backfill_parsecsv",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/plan-missing-published-at-backfill.mjs",
+      "source_location": "L207",
+      "weight": 1.0,
+      "source": "scripts_plan_missing_published_at_backfill_mjs",
+      "target": "scripts_plan_missing_published_at_backfill_csvescape",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/plan-missing-published-at-backfill.mjs",
+      "source_location": "L211",
+      "weight": 1.0,
+      "source": "scripts_plan_missing_published_at_backfill_mjs",
+      "target": "scripts_plan_missing_published_at_backfill_sqlescape",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/plan-missing-published-at-backfill.mjs",
+      "source_location": "L215",
+      "weight": 1.0,
+      "source": "scripts_plan_missing_published_at_backfill_mjs",
+      "target": "scripts_plan_missing_published_at_backfill_hashstring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/plan-missing-published-at-backfill.mjs",
+      "source_location": "L224",
+      "weight": 1.0,
+      "source": "scripts_plan_missing_published_at_backfill_mjs",
+      "target": "scripts_plan_missing_published_at_backfill_classify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/plan-missing-published-at-backfill.mjs",
+      "source_location": "L235",
+      "weight": 1.0,
+      "source": "scripts_plan_missing_published_at_backfill_mjs",
+      "target": "scripts_plan_missing_published_at_backfill_randomtimestamp",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/plan-missing-published-at-backfill.mjs",
+      "source_location": "L242",
+      "weight": 1.0,
+      "source": "scripts_plan_missing_published_at_backfill_mjs",
+      "target": "scripts_plan_missing_published_at_backfill_iso",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/plan-missing-published-at-backfill.mjs",
+      "source_location": "L238",
+      "weight": 1.0,
+      "source": "scripts_plan_missing_published_at_backfill_randomtimestamp",
+      "target": "scripts_plan_missing_published_at_backfill_hashstring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "target": "scripts_migrate_wodedata_from_jekyll_parseargs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "target": "scripts_migrate_wodedata_from_jekyll_walkfiles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L51",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "target": "scripts_migrate_wodedata_from_jekyll_torelative",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "target": "scripts_migrate_wodedata_from_jekyll_isinterestingfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L69",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "target": "scripts_migrate_wodedata_from_jekyll_classify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L109",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "target": "scripts_migrate_wodedata_from_jekyll_stripquotes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L113",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "target": "scripts_migrate_wodedata_from_jekyll_parsescalar",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L134",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "target": "scripts_migrate_wodedata_from_jekyll_parsefrontmatter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L192",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "target": "scripts_migrate_wodedata_from_jekyll_nowunix",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L196",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "target": "scripts_migrate_wodedata_from_jekyll_toid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L200",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "target": "scripts_migrate_wodedata_from_jekyll_normalizeroutepath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L210",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "target": "scripts_migrate_wodedata_from_jekyll_slugfromrelativepath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L216",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "target": "scripts_migrate_wodedata_from_jekyll_escapesql",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L220",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "target": "scripts_migrate_wodedata_from_jekyll_normalizewonderkibodlegacyurl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L226",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "target": "scripts_migrate_wodedata_from_jekyll_parselegacyconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L275",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "target": "scripts_migrate_wodedata_from_jekyll_readfrontmodulefiles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L304",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "target": "scripts_migrate_wodedata_from_jekyll_buildimportdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L440",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "target": "scripts_migrate_wodedata_from_jekyll_renderinsert",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L470",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "target": "scripts_migrate_wodedata_from_jekyll_renderimportsql",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L528",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "target": "scripts_migrate_wodedata_from_jekyll_syncstaticfiles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L539",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "target": "scripts_migrate_wodedata_from_jekyll_buildinventory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L575",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_mjs",
+      "target": "scripts_migrate_wodedata_from_jekyll_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L576",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_main",
+      "target": "scripts_migrate_wodedata_from_jekyll_parseargs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L277",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_readfrontmodulefiles",
+      "target": "scripts_migrate_wodedata_from_jekyll_walkfiles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L324",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_buildimportdata",
+      "target": "scripts_migrate_wodedata_from_jekyll_walkfiles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L540",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_buildinventory",
+      "target": "scripts_migrate_wodedata_from_jekyll_walkfiles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L552",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_buildinventory",
+      "target": "scripts_migrate_wodedata_from_jekyll_classify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L131",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_parsescalar",
+      "target": "scripts_migrate_wodedata_from_jekyll_stripquotes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L165",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_parsefrontmatter",
+      "target": "scripts_migrate_wodedata_from_jekyll_parsescalar",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L357",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_buildimportdata",
+      "target": "scripts_migrate_wodedata_from_jekyll_parsefrontmatter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L319",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_buildimportdata",
+      "target": "scripts_migrate_wodedata_from_jekyll_nowunix",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L370",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_buildimportdata",
+      "target": "scripts_migrate_wodedata_from_jekyll_toid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L358",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_buildimportdata",
+      "target": "scripts_migrate_wodedata_from_jekyll_normalizeroutepath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L359",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_buildimportdata",
+      "target": "scripts_migrate_wodedata_from_jekyll_slugfromrelativepath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L255",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_parselegacyconfig",
+      "target": "scripts_migrate_wodedata_from_jekyll_normalizewonderkibodlegacyurl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L375",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_buildimportdata",
+      "target": "scripts_migrate_wodedata_from_jekyll_normalizewonderkibodlegacyurl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L311",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_buildimportdata",
+      "target": "scripts_migrate_wodedata_from_jekyll_parselegacyconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L323",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_buildimportdata",
+      "target": "scripts_migrate_wodedata_from_jekyll_readfrontmodulefiles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L587",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_main",
+      "target": "scripts_migrate_wodedata_from_jekyll_buildimportdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L474",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_renderimportsql",
+      "target": "scripts_migrate_wodedata_from_jekyll_renderinsert",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L590",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_main",
+      "target": "scripts_migrate_wodedata_from_jekyll_renderimportsql",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L591",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_main",
+      "target": "scripts_migrate_wodedata_from_jekyll_syncstaticfiles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/migrate-wodedata-from-jekyll.mjs",
+      "source_location": "L579",
+      "weight": 1.0,
+      "source": "scripts_migrate_wodedata_from_jekyll_main",
+      "target": "scripts_migrate_wodedata_from_jekyll_buildinventory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/sync-public-assets-to-github.mjs",
+      "source_location": "L79",
+      "weight": 1.0,
+      "source": "scripts_sync_public_assets_to_github_mjs",
+      "target": "scripts_sync_public_assets_to_github_ensurerepo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/sync-public-assets-to-github.mjs",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "scripts_sync_public_assets_to_github_mjs",
+      "target": "scripts_sync_public_assets_to_github_ensurebranch",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/sync-public-assets-to-github.mjs",
+      "source_location": "L95",
+      "weight": 1.0,
+      "source": "scripts_sync_public_assets_to_github_mjs",
+      "target": "scripts_sync_public_assets_to_github_ensuregitidentity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/sync-public-assets-to-github.mjs",
+      "source_location": "L100",
+      "weight": 1.0,
+      "source": "scripts_sync_public_assets_to_github_mjs",
+      "target": "scripts_sync_public_assets_to_github_hasstagedchanges",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/sync-public-assets-to-github.mjs",
+      "source_location": "L109",
+      "weight": 1.0,
+      "source": "scripts_sync_public_assets_to_github_mjs",
+      "target": "scripts_sync_public_assets_to_github_collectpublicitems",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/sync-public-assets-to-github.mjs",
+      "source_location": "L135",
+      "weight": 1.0,
+      "source": "scripts_sync_public_assets_to_github_mjs",
+      "target": "scripts_sync_public_assets_to_github_dedupebykey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/sync-public-assets-to-github.mjs",
+      "source_location": "L147",
+      "weight": 1.0,
+      "source": "scripts_sync_public_assets_to_github_mjs",
+      "target": "scripts_sync_public_assets_to_github_syncone",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/sync-public-assets-to-github.mjs",
+      "source_location": "L183",
+      "weight": 1.0,
+      "source": "scripts_sync_public_assets_to_github_mjs",
+      "target": "scripts_sync_public_assets_to_github_runwithconcurrency",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/sync-public-assets-to-github.mjs",
+      "source_location": "L196",
+      "weight": 1.0,
+      "source": "scripts_sync_public_assets_to_github_mjs",
+      "target": "scripts_sync_public_assets_to_github_writefailuresreport",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/sync-public-assets-to-github.mjs",
+      "source_location": "L114",
+      "weight": 1.0,
+      "source": "scripts_sync_public_assets_to_github_collectpublicitems",
+      "target": "scripts_sync_public_assets_to_github_dedupebykey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "scripts_build_public_data_indexes_mjs",
+      "target": "scripts_build_public_data_indexes_encode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "scripts_build_public_data_indexes_mjs",
+      "target": "scripts_build_public_data_indexes_writevalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "scripts_build_public_data_indexes_mjs",
+      "target": "scripts_build_public_data_indexes_writeinteger",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L72",
+      "weight": 1.0,
+      "source": "scripts_build_public_data_indexes_mjs",
+      "target": "scripts_build_public_data_indexes_writestring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "scripts_build_public_data_indexes_mjs",
+      "target": "scripts_build_public_data_indexes_writearray",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L108",
+      "weight": 1.0,
+      "source": "scripts_build_public_data_indexes_mjs",
+      "target": "scripts_build_public_data_indexes_filesize",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L116",
+      "weight": 1.0,
+      "source": "scripts_build_public_data_indexes_mjs",
+      "target": "scripts_build_public_data_indexes_normalizestring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L120",
+      "weight": 1.0,
+      "source": "scripts_build_public_data_indexes_mjs",
+      "target": "scripts_build_public_data_indexes_normalizearray",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L124",
+      "weight": 1.0,
+      "source": "scripts_build_public_data_indexes_mjs",
+      "target": "scripts_build_public_data_indexes_buildsearchindex",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L148",
+      "weight": 1.0,
+      "source": "scripts_build_public_data_indexes_mjs",
+      "target": "scripts_build_public_data_indexes_truncatetitle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L153",
+      "weight": 1.0,
+      "source": "scripts_build_public_data_indexes_mjs",
+      "target": "scripts_build_public_data_indexes_buildactivitycalendarindex",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "scripts_build_public_data_indexes_encode",
+      "target": "scripts_build_public_data_indexes_writevalue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L143",
+      "weight": 1.0,
+      "source": "scripts_build_public_data_indexes_buildsearchindex",
+      "target": "scripts_build_public_data_indexes_encode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L181",
+      "weight": 1.0,
+      "source": "scripts_build_public_data_indexes_buildactivitycalendarindex",
+      "target": "scripts_build_public_data_indexes_encode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "scripts_build_public_data_indexes_writevalue",
+      "target": "scripts_build_public_data_indexes_writeinteger",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "scripts_build_public_data_indexes_writevalue",
+      "target": "scripts_build_public_data_indexes_writestring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "scripts_build_public_data_indexes_writevalue",
+      "target": "scripts_build_public_data_indexes_writearray",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L149",
+      "weight": 1.0,
+      "source": "scripts_build_public_data_indexes_truncatetitle",
+      "target": "scripts_build_public_data_indexes_normalizestring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L160",
+      "weight": 1.0,
+      "source": "scripts_build_public_data_indexes_buildactivitycalendarindex",
+      "target": "scripts_build_public_data_indexes_normalizestring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-data-indexes.mjs",
+      "source_location": "L168",
+      "weight": 1.0,
+      "source": "scripts_build_public_data_indexes_buildactivitycalendarindex",
+      "target": "scripts_build_public_data_indexes_truncatetitle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-static-assets.mjs",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "scripts_build_public_static_assets_mjs",
+      "target": "scripts_build_public_static_assets_readasset",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-static-assets.mjs",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "scripts_build_public_static_assets_mjs",
+      "target": "scripts_build_public_static_assets_buildjs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build-public-static-assets.mjs",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "scripts_build_public_static_assets_mjs",
+      "target": "scripts_build_public_static_assets_buildcss",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/d1-canonical-backup.mjs",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "scripts_d1_canonical_backup_mjs",
+      "target": "scripts_d1_canonical_backup_runquery",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "scripts_import_mywiki_to_d1_mjs",
+      "target": "scripts_import_mywiki_to_d1_runquery",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "scripts_import_mywiki_to_d1_mjs",
+      "target": "scripts_import_mywiki_to_d1_executesqlfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "scripts_import_mywiki_to_d1_mjs",
+      "target": "scripts_import_mywiki_to_d1_listfiles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "scripts_import_mywiki_to_d1_mjs",
+      "target": "scripts_import_mywiki_to_d1_parsefrontmatter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L88",
+      "weight": 1.0,
+      "source": "scripts_import_mywiki_to_d1_mjs",
+      "target": "scripts_import_mywiki_to_d1_sanitizeslug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L97",
+      "weight": 1.0,
+      "source": "scripts_import_mywiki_to_d1_mjs",
+      "target": "scripts_import_mywiki_to_d1_parsefilename",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L114",
+      "weight": 1.0,
+      "source": "scripts_import_mywiki_to_d1_mjs",
+      "target": "scripts_import_mywiki_to_d1_normalizeterms",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L127",
+      "weight": 1.0,
+      "source": "scripts_import_mywiki_to_d1_mjs",
+      "target": "scripts_import_mywiki_to_d1_stripjekyllincludes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L135",
+      "weight": 1.0,
+      "source": "scripts_import_mywiki_to_d1_mjs",
+      "target": "scripts_import_mywiki_to_d1_stripmarkdowntotext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L147",
+      "weight": 1.0,
+      "source": "scripts_import_mywiki_to_d1_mjs",
+      "target": "scripts_import_mywiki_to_d1_derivesummary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L155",
+      "weight": 1.0,
+      "source": "scripts_import_mywiki_to_d1_mjs",
+      "target": "scripts_import_mywiki_to_d1_derivememoid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L164",
+      "weight": 1.0,
+      "source": "scripts_import_mywiki_to_d1_mjs",
+      "target": "scripts_import_mywiki_to_d1_resolveslug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L184",
+      "weight": 1.0,
+      "source": "scripts_import_mywiki_to_d1_mjs",
+      "target": "scripts_import_mywiki_to_d1_sqlquote",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L189",
+      "weight": 1.0,
+      "source": "scripts_import_mywiki_to_d1_mjs",
+      "target": "scripts_import_mywiki_to_d1_createrandomuuid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L110",
+      "weight": 1.0,
+      "source": "scripts_import_mywiki_to_d1_parsefilename",
+      "target": "scripts_import_mywiki_to_d1_sanitizeslug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-mywiki-to-d1.mjs",
+      "source_location": "L152",
+      "weight": 1.0,
+      "source": "scripts_import_mywiki_to_d1_derivesummary",
+      "target": "scripts_import_mywiki_to_d1_stripmarkdowntotext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "scripts_import_xusiyuan_to_d1_mjs",
+      "target": "scripts_import_xusiyuan_to_d1_runquery",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "scripts_import_xusiyuan_to_d1_mjs",
+      "target": "scripts_import_xusiyuan_to_d1_executesqlfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "scripts_import_xusiyuan_to_d1_mjs",
+      "target": "scripts_import_xusiyuan_to_d1_listfiles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "scripts_import_xusiyuan_to_d1_mjs",
+      "target": "scripts_import_xusiyuan_to_d1_parsefrontmatter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L84",
+      "weight": 1.0,
+      "source": "scripts_import_xusiyuan_to_d1_mjs",
+      "target": "scripts_import_xusiyuan_to_d1_sanitizeslug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L93",
+      "weight": 1.0,
+      "source": "scripts_import_xusiyuan_to_d1_mjs",
+      "target": "scripts_import_xusiyuan_to_d1_parsefilename",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L107",
+      "weight": 1.0,
+      "source": "scripts_import_xusiyuan_to_d1_mjs",
+      "target": "scripts_import_xusiyuan_to_d1_normalizeterms",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L124",
+      "weight": 1.0,
+      "source": "scripts_import_xusiyuan_to_d1_mjs",
+      "target": "scripts_import_xusiyuan_to_d1_stripleadingbodydateline",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L131",
+      "weight": 1.0,
+      "source": "scripts_import_xusiyuan_to_d1_mjs",
+      "target": "scripts_import_xusiyuan_to_d1_stripmarkdowntotext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L144",
+      "weight": 1.0,
+      "source": "scripts_import_xusiyuan_to_d1_mjs",
+      "target": "scripts_import_xusiyuan_to_d1_derivesummary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L152",
+      "weight": 1.0,
+      "source": "scripts_import_xusiyuan_to_d1_mjs",
+      "target": "scripts_import_xusiyuan_to_d1_derivememoid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L161",
+      "weight": 1.0,
+      "source": "scripts_import_xusiyuan_to_d1_mjs",
+      "target": "scripts_import_xusiyuan_to_d1_resolveslug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L181",
+      "weight": 1.0,
+      "source": "scripts_import_xusiyuan_to_d1_mjs",
+      "target": "scripts_import_xusiyuan_to_d1_sqlquote",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L186",
+      "weight": 1.0,
+      "source": "scripts_import_xusiyuan_to_d1_mjs",
+      "target": "scripts_import_xusiyuan_to_d1_chunkstring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L103",
+      "weight": 1.0,
+      "source": "scripts_import_xusiyuan_to_d1_parsefilename",
+      "target": "scripts_import_xusiyuan_to_d1_sanitizeslug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-xusiyuan-to-d1.mjs",
+      "source_location": "L149",
+      "weight": 1.0,
+      "source": "scripts_import_xusiyuan_to_d1_derivesummary",
+      "target": "scripts_import_xusiyuan_to_d1_stripmarkdowntotext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "scripts_import_crawler_authors_to_d1_mjs",
+      "target": "scripts_import_crawler_authors_to_d1_runquery",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "scripts_import_crawler_authors_to_d1_mjs",
+      "target": "scripts_import_crawler_authors_to_d1_executesqlfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "scripts_import_crawler_authors_to_d1_mjs",
+      "target": "scripts_import_crawler_authors_to_d1_listfiles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "scripts_import_crawler_authors_to_d1_mjs",
+      "target": "scripts_import_crawler_authors_to_d1_parsefrontmatter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L88",
+      "weight": 1.0,
+      "source": "scripts_import_crawler_authors_to_d1_mjs",
+      "target": "scripts_import_crawler_authors_to_d1_sanitizeslug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L97",
+      "weight": 1.0,
+      "source": "scripts_import_crawler_authors_to_d1_mjs",
+      "target": "scripts_import_crawler_authors_to_d1_parsefilename",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L111",
+      "weight": 1.0,
+      "source": "scripts_import_crawler_authors_to_d1_mjs",
+      "target": "scripts_import_crawler_authors_to_d1_normalizeterms",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L128",
+      "weight": 1.0,
+      "source": "scripts_import_crawler_authors_to_d1_mjs",
+      "target": "scripts_import_crawler_authors_to_d1_stripjekyllincludes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L136",
+      "weight": 1.0,
+      "source": "scripts_import_crawler_authors_to_d1_mjs",
+      "target": "scripts_import_crawler_authors_to_d1_stripleadingbodydateline",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L143",
+      "weight": 1.0,
+      "source": "scripts_import_crawler_authors_to_d1_mjs",
+      "target": "scripts_import_crawler_authors_to_d1_stripmarkdowntotext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L156",
+      "weight": 1.0,
+      "source": "scripts_import_crawler_authors_to_d1_mjs",
+      "target": "scripts_import_crawler_authors_to_d1_derivesummary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L164",
+      "weight": 1.0,
+      "source": "scripts_import_crawler_authors_to_d1_mjs",
+      "target": "scripts_import_crawler_authors_to_d1_derivememoid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L173",
+      "weight": 1.0,
+      "source": "scripts_import_crawler_authors_to_d1_mjs",
+      "target": "scripts_import_crawler_authors_to_d1_resolveslug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L193",
+      "weight": 1.0,
+      "source": "scripts_import_crawler_authors_to_d1_mjs",
+      "target": "scripts_import_crawler_authors_to_d1_sqlquote",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L198",
+      "weight": 1.0,
+      "source": "scripts_import_crawler_authors_to_d1_mjs",
+      "target": "scripts_import_crawler_authors_to_d1_chunkstring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L208",
+      "weight": 1.0,
+      "source": "scripts_import_crawler_authors_to_d1_mjs",
+      "target": "scripts_import_crawler_authors_to_d1_derivesourcesite",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L107",
+      "weight": 1.0,
+      "source": "scripts_import_crawler_authors_to_d1_parsefilename",
+      "target": "scripts_import_crawler_authors_to_d1_sanitizeslug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/import-crawler-authors-to-d1.mjs",
+      "source_location": "L161",
+      "weight": 1.0,
+      "source": "scripts_import_crawler_authors_to_d1_derivesummary",
+      "target": "scripts_import_crawler_authors_to_d1_stripmarkdowntotext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L114",
+      "weight": 1.0,
+      "source": "packages_wodedata_exporter_src_index_ts",
+      "target": "src_index_writejson",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L118",
+      "weight": 1.0,
+      "source": "packages_wodedata_exporter_src_index_ts",
+      "target": "src_index_runpnpmexec",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L135",
+      "weight": 1.0,
+      "source": "packages_wodedata_exporter_src_index_ts",
+      "target": "src_index_queryremote",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L148",
+      "weight": 1.0,
+      "source": "packages_wodedata_exporter_src_index_ts",
+      "target": "src_index_mapsiteconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L269",
+      "weight": 1.0,
+      "source": "packages_wodedata_exporter_src_index_ts",
+      "target": "src_index_loadfromfallbackjson",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L317",
+      "weight": 1.0,
+      "source": "packages_wodedata_exporter_src_index_ts",
+      "target": "src_index_loadfromd1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L416",
+      "weight": 1.0,
+      "source": "packages_wodedata_exporter_src_index_ts",
+      "target": "src_index_loadexportdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L424",
+      "weight": 1.0,
+      "source": "packages_wodedata_exporter_src_index_ts",
+      "target": "src_index_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L428",
+      "weight": 1.0,
+      "source": "src_index_main",
+      "target": "src_index_writejson",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L142",
+      "weight": 1.0,
+      "source": "src_index_queryremote",
+      "target": "src_index_runpnpmexec",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L274",
+      "weight": 1.0,
+      "source": "src_index_loadfromfallbackjson",
+      "target": "src_index_mapsiteconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L373",
+      "weight": 1.0,
+      "source": "src_index_loadfromd1",
+      "target": "src_index_mapsiteconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L421",
+      "weight": 1.0,
+      "source": "src_index_loadexportdata",
+      "target": "src_index_loadfromfallbackjson",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L418",
+      "weight": 1.0,
+      "source": "src_index_loadexportdata",
+      "target": "src_index_loadfromd1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "packages/wodedata-exporter/src/index.ts",
+      "source_location": "L425",
+      "weight": 1.0,
+      "source": "src_index_main",
+      "target": "src_index_loadexportdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/urls.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_urls_ts",
+      "target": "lib_urls_withbase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/urls.ts",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_urls_ts",
+      "target": "lib_urls_toabsoluteurl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_content_ts",
+      "target": "lib_content_escapehtml",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_content_ts",
+      "target": "lib_content_renderinlinemarkdown",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L86",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_content_ts",
+      "target": "lib_content_rendermarkdownlite",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L207",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_content_ts",
+      "target": "lib_content_formatunixdate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L216",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_content_ts",
+      "target": "lib_content_replacelegacyvariables",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L236",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_content_ts",
+      "target": "lib_content_decodehtml",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L246",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_content_ts",
+      "target": "lib_content_stripgoogleadssnippets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L254",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_content_ts",
+      "target": "lib_content_striphtml",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L258",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_content_ts",
+      "target": "lib_content_stripmarkdown",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L275",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_content_ts",
+      "target": "lib_content_excerptmarkdown",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L284",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_content_ts",
+      "target": "lib_content_extractlegacyhero",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L294",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_content_ts",
+      "target": "lib_content_extractlegacysectionsummary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L311",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_content_ts",
+      "target": "lib_content_extractlegacyserviceitems",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L320",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_content_ts",
+      "target": "lib_content_extractlegacyportfolioitems",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L330",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_content_ts",
+      "target": "lib_content_extractlegacycontactitems",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L340",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_content_ts",
+      "target": "lib_content_extractlegacynavitems",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L351",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_content_ts",
+      "target": "lib_content_extractlegacyanchorlinks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L372",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_content_ts",
+      "target": "lib_content_extractlegacyparagraphs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L379",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_content_ts",
+      "target": "lib_content_extractlegacymediaitems",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L394",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_content_ts",
+      "target": "lib_content_extractlegacyshortcutcards",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L406",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_content_ts",
+      "target": "lib_content_renderlegacyhtmlfragment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L420",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_content_ts",
+      "target": "lib_content_extracthtmlsectionsbyheading",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L72",
+      "weight": 1.0,
+      "source": "lib_content_renderinlinemarkdown",
+      "target": "lib_content_escapehtml",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L125",
+      "weight": 1.0,
+      "source": "lib_content_rendermarkdownlite",
+      "target": "lib_content_escapehtml",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L144",
+      "weight": 1.0,
+      "source": "lib_content_rendermarkdownlite",
+      "target": "lib_content_renderinlinemarkdown",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L87",
+      "weight": 1.0,
+      "source": "lib_content_rendermarkdownlite",
+      "target": "lib_content_replacelegacyvariables",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L296",
+      "weight": 1.0,
+      "source": "lib_content_extractlegacysectionsummary",
+      "target": "lib_content_replacelegacyvariables",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L321",
+      "weight": 1.0,
+      "source": "lib_content_extractlegacyportfolioitems",
+      "target": "lib_content_replacelegacyvariables",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L331",
+      "weight": 1.0,
+      "source": "lib_content_extractlegacycontactitems",
+      "target": "lib_content_replacelegacyvariables",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L373",
+      "weight": 1.0,
+      "source": "lib_content_extractlegacyparagraphs",
+      "target": "lib_content_replacelegacyvariables",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L380",
+      "weight": 1.0,
+      "source": "lib_content_extractlegacymediaitems",
+      "target": "lib_content_replacelegacyvariables",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L395",
+      "weight": 1.0,
+      "source": "lib_content_extractlegacyshortcutcards",
+      "target": "lib_content_replacelegacyvariables",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L407",
+      "weight": 1.0,
+      "source": "lib_content_renderlegacyhtmlfragment",
+      "target": "lib_content_replacelegacyvariables",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L255",
+      "weight": 1.0,
+      "source": "lib_content_striphtml",
+      "target": "lib_content_decodehtml",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L407",
+      "weight": 1.0,
+      "source": "lib_content_renderlegacyhtmlfragment",
+      "target": "lib_content_stripgoogleadssnippets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L298",
+      "weight": 1.0,
+      "source": "lib_content_extractlegacysectionsummary",
+      "target": "lib_content_striphtml",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/content.ts",
+      "source_location": "L276",
+      "weight": 1.0,
+      "source": "lib_content_excerptmarkdown",
+      "target": "lib_content_stripmarkdown",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/apple-itunes-app.ts",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_apple_itunes_app_ts",
+      "target": "lib_apple_itunes_app_resolvewodedataappleappid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/apple-itunes-app.ts",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_apple_itunes_app_ts",
+      "target": "lib_apple_itunes_app_buildwodedataappleappargument",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/apple-itunes-app.ts",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_apple_itunes_app_ts",
+      "target": "lib_apple_itunes_app_buildwodedataappleitunesappcontent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/apple-itunes-app.ts",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "lib_apple_itunes_app_buildwodedataappleitunesappcontent",
+      "target": "lib_apple_itunes_app_resolvewodedataappleappid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/apple-itunes-app.ts",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "lib_apple_itunes_app_buildwodedataappleitunesappcontent",
+      "target": "lib_apple_itunes_app_buildwodedataappleappargument",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/app-page-routing.ts",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_app_page_routing_ts",
+      "target": "lib_app_page_routing_istutorialapppage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/app-page-routing.ts",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_app_page_routing_ts",
+      "target": "lib_app_page_routing_classifyapppagekind",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/app-page-routing.ts",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "lib_app_page_routing_classifyapppagekind",
+      "target": "lib_app_page_routing_istutorialapppage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/lib/site-modules.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_lib_site_modules_ts",
+      "target": "lib_site_modules_readmodulerichtexthtml",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/pages/podcast.xml.ts",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_pages_podcast_xml_ts",
+      "target": "pages_podcast_xml_escapexml",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/pages/podcast.xml.ts",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_pages_podcast_xml_ts",
+      "target": "pages_podcast_xml_stripmarkdown",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/pages/podcast.xml.ts",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_pages_podcast_xml_ts",
+      "target": "pages_podcast_xml_torfc2822",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/pages/podcast.xml.ts",
+      "source_location": "L69",
+      "weight": 1.0,
+      "source": "apps_wodedata_site_src_pages_podcast_xml_ts",
+      "target": "pages_podcast_xml_get",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "apps/wodedata-site/src/pages/podcast.xml.ts",
+      "source_location": "L95",
+      "weight": 1.0,
+      "source": "pages_podcast_xml_get",
+      "target": "pages_podcast_xml_escapexml",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}

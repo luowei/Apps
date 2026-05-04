@@ -1,94 +1,440 @@
 {
-  "schema": "apps-graphify-pages/v1",
-  "count": 8,
-  "items": [
+  "schema": "apps-graphify-pages/v2",
+  "updated": "2026-05-04T17:58:47.291Z",
+  "policy": "App graphs are split by implementation variant: OC, Swift, SwiftUI, Web.",
+  "apps": [
     {
-      "name": "ChildrenEnglish",
-      "href": "ChildrenEnglish/",
-      "graph": "ChildrenEnglish/graph.html",
-      "report": "ChildrenEnglish/GRAPH_REPORT.md",
-      "json": "ChildrenEnglish/graph.json",
-      "readme": "https://github.com/luowei/ChildrenEnglish#readme",
-      "nodes": "",
-      "edges": "",
-      "communities": ""
+      "app": "ChildrenEnglish",
+      "pages_url": "https://luowei.github.io/Apps/ChildrenEnglish/",
+      "readme_url": "https://github.com/luowei/ChildrenEnglish#readme",
+      "variants": [
+        {
+          "variant": "OC",
+          "source_path": "/Users/luowei/projects/My_App/ChildrenEnglish/OC",
+          "pages_url": "https://luowei.github.io/Apps/ChildrenEnglish/OC/",
+          "graph_url": "https://luowei.github.io/Apps/ChildrenEnglish/OC/graph.html",
+          "report_url": "https://luowei.github.io/Apps/ChildrenEnglish/OC/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/ChildrenEnglish/OC/graph.json",
+          "metrics": {
+            "nodes": 349,
+            "edges": 297,
+            "communities": 27
+          }
+        },
+        {
+          "variant": "Swift",
+          "source_path": "/Users/luowei/projects/My_App/ChildrenEnglish/Swift",
+          "pages_url": "https://luowei.github.io/Apps/ChildrenEnglish/Swift/",
+          "graph_url": "https://luowei.github.io/Apps/ChildrenEnglish/Swift/graph.html",
+          "report_url": "https://luowei.github.io/Apps/ChildrenEnglish/Swift/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/ChildrenEnglish/Swift/graph.json",
+          "metrics": {
+            "nodes": 234,
+            "edges": 357,
+            "communities": 15
+          }
+        },
+        {
+          "variant": "Web",
+          "source_path": "/Users/luowei/projects/My_App/ChildrenEnglish/Web",
+          "pages_url": "https://luowei.github.io/Apps/ChildrenEnglish/Web/",
+          "graph_url": "https://luowei.github.io/Apps/ChildrenEnglish/Web/graph.html",
+          "report_url": "https://luowei.github.io/Apps/ChildrenEnglish/Web/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/ChildrenEnglish/Web/graph.json",
+          "metrics": {
+            "nodes": 105,
+            "edges": 74,
+            "communities": 2
+          }
+        }
+      ]
     },
     {
-      "name": "LWCalendar",
-      "href": "LWCalendar/",
-      "graph": "LWCalendar/graph.html",
-      "report": "LWCalendar/GRAPH_REPORT.md",
-      "json": "LWCalendar/graph.json",
-      "readme": "https://github.com/luowei/LWCalendar#readme",
-      "nodes": "",
-      "edges": "",
-      "communities": ""
+      "app": "LWCalendar",
+      "pages_url": "https://luowei.github.io/Apps/LWCalendar/",
+      "readme_url": "https://github.com/luowei/LWCalendar#readme",
+      "variants": [
+        {
+          "variant": "OC",
+          "source_path": "/Users/luowei/projects/My_App/LWCalendar/OC",
+          "pages_url": "https://luowei.github.io/Apps/LWCalendar/OC/",
+          "graph_url": "https://luowei.github.io/Apps/LWCalendar/OC/graph.html",
+          "report_url": "https://luowei.github.io/Apps/LWCalendar/OC/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/LWCalendar/OC/graph.json",
+          "metrics": {
+            "nodes": 328,
+            "edges": 290,
+            "communities": 20
+          }
+        },
+        {
+          "variant": "SwiftUI",
+          "source_path": "/Users/luowei/projects/My_App/LWCalendar/SwiftUI",
+          "pages_url": "https://luowei.github.io/Apps/LWCalendar/SwiftUI/",
+          "graph_url": "https://luowei.github.io/Apps/LWCalendar/SwiftUI/graph.html",
+          "report_url": "https://luowei.github.io/Apps/LWCalendar/SwiftUI/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/LWCalendar/SwiftUI/graph.json",
+          "metrics": {
+            "nodes": 722,
+            "edges": 1097,
+            "communities": 45
+          }
+        },
+        {
+          "variant": "Web",
+          "source_path": "/Users/luowei/projects/My_App/LWCalendar/Web",
+          "pages_url": "https://luowei.github.io/Apps/LWCalendar/Web/",
+          "graph_url": "https://luowei.github.io/Apps/LWCalendar/Web/graph.html",
+          "report_url": "https://luowei.github.io/Apps/LWCalendar/Web/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/LWCalendar/Web/graph.json",
+          "metrics": {
+            "nodes": 173,
+            "edges": 190,
+            "communities": 8
+          }
+        }
+      ]
     },
     {
-      "name": "MarkDownEditer",
-      "href": "MarkDownEditer/",
-      "graph": "MarkDownEditer/graph.html",
-      "report": "MarkDownEditer/GRAPH_REPORT.md",
-      "json": "MarkDownEditer/graph.json",
-      "readme": "https://github.com/luowei/MarkDownEditer#readme",
-      "nodes": "",
-      "edges": "",
-      "communities": ""
+      "app": "MarkDownEditer",
+      "pages_url": "https://luowei.github.io/Apps/MarkDownEditer/",
+      "readme_url": "https://github.com/luowei/MarkDownEditer#readme",
+      "variants": [
+        {
+          "variant": "OC",
+          "source_path": "/Users/luowei/projects/My_App/MarkDownEditer/MarkDownEditer",
+          "pages_url": "https://luowei.github.io/Apps/MarkDownEditer/OC/",
+          "graph_url": "https://luowei.github.io/Apps/MarkDownEditer/OC/graph.html",
+          "report_url": "https://luowei.github.io/Apps/MarkDownEditer/OC/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/MarkDownEditer/OC/graph.json",
+          "metrics": {
+            "nodes": 467,
+            "edges": 456,
+            "communities": 28
+          }
+        },
+        {
+          "variant": "Swift",
+          "source_path": "/Users/luowei/projects/My_App/MarkDownEditer/Swift",
+          "pages_url": "https://luowei.github.io/Apps/MarkDownEditer/Swift/",
+          "graph_url": "https://luowei.github.io/Apps/MarkDownEditer/Swift/graph.html",
+          "report_url": "https://luowei.github.io/Apps/MarkDownEditer/Swift/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/MarkDownEditer/Swift/graph.json",
+          "metrics": {
+            "nodes": 293,
+            "edges": 386,
+            "communities": 18
+          }
+        }
+      ]
     },
     {
-      "name": "MyBrowser",
-      "href": "MyBrowser/",
-      "graph": "MyBrowser/graph.html",
-      "report": "MyBrowser/GRAPH_REPORT.md",
-      "json": "MyBrowser/graph.json",
-      "readme": "https://github.com/luowei/MyBrowser#readme",
-      "nodes": "",
-      "edges": "",
-      "communities": ""
+      "app": "MyBrowser",
+      "pages_url": "https://luowei.github.io/Apps/MyBrowser/",
+      "readme_url": "https://github.com/luowei/MyBrowser#readme",
+      "variants": [
+        {
+          "variant": "OC",
+          "source_path": "/Users/luowei/projects/My_App/MyBrowser/MyBrowser",
+          "pages_url": "https://luowei.github.io/Apps/MyBrowser/OC/",
+          "graph_url": "https://luowei.github.io/Apps/MyBrowser/OC/graph.html",
+          "report_url": "https://luowei.github.io/Apps/MyBrowser/OC/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/MyBrowser/OC/graph.json",
+          "metrics": {
+            "nodes": 2781,
+            "edges": 2546,
+            "communities": 133
+          }
+        },
+        {
+          "variant": "Swift",
+          "source_path": "/Users/luowei/projects/My_App/MyBrowser/MyBrowser_Swift",
+          "pages_url": "https://luowei.github.io/Apps/MyBrowser/Swift/",
+          "graph_url": "https://luowei.github.io/Apps/MyBrowser/Swift/graph.html",
+          "report_url": "https://luowei.github.io/Apps/MyBrowser/Swift/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/MyBrowser/Swift/graph.json",
+          "metrics": {
+            "nodes": 179,
+            "edges": 235,
+            "communities": 9
+          }
+        },
+        {
+          "variant": "Web",
+          "source_path": "/Users/luowei/projects/My_App/MyBrowser/WebViewDebug",
+          "pages_url": "https://luowei.github.io/Apps/MyBrowser/Web/",
+          "graph_url": "https://luowei.github.io/Apps/MyBrowser/Web/graph.html",
+          "report_url": "https://luowei.github.io/Apps/MyBrowser/Web/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/MyBrowser/Web/graph.json",
+          "metrics": {
+            "nodes": 0,
+            "edges": 0,
+            "communities": 0
+          }
+        }
+      ]
     },
     {
-      "name": "MyInputMethod",
-      "href": "MyInputMethod/",
-      "graph": "MyInputMethod/graph.html.skipped.txt",
-      "report": "MyInputMethod/GRAPH_REPORT.md",
-      "json": "MyInputMethod/graph.json",
-      "readme": "https://github.com/luowei/MyInputMethod#readme",
-      "nodes": "",
-      "edges": "",
-      "communities": ""
+      "app": "MyInputMethod",
+      "pages_url": "https://luowei.github.io/Apps/MyInputMethod/",
+      "readme_url": "https://github.com/luowei/MyInputMethod#readme",
+      "variants": [
+        {
+          "variant": "OC",
+          "source_path": "/Users/luowei/projects/My_App/MyInputMethod/MyInputMethod",
+          "pages_url": "https://luowei.github.io/Apps/MyInputMethod/OC/",
+          "graph_url": "https://luowei.github.io/Apps/MyInputMethod/OC/graph.html",
+          "report_url": "https://luowei.github.io/Apps/MyInputMethod/OC/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/MyInputMethod/OC/graph.json",
+          "metrics": {
+            "nodes": 4014,
+            "edges": 3616,
+            "communities": 231
+          }
+        },
+        {
+          "variant": "Swift",
+          "source_path": "/Users/luowei/projects/My_App/MyInputMethod/MyInputMethod_Swift",
+          "pages_url": "https://luowei.github.io/Apps/MyInputMethod/Swift/",
+          "graph_url": "https://luowei.github.io/Apps/MyInputMethod/Swift/graph.html",
+          "report_url": "https://luowei.github.io/Apps/MyInputMethod/Swift/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/MyInputMethod/Swift/graph.json",
+          "metrics": {
+            "nodes": 751,
+            "edges": 1728,
+            "communities": 28
+          }
+        },
+        {
+          "variant": "SwiftUI",
+          "source_path": "/Users/luowei/projects/My_App/MyInputMethod/MyInputMethod_SwiftUI",
+          "pages_url": "https://luowei.github.io/Apps/MyInputMethod/SwiftUI/",
+          "graph_url": "https://luowei.github.io/Apps/MyInputMethod/SwiftUI/graph.html",
+          "report_url": "https://luowei.github.io/Apps/MyInputMethod/SwiftUI/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/MyInputMethod/SwiftUI/graph.json",
+          "metrics": {
+            "nodes": 1796,
+            "edges": 2771,
+            "communities": 110
+          }
+        },
+        {
+          "variant": "Web",
+          "source_path": "/Users/luowei/projects/My_App/MyInputMethod/Web",
+          "pages_url": "https://luowei.github.io/Apps/MyInputMethod/Web/",
+          "graph_url": "https://luowei.github.io/Apps/MyInputMethod/Web/graph.html",
+          "report_url": "https://luowei.github.io/Apps/MyInputMethod/Web/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/MyInputMethod/Web/graph.json",
+          "metrics": {
+            "nodes": 215,
+            "edges": 284,
+            "communities": 12
+          }
+        }
+      ]
     },
     {
-      "name": "MyWallPaper",
-      "href": "MyWallPaper/",
-      "graph": "MyWallPaper/graph.html",
-      "report": "MyWallPaper/GRAPH_REPORT.md",
-      "json": "MyWallPaper/graph.json",
-      "readme": "https://github.com/luowei/MyWallPaper#readme",
-      "nodes": "",
-      "edges": "",
-      "communities": ""
+      "app": "MyWallPaper",
+      "pages_url": "https://luowei.github.io/Apps/MyWallPaper/",
+      "readme_url": "https://github.com/luowei/MyWallPaper#readme",
+      "variants": [
+        {
+          "variant": "OC",
+          "source_path": "/Users/luowei/projects/My_App/MyWallPaper/MyWallPaper",
+          "pages_url": "https://luowei.github.io/Apps/MyWallPaper/OC/",
+          "graph_url": "https://luowei.github.io/Apps/MyWallPaper/OC/graph.html",
+          "report_url": "https://luowei.github.io/Apps/MyWallPaper/OC/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/MyWallPaper/OC/graph.json",
+          "metrics": {
+            "nodes": 451,
+            "edges": 385,
+            "communities": 33
+          }
+        },
+        {
+          "variant": "Swift",
+          "source_path": "/Users/luowei/projects/My_App/MyWallPaper/Swift",
+          "pages_url": "https://luowei.github.io/Apps/MyWallPaper/Swift/",
+          "graph_url": "https://luowei.github.io/Apps/MyWallPaper/Swift/graph.html",
+          "report_url": "https://luowei.github.io/Apps/MyWallPaper/Swift/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/MyWallPaper/Swift/graph.json",
+          "metrics": {
+            "nodes": 340,
+            "edges": 481,
+            "communities": 19
+          }
+        },
+        {
+          "variant": "Web",
+          "source_path": "/Users/luowei/projects/My_App/MyWallPaper/Web",
+          "pages_url": "https://luowei.github.io/Apps/MyWallPaper/Web/",
+          "graph_url": "https://luowei.github.io/Apps/MyWallPaper/Web/graph.html",
+          "report_url": "https://luowei.github.io/Apps/MyWallPaper/Web/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/MyWallPaper/Web/graph.json",
+          "metrics": {
+            "nodes": 146,
+            "edges": 197,
+            "communities": 9
+          }
+        }
+      ]
     },
     {
-      "name": "PhotoDIY",
-      "href": "PhotoDIY/",
-      "graph": "PhotoDIY/graph.html",
-      "report": "PhotoDIY/GRAPH_REPORT.md",
-      "json": "PhotoDIY/graph.json",
-      "readme": "https://github.com/luowei/PhotoDIY#readme",
-      "nodes": "",
-      "edges": "",
-      "communities": ""
+      "app": "PhotoDIY",
+      "pages_url": "https://luowei.github.io/Apps/PhotoDIY/",
+      "readme_url": "https://github.com/luowei/PhotoDIY#readme",
+      "variants": [
+        {
+          "variant": "OC",
+          "source_path": "/Users/luowei/projects/My_App/PhotoDIY/OC",
+          "pages_url": "https://luowei.github.io/Apps/PhotoDIY/OC/",
+          "graph_url": "https://luowei.github.io/Apps/PhotoDIY/OC/graph.html",
+          "report_url": "https://luowei.github.io/Apps/PhotoDIY/OC/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/PhotoDIY/OC/graph.json",
+          "metrics": {
+            "nodes": 1535,
+            "edges": 1370,
+            "communities": 84
+          }
+        },
+        {
+          "variant": "Swift",
+          "source_path": "/Users/luowei/projects/My_App/PhotoDIY/Swift",
+          "pages_url": "https://luowei.github.io/Apps/PhotoDIY/Swift/",
+          "graph_url": "https://luowei.github.io/Apps/PhotoDIY/Swift/graph.html",
+          "report_url": "https://luowei.github.io/Apps/PhotoDIY/Swift/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/PhotoDIY/Swift/graph.json",
+          "metrics": {
+            "nodes": 669,
+            "edges": 997,
+            "communities": 37
+          }
+        }
+      ]
     },
     {
-      "name": "WBInputMethod",
-      "href": "WBInputMethod/",
-      "graph": "WBInputMethod/graph.html",
-      "report": "WBInputMethod/GRAPH_REPORT.md",
-      "json": "WBInputMethod/graph.json",
-      "readme": "https://github.com/luowei/WBInputMethod#readme",
-      "nodes": "",
-      "edges": "",
-      "communities": ""
+      "app": "WBInputMethod",
+      "pages_url": "https://luowei.github.io/Apps/WBInputMethod/",
+      "readme_url": "https://github.com/luowei/WBInputMethod#readme",
+      "variants": [
+        {
+          "variant": "OC",
+          "source_path": "/Users/luowei/projects/My_App/WBInputMethod/WBInputMethod",
+          "pages_url": "https://luowei.github.io/Apps/WBInputMethod/OC/",
+          "graph_url": "https://luowei.github.io/Apps/WBInputMethod/OC/graph.html",
+          "report_url": "https://luowei.github.io/Apps/WBInputMethod/OC/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/WBInputMethod/OC/graph.json",
+          "metrics": {
+            "nodes": 1844,
+            "edges": 1647,
+            "communities": 105
+          }
+        },
+        {
+          "variant": "Swift",
+          "source_path": "/Users/luowei/projects/My_App/WBInputMethod/WBInputMethod_Swift",
+          "pages_url": "https://luowei.github.io/Apps/WBInputMethod/Swift/",
+          "graph_url": "https://luowei.github.io/Apps/WBInputMethod/Swift/graph.html",
+          "report_url": "https://luowei.github.io/Apps/WBInputMethod/Swift/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/WBInputMethod/Swift/graph.json",
+          "metrics": {
+            "nodes": 737,
+            "edges": 1400,
+            "communities": 32
+          }
+        },
+        {
+          "variant": "SwiftUI",
+          "source_path": "/Users/luowei/projects/My_App/WBInputMethod/WBInputMethod_SwiftUI",
+          "pages_url": "https://luowei.github.io/Apps/WBInputMethod/SwiftUI/",
+          "graph_url": "https://luowei.github.io/Apps/WBInputMethod/SwiftUI/graph.html",
+          "report_url": "https://luowei.github.io/Apps/WBInputMethod/SwiftUI/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/WBInputMethod/SwiftUI/graph.json",
+          "metrics": {
+            "nodes": 1330,
+            "edges": 2128,
+            "communities": 89
+          }
+        },
+        {
+          "variant": "Web",
+          "source_path": "/Users/luowei/projects/My_App/WBInputMethod/web",
+          "pages_url": "https://luowei.github.io/Apps/WBInputMethod/Web/",
+          "graph_url": "https://luowei.github.io/Apps/WBInputMethod/Web/graph.html",
+          "report_url": "https://luowei.github.io/Apps/WBInputMethod/Web/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/WBInputMethod/Web/graph.json",
+          "metrics": {
+            "nodes": 95,
+            "edges": 85,
+            "communities": 9
+          }
+        }
+      ]
+    }
+  ],
+  "platforms": [
+    {
+      "name": "second-brain",
+      "pages_url": "https://luowei.github.io/Apps/second-brain/",
+      "readme_url": "https://github.com/luowei/second-brain#readme",
+      "modules": [
+        {
+          "name": "members-app",
+          "label": "成员站",
+          "desc": "Cloudflare Workers members application, D1 bindings, auth, sidebar, and internal management UI.",
+          "metrics": {
+            "nodes": 309,
+            "edges": 651,
+            "communities": 21
+          },
+          "pages_url": "https://luowei.github.io/Apps/second-brain/members-app/",
+          "graph_url": "https://luowei.github.io/Apps/second-brain/members-app/graph.html",
+          "report_url": "https://luowei.github.io/Apps/second-brain/members-app/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/second-brain/members-app/graph.json"
+        },
+        {
+          "name": "wodedata-site",
+          "label": "wodedata.com",
+          "desc": "Astro/WodeData site modules, schema, exporter, and WodeData-specific migrations/scripts.",
+          "metrics": {
+            "nodes": 189,
+            "edges": 235,
+            "communities": 14
+          },
+          "pages_url": "https://luowei.github.io/Apps/second-brain/wodedata-site/",
+          "graph_url": "https://luowei.github.io/Apps/second-brain/wodedata-site/graph.html",
+          "report_url": "https://luowei.github.io/Apps/second-brain/wodedata-site/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/second-brain/wodedata-site/graph.json"
+        },
+        {
+          "name": "hugo-public-site",
+          "label": "Hugo公开站",
+          "desc": "Hugo public site output pipeline, content importer, public exporter, and publish scripts.",
+          "metrics": {
+            "nodes": 232,
+            "edges": 347,
+            "communities": 16
+          },
+          "pages_url": "https://luowei.github.io/Apps/second-brain/hugo-public-site/",
+          "graph_url": "https://luowei.github.io/Apps/second-brain/hugo-public-site/graph.html",
+          "report_url": "https://luowei.github.io/Apps/second-brain/hugo-public-site/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/second-brain/hugo-public-site/graph.json"
+        },
+        {
+          "name": "agent-knowledge",
+          "label": "知识库",
+          "desc": "Agent knowledge graph members view, manifest fallback, sidebar entry, and graphify Pages workflow integration.",
+          "metrics": {
+            "nodes": 129,
+            "edges": 305,
+            "communities": 15
+          },
+          "pages_url": "https://luowei.github.io/Apps/second-brain/agent-knowledge/",
+          "graph_url": "https://luowei.github.io/Apps/second-brain/agent-knowledge/graph.html",
+          "report_url": "https://luowei.github.io/Apps/second-brain/agent-knowledge/GRAPH_REPORT.md",
+          "graph_json_url": "https://luowei.github.io/Apps/second-brain/agent-knowledge/graph.json"
+        }
+      ]
     }
   ]
 }

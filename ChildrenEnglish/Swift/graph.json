@@ -1,0 +1,5794 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "ContentView.swift",
+      "file_type": "code",
+      "source_file": "ContentView.swift",
+      "source_location": "L1",
+      "id": "contentview_swift",
+      "community": 6,
+      "norm_label": "contentview.swift"
+    },
+    {
+      "label": "ContentView",
+      "file_type": "code",
+      "source_file": "ContentView.swift",
+      "source_location": "L4",
+      "id": "childrenenglish_contentview_contentview",
+      "community": 6,
+      "norm_label": "contentview"
+    },
+    {
+      "label": "View",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "view",
+      "community": 6,
+      "norm_label": "view"
+    },
+    {
+      "label": "FavoritesView",
+      "file_type": "code",
+      "source_file": "ContentView.swift",
+      "source_location": "L38",
+      "id": "childrenenglish_contentview_favoritesview",
+      "community": 6,
+      "norm_label": "favoritesview"
+    },
+    {
+      "label": "SimpleSettingsView",
+      "file_type": "code",
+      "source_file": "ContentView.swift",
+      "source_location": "L61",
+      "id": "childrenenglish_contentview_simplesettingsview",
+      "community": 6,
+      "norm_label": "simplesettingsview"
+    },
+    {
+      "label": "AppConstants.swift",
+      "file_type": "code",
+      "source_file": "Core/Constants/AppConstants.swift",
+      "source_location": "L1",
+      "id": "core_constants_appconstants_swift",
+      "community": 9,
+      "norm_label": "appconstants.swift"
+    },
+    {
+      "label": "AppConstants",
+      "file_type": "code",
+      "source_file": "Core/Constants/AppConstants.swift",
+      "source_location": "L4",
+      "id": "constants_appconstants_appconstants",
+      "community": 9,
+      "norm_label": "appconstants"
+    },
+    {
+      "label": "API",
+      "file_type": "code",
+      "source_file": "Core/Constants/AppConstants.swift",
+      "source_location": "L7",
+      "id": "constants_appconstants_api",
+      "community": 9,
+      "norm_label": "api"
+    },
+    {
+      "label": "OSS",
+      "file_type": "code",
+      "source_file": "Core/Constants/AppConstants.swift",
+      "source_location": "L14",
+      "id": "constants_appconstants_oss",
+      "community": 9,
+      "norm_label": "oss"
+    },
+    {
+      "label": "VideoCategories",
+      "file_type": "code",
+      "source_file": "Core/Constants/AppConstants.swift",
+      "source_location": "L22",
+      "id": "constants_appconstants_videocategories",
+      "community": 9,
+      "norm_label": "videocategories"
+    },
+    {
+      "label": "UserDefaultsKeys",
+      "file_type": "code",
+      "source_file": "Core/Constants/AppConstants.swift",
+      "source_location": "L39",
+      "id": "constants_appconstants_userdefaultskeys",
+      "community": 9,
+      "norm_label": "userdefaultskeys"
+    },
+    {
+      "label": "URLSchemes",
+      "file_type": "code",
+      "source_file": "Core/Constants/AppConstants.swift",
+      "source_location": "L48",
+      "id": "constants_appconstants_urlschemes",
+      "community": 9,
+      "norm_label": "urlschemes"
+    },
+    {
+      "label": "NotificationNames",
+      "file_type": "code",
+      "source_file": "Core/Constants/AppConstants.swift",
+      "source_location": "L53",
+      "id": "constants_appconstants_notificationnames",
+      "community": 9,
+      "norm_label": "notificationnames"
+    },
+    {
+      "label": "ViewModel.swift",
+      "file_type": "code",
+      "source_file": "Core/Architecture/ViewModel.swift",
+      "source_location": "L1",
+      "id": "core_architecture_viewmodel_swift",
+      "community": 5,
+      "norm_label": "viewmodel.swift"
+    },
+    {
+      "label": "ViewModel",
+      "file_type": "code",
+      "source_file": "Core/Architecture/ViewModel.swift",
+      "source_location": "L5",
+      "id": "architecture_viewmodel_viewmodel",
+      "community": 5,
+      "norm_label": "viewmodel"
+    },
+    {
+      "label": "ObservableObject",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "observableobject",
+      "community": 5,
+      "norm_label": "observableobject"
+    },
+    {
+      "label": "BaseViewModel",
+      "file_type": "code",
+      "source_file": "Core/Architecture/ViewModel.swift",
+      "source_location": "L13",
+      "id": "architecture_viewmodel_baseviewmodel",
+      "community": 5,
+      "norm_label": "baseviewmodel"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "Core/Architecture/ViewModel.swift",
+      "source_location": "L19",
+      "id": "architecture_viewmodel_baseviewmodel_init",
+      "community": 5,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".deinit()",
+      "file_type": "code",
+      "source_file": "Core/Architecture/ViewModel.swift",
+      "source_location": "L21",
+      "id": "architecture_viewmodel_baseviewmodel_deinit",
+      "community": 5,
+      "norm_label": ".deinit()"
+    },
+    {
+      "label": ".handleError()",
+      "file_type": "code",
+      "source_file": "Core/Architecture/ViewModel.swift",
+      "source_location": "L26",
+      "id": "architecture_viewmodel_baseviewmodel_handleerror",
+      "community": 5,
+      "norm_label": ".handleerror()"
+    },
+    {
+      "label": ".clearError()",
+      "file_type": "code",
+      "source_file": "Core/Architecture/ViewModel.swift",
+      "source_location": "L33",
+      "id": "architecture_viewmodel_baseviewmodel_clearerror",
+      "community": 5,
+      "norm_label": ".clearerror()"
+    },
+    {
+      "label": ".setLoading()",
+      "file_type": "code",
+      "source_file": "Core/Architecture/ViewModel.swift",
+      "source_location": "L38",
+      "id": "architecture_viewmodel_baseviewmodel_setloading",
+      "community": 5,
+      "norm_label": ".setloading()"
+    },
+    {
+      "label": "Repository.swift",
+      "file_type": "code",
+      "source_file": "Core/Architecture/Repository/Repository.swift",
+      "source_location": "L1",
+      "id": "core_architecture_repository_repository_swift",
+      "community": 12,
+      "norm_label": "repository.swift"
+    },
+    {
+      "label": "Repository",
+      "file_type": "code",
+      "source_file": "Core/Architecture/Repository/Repository.swift",
+      "source_location": "L4",
+      "id": "repository_repository_repository",
+      "community": 12,
+      "norm_label": "repository"
+    },
+    {
+      "label": "NetworkDataSource",
+      "file_type": "code",
+      "source_file": "Core/Architecture/Repository/Repository.swift",
+      "source_location": "L13",
+      "id": "repository_repository_networkdatasource",
+      "community": 12,
+      "norm_label": "networkdatasource"
+    },
+    {
+      "label": "LocalDataSource",
+      "file_type": "code",
+      "source_file": "Core/Architecture/Repository/Repository.swift",
+      "source_location": "L18",
+      "id": "repository_repository_localdatasource",
+      "community": 12,
+      "norm_label": "localdatasource"
+    },
+    {
+      "label": "BaseRepository",
+      "file_type": "code",
+      "source_file": "Core/Architecture/Repository/Repository.swift",
+      "source_location": "L26",
+      "id": "repository_repository_baserepository",
+      "community": 12,
+      "norm_label": "baserepository"
+    },
+    {
+      "label": ".handleError()",
+      "file_type": "code",
+      "source_file": "Core/Architecture/Repository/Repository.swift",
+      "source_location": "L27",
+      "id": "repository_repository_baserepository_handleerror",
+      "community": 12,
+      "norm_label": ".handleerror()"
+    },
+    {
+      "label": "Coordinator.swift",
+      "file_type": "code",
+      "source_file": "Core/Architecture/Coordinator/Coordinator.swift",
+      "source_location": "L1",
+      "id": "core_architecture_coordinator_coordinator_swift",
+      "community": 10,
+      "norm_label": "coordinator.swift"
+    },
+    {
+      "label": "Coordinator",
+      "file_type": "code",
+      "source_file": "Core/Architecture/Coordinator/Coordinator.swift",
+      "source_location": "L4",
+      "id": "coordinator_coordinator_coordinator",
+      "community": 10,
+      "norm_label": "coordinator"
+    },
+    {
+      "label": "AnyObject",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "anyobject",
+      "community": 10,
+      "norm_label": "anyobject"
+    },
+    {
+      "label": ".addChildCoordinator()",
+      "file_type": "code",
+      "source_file": "Core/Architecture/Coordinator/Coordinator.swift",
+      "source_location": "L15",
+      "id": "coordinator_coordinator_coordinator_addchildcoordinator",
+      "community": 0,
+      "norm_label": ".addchildcoordinator()"
+    },
+    {
+      "label": ".removeChildCoordinator()",
+      "file_type": "code",
+      "source_file": "Core/Architecture/Coordinator/Coordinator.swift",
+      "source_location": "L19",
+      "id": "coordinator_coordinator_coordinator_removechildcoordinator",
+      "community": 10,
+      "norm_label": ".removechildcoordinator()"
+    },
+    {
+      "label": "BaseCoordinator",
+      "file_type": "code",
+      "source_file": "Core/Architecture/Coordinator/Coordinator.swift",
+      "source_location": "L25",
+      "id": "coordinator_coordinator_basecoordinator",
+      "community": 10,
+      "norm_label": "basecoordinator"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "Core/Architecture/Coordinator/Coordinator.swift",
+      "source_location": "L29",
+      "id": "coordinator_coordinator_basecoordinator_init",
+      "community": 10,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".start()",
+      "file_type": "code",
+      "source_file": "Core/Architecture/Coordinator/Coordinator.swift",
+      "source_location": "L33",
+      "id": "coordinator_coordinator_basecoordinator_start",
+      "community": 10,
+      "norm_label": ".start()"
+    },
+    {
+      "label": "UserService.swift",
+      "file_type": "code",
+      "source_file": "Core/Services/UserService.swift",
+      "source_location": "L1",
+      "id": "core_services_userservice_swift",
+      "community": 11,
+      "norm_label": "userservice.swift"
+    },
+    {
+      "label": "UserService",
+      "file_type": "code",
+      "source_file": "Core/Services/UserService.swift",
+      "source_location": "L5",
+      "id": "services_userservice_userservice",
+      "community": 11,
+      "norm_label": "userservice"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "Core/Services/UserService.swift",
+      "source_location": "L11",
+      "id": "services_userservice_userservice_init",
+      "community": 11,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".loadUserData()",
+      "file_type": "code",
+      "source_file": "Core/Services/UserService.swift",
+      "source_location": "L15",
+      "id": "services_userservice_userservice_loaduserdata",
+      "community": 11,
+      "norm_label": ".loaduserdata()"
+    },
+    {
+      "label": ".saveUserData()",
+      "file_type": "code",
+      "source_file": "Core/Services/UserService.swift",
+      "source_location": "L20",
+      "id": "services_userservice_userservice_saveuserdata",
+      "community": 11,
+      "norm_label": ".saveuserdata()"
+    },
+    {
+      "label": ".upgradeToPremium()",
+      "file_type": "code",
+      "source_file": "Core/Services/UserService.swift",
+      "source_location": "L24",
+      "id": "services_userservice_userservice_upgradetopremium",
+      "community": 11,
+      "norm_label": ".upgradetopremium()"
+    },
+    {
+      "label": "VideoService.swift",
+      "file_type": "code",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L1",
+      "id": "core_services_videoservice_swift",
+      "community": 2,
+      "norm_label": "videoservice.swift"
+    },
+    {
+      "label": "VideoServiceProtocol",
+      "file_type": "code",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L5",
+      "id": "services_videoservice_videoserviceprotocol",
+      "community": 2,
+      "norm_label": "videoserviceprotocol"
+    },
+    {
+      "label": "VideoListResponse",
+      "file_type": "code",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L13",
+      "id": "services_videoservice_videolistresponse",
+      "community": 2,
+      "norm_label": "videolistresponse"
+    },
+    {
+      "label": "DefaultVideoService",
+      "file_type": "code",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L20",
+      "id": "services_videoservice_defaultvideoservice",
+      "community": 2,
+      "norm_label": "defaultvideoservice"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L24",
+      "id": "services_videoservice_defaultvideoservice_init",
+      "community": 2,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".loadCategories()",
+      "file_type": "code",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L29",
+      "id": "services_videoservice_defaultvideoservice_loadcategories",
+      "community": 2,
+      "norm_label": ".loadcategories()"
+    },
+    {
+      "label": ".loadVideos()",
+      "file_type": "code",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L53",
+      "id": "services_videoservice_defaultvideoservice_loadvideos",
+      "community": 2,
+      "norm_label": ".loadvideos()"
+    },
+    {
+      "label": ".loadBanners()",
+      "file_type": "code",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L78",
+      "id": "services_videoservice_defaultvideoservice_loadbanners",
+      "community": 3,
+      "norm_label": ".loadbanners()"
+    },
+    {
+      "label": ".getVideoURL()",
+      "file_type": "code",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L103",
+      "id": "services_videoservice_defaultvideoservice_getvideourl",
+      "community": 2,
+      "norm_label": ".getvideourl()"
+    },
+    {
+      "label": ".createVideo()",
+      "file_type": "code",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L126",
+      "id": "services_videoservice_defaultvideoservice_createvideo",
+      "community": 2,
+      "norm_label": ".createvideo()"
+    },
+    {
+      "label": ".generateVideoTitle()",
+      "file_type": "code",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L145",
+      "id": "services_videoservice_defaultvideoservice_generatevideotitle",
+      "community": 2,
+      "norm_label": ".generatevideotitle()"
+    },
+    {
+      "label": ".generateThumbnailKey()",
+      "file_type": "code",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L160",
+      "id": "services_videoservice_defaultvideoservice_generatethumbnailkey",
+      "community": 2,
+      "norm_label": ".generatethumbnailkey()"
+    },
+    {
+      "label": ".generateVideoDescription()",
+      "file_type": "code",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L165",
+      "id": "services_videoservice_defaultvideoservice_generatevideodescription",
+      "community": 2,
+      "norm_label": ".generatevideodescription()"
+    },
+    {
+      "label": ".createMockVideoResponse()",
+      "file_type": "code",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L192",
+      "id": "services_videoservice_defaultvideoservice_createmockvideoresponse",
+      "community": 2,
+      "norm_label": ".createmockvideoresponse()"
+    },
+    {
+      "label": ".generateCategorySpecificTitles()",
+      "file_type": "code",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L218",
+      "id": "services_videoservice_defaultvideoservice_generatecategoryspecifictitles",
+      "community": 2,
+      "norm_label": ".generatecategoryspecifictitles()"
+    },
+    {
+      "label": "MockVideoService",
+      "file_type": "code",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L445",
+      "id": "services_videoservice_mockvideoservice",
+      "community": 2,
+      "norm_label": "mockvideoservice"
+    },
+    {
+      "label": ".loadCategories()",
+      "file_type": "code",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L446",
+      "id": "services_videoservice_mockvideoservice_loadcategories",
+      "community": 2,
+      "norm_label": ".loadcategories()"
+    },
+    {
+      "label": ".loadVideos()",
+      "file_type": "code",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L452",
+      "id": "services_videoservice_mockvideoservice_loadvideos",
+      "community": 2,
+      "norm_label": ".loadvideos()"
+    },
+    {
+      "label": ".loadBanners()",
+      "file_type": "code",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L464",
+      "id": "services_videoservice_mockvideoservice_loadbanners",
+      "community": 2,
+      "norm_label": ".loadbanners()"
+    },
+    {
+      "label": ".getVideoURL()",
+      "file_type": "code",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L475",
+      "id": "services_videoservice_mockvideoservice_getvideourl",
+      "community": 2,
+      "norm_label": ".getvideourl()"
+    },
+    {
+      "label": ".createMockVideos()",
+      "file_type": "code",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L480",
+      "id": "services_videoservice_mockvideoservice_createmockvideos",
+      "community": 2,
+      "norm_label": ".createmockvideos()"
+    },
+    {
+      "label": "OSSService.swift",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L1",
+      "id": "core_services_ossservice_swift",
+      "community": 4,
+      "norm_label": "ossservice.swift"
+    },
+    {
+      "label": "OSSConfig",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L6",
+      "id": "services_ossservice_ossconfig",
+      "community": 4,
+      "norm_label": "ossconfig"
+    },
+    {
+      "label": "OSSObject",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L15",
+      "id": "services_ossservice_ossobject",
+      "community": 4,
+      "norm_label": "ossobject"
+    },
+    {
+      "label": "Codable",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "codable",
+      "community": 3,
+      "norm_label": "codable"
+    },
+    {
+      "label": "Identifiable",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "identifiable",
+      "community": 3,
+      "norm_label": "identifiable"
+    },
+    {
+      "label": "OSSListResponse",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L37",
+      "id": "services_ossservice_osslistresponse",
+      "community": 4,
+      "norm_label": "osslistresponse"
+    },
+    {
+      "label": "OSSServiceProtocol",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L44",
+      "id": "services_ossservice_ossserviceprotocol",
+      "community": 4,
+      "norm_label": "ossserviceprotocol"
+    },
+    {
+      "label": "OSSService",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L50",
+      "id": "services_ossservice_ossservice",
+      "community": 4,
+      "norm_label": "ossservice"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L61",
+      "id": "services_ossservice_ossservice_init",
+      "community": 4,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".listObjects()",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L64",
+      "id": "services_ossservice_ossservice_listobjects",
+      "community": 4,
+      "norm_label": ".listobjects()"
+    },
+    {
+      "label": ".generateSignedURL()",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L79",
+      "id": "services_ossservice_ossservice_generatesignedurl",
+      "community": 4,
+      "norm_label": ".generatesignedurl()"
+    },
+    {
+      "label": ".buildListObjectsURL()",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L97",
+      "id": "services_ossservice_ossservice_buildlistobjectsurl",
+      "community": 4,
+      "norm_label": ".buildlistobjectsurl()"
+    },
+    {
+      "label": ".createAuthenticatedRequest()",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L113",
+      "id": "services_ossservice_ossservice_createauthenticatedrequest",
+      "community": 4,
+      "norm_label": ".createauthenticatedrequest()"
+    },
+    {
+      "label": ".generateAuthorization()",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L127",
+      "id": "services_ossservice_ossservice_generateauthorization",
+      "community": 4,
+      "norm_label": ".generateauthorization()"
+    },
+    {
+      "label": ".formatDate()",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L138",
+      "id": "services_ossservice_ossservice_formatdate",
+      "community": 4,
+      "norm_label": ".formatdate()"
+    },
+    {
+      "label": ".hmacSHA1()",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L146",
+      "id": "services_ossservice_ossservice_hmacsha1",
+      "community": 4,
+      "norm_label": ".hmacsha1()"
+    },
+    {
+      "label": ".parseListObjectsResponse()",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L154",
+      "id": "services_ossservice_ossservice_parselistobjectsresponse",
+      "community": 4,
+      "norm_label": ".parselistobjectsresponse()"
+    },
+    {
+      "label": "OSSError",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L165",
+      "id": "services_ossservice_osserror",
+      "community": 13,
+      "norm_label": "osserror"
+    },
+    {
+      "label": "LocalizedError",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "localizederror",
+      "community": 13,
+      "norm_label": "localizederror"
+    },
+    {
+      "label": "requestFailed",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L166",
+      "id": "services_ossservice_osserror_requestfailed",
+      "community": 13,
+      "norm_label": "requestfailed"
+    },
+    {
+      "label": "invalidResponse",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L167",
+      "id": "services_ossservice_osserror_invalidresponse",
+      "community": 13,
+      "norm_label": "invalidresponse"
+    },
+    {
+      "label": "xmlParsingError",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L168",
+      "id": "services_ossservice_osserror_xmlparsingerror",
+      "community": 13,
+      "norm_label": "xmlparsingerror"
+    },
+    {
+      "label": "signatureError",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L169",
+      "id": "services_ossservice_osserror_signatureerror",
+      "community": 13,
+      "norm_label": "signatureerror"
+    },
+    {
+      "label": "OSSXMLParser",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L186",
+      "id": "services_ossservice_ossxmlparser",
+      "community": 4,
+      "norm_label": "ossxmlparser"
+    },
+    {
+      "label": "NSObject",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "nsobject",
+      "community": 7,
+      "norm_label": "nsobject"
+    },
+    {
+      "label": "XMLParserDelegate",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "xmlparserdelegate",
+      "community": 4,
+      "norm_label": "xmlparserdelegate"
+    },
+    {
+      "label": ".parseListObjectsResponse()",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L195",
+      "id": "services_ossservice_ossxmlparser_parselistobjectsresponse",
+      "community": 4,
+      "norm_label": ".parselistobjectsresponse()"
+    },
+    {
+      "label": ".parser()",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L219",
+      "id": "services_ossservice_ossxmlparser_parser",
+      "community": 4,
+      "norm_label": ".parser()"
+    },
+    {
+      "label": ".createObjectFromCurrentData()",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L257",
+      "id": "services_ossservice_ossxmlparser_createobjectfromcurrentdata",
+      "community": 4,
+      "norm_label": ".createobjectfromcurrentdata()"
+    },
+    {
+      "label": ".parseDate()",
+      "file_type": "code",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L280",
+      "id": "services_ossservice_ossxmlparser_parsedate",
+      "community": 4,
+      "norm_label": ".parsedate()"
+    },
+    {
+      "label": "AppCoordinator.swift",
+      "file_type": "code",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L1",
+      "id": "app_appcoordinator_swift",
+      "community": 0,
+      "norm_label": "appcoordinator.swift"
+    },
+    {
+      "label": "AppCoordinator",
+      "file_type": "code",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L5",
+      "id": "app_appcoordinator_appcoordinator",
+      "community": 0,
+      "norm_label": "appcoordinator"
+    },
+    {
+      "label": "BaseCoordinator",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "basecoordinator",
+      "community": 0,
+      "norm_label": "basecoordinator"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L9",
+      "id": "app_appcoordinator_appcoordinator_init",
+      "community": 0,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".start()",
+      "file_type": "code",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L15",
+      "id": "app_appcoordinator_appcoordinator_start",
+      "community": 0,
+      "norm_label": ".start()"
+    },
+    {
+      "label": ".setupWindow()",
+      "file_type": "code",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L20",
+      "id": "app_appcoordinator_appcoordinator_setupwindow",
+      "community": 0,
+      "norm_label": ".setupwindow()"
+    },
+    {
+      "label": ".showMainInterface()",
+      "file_type": "code",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L25",
+      "id": "app_appcoordinator_appcoordinator_showmaininterface",
+      "community": 0,
+      "norm_label": ".showmaininterface()"
+    },
+    {
+      "label": "TabBarCoordinator",
+      "file_type": "code",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L36",
+      "id": "app_appcoordinator_tabbarcoordinator",
+      "community": 0,
+      "norm_label": "tabbarcoordinator"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L39",
+      "id": "app_appcoordinator_tabbarcoordinator_init",
+      "community": 0,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".start()",
+      "file_type": "code",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L44",
+      "id": "app_appcoordinator_tabbarcoordinator_start",
+      "community": 0,
+      "norm_label": ".start()"
+    },
+    {
+      "label": ".setupTabBarController()",
+      "file_type": "code",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L48",
+      "id": "app_appcoordinator_tabbarcoordinator_setuptabbarcontroller",
+      "community": 0,
+      "norm_label": ".setuptabbarcontroller()"
+    },
+    {
+      "label": "SettingsCoordinator",
+      "file_type": "code",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L81",
+      "id": "app_appcoordinator_settingscoordinator",
+      "community": 0,
+      "norm_label": "settingscoordinator"
+    },
+    {
+      "label": ".start()",
+      "file_type": "code",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L82",
+      "id": "app_appcoordinator_settingscoordinator_start",
+      "community": 0,
+      "norm_label": ".start()"
+    },
+    {
+      "label": ".showSettings()",
+      "file_type": "code",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L86",
+      "id": "app_appcoordinator_settingscoordinator_showsettings",
+      "community": 0,
+      "norm_label": ".showsettings()"
+    },
+    {
+      "label": "ChildrenEnglishApp.swift",
+      "file_type": "code",
+      "source_file": "App/ChildrenEnglishApp.swift",
+      "source_location": "L1",
+      "id": "app_childrenenglishapp_swift",
+      "community": 14,
+      "norm_label": "childrenenglishapp.swift"
+    },
+    {
+      "label": "ChildrenEnglishApp",
+      "file_type": "code",
+      "source_file": "App/ChildrenEnglishApp.swift",
+      "source_location": "L3",
+      "id": "app_childrenenglishapp_childrenenglishapp",
+      "community": 14,
+      "norm_label": "childrenenglishapp"
+    },
+    {
+      "label": "App",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "app",
+      "community": 14,
+      "norm_label": "app"
+    },
+    {
+      "label": "HomeCoordinator.swift",
+      "file_type": "code",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L1",
+      "id": "features_home_coordinators_homecoordinator_swift",
+      "community": 0,
+      "norm_label": "homecoordinator.swift"
+    },
+    {
+      "label": "HomeCoordinator",
+      "file_type": "code",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L5",
+      "id": "coordinators_homecoordinator_homecoordinator",
+      "community": 0,
+      "norm_label": "homecoordinator"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L8",
+      "id": "coordinators_homecoordinator_homecoordinator_init",
+      "community": 0,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".start()",
+      "file_type": "code",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L13",
+      "id": "coordinators_homecoordinator_homecoordinator_start",
+      "community": 0,
+      "norm_label": ".start()"
+    },
+    {
+      "label": ".showHome()",
+      "file_type": "code",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L18",
+      "id": "coordinators_homecoordinator_homecoordinator_showhome",
+      "community": 0,
+      "norm_label": ".showhome()"
+    },
+    {
+      "label": ".showVideoList()",
+      "file_type": "code",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L27",
+      "id": "coordinators_homecoordinator_homecoordinator_showvideolist",
+      "community": 0,
+      "norm_label": ".showvideolist()"
+    },
+    {
+      "label": ".showPurchase()",
+      "file_type": "code",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L42",
+      "id": "coordinators_homecoordinator_homecoordinator_showpurchase",
+      "community": 0,
+      "norm_label": ".showpurchase()"
+    },
+    {
+      "label": "VideoCoordinator",
+      "file_type": "code",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L50",
+      "id": "coordinators_homecoordinator_videocoordinator",
+      "community": 0,
+      "norm_label": "videocoordinator"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L54",
+      "id": "coordinators_homecoordinator_videocoordinator_init",
+      "community": 0,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".start()",
+      "file_type": "code",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L60",
+      "id": "coordinators_homecoordinator_videocoordinator_start",
+      "community": 0,
+      "norm_label": ".start()"
+    },
+    {
+      "label": ".showVideoList()",
+      "file_type": "code",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L64",
+      "id": "coordinators_homecoordinator_videocoordinator_showvideolist",
+      "community": 0,
+      "norm_label": ".showvideolist()"
+    },
+    {
+      "label": "PurchaseCoordinator",
+      "file_type": "code",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L74",
+      "id": "coordinators_homecoordinator_purchasecoordinator",
+      "community": 0,
+      "norm_label": "purchasecoordinator"
+    },
+    {
+      "label": ".start()",
+      "file_type": "code",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L75",
+      "id": "coordinators_homecoordinator_purchasecoordinator_start",
+      "community": 0,
+      "norm_label": ".start()"
+    },
+    {
+      "label": ".showPurchase()",
+      "file_type": "code",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L79",
+      "id": "coordinators_homecoordinator_purchasecoordinator_showpurchase",
+      "community": 0,
+      "norm_label": ".showpurchase()"
+    },
+    {
+      "label": "PurchaseView",
+      "file_type": "code",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L91",
+      "id": "coordinators_homecoordinator_purchaseview",
+      "community": 0,
+      "norm_label": "purchaseview"
+    },
+    {
+      "label": "HomeViewModel.swift",
+      "file_type": "code",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L1",
+      "id": "features_home_viewmodels_homeviewmodel_swift",
+      "community": 8,
+      "norm_label": "homeviewmodel.swift"
+    },
+    {
+      "label": "HomeViewModel",
+      "file_type": "code",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L5",
+      "id": "viewmodels_homeviewmodel_homeviewmodel",
+      "community": 8,
+      "norm_label": "homeviewmodel"
+    },
+    {
+      "label": "BaseViewModel",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "baseviewmodel",
+      "community": 8,
+      "norm_label": "baseviewmodel"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L15",
+      "id": "viewmodels_homeviewmodel_homeviewmodel_init",
+      "community": 8,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".loadContent()",
+      "file_type": "code",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L23",
+      "id": "viewmodels_homeviewmodel_homeviewmodel_loadcontent",
+      "community": 8,
+      "norm_label": ".loadcontent()"
+    },
+    {
+      "label": ".refreshContent()",
+      "file_type": "code",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L42",
+      "id": "viewmodels_homeviewmodel_homeviewmodel_refreshcontent",
+      "community": 8,
+      "norm_label": ".refreshcontent()"
+    },
+    {
+      "label": ".selectCategory()",
+      "file_type": "code",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L46",
+      "id": "viewmodels_homeviewmodel_homeviewmodel_selectcategory",
+      "community": 8,
+      "norm_label": ".selectcategory()"
+    },
+    {
+      "label": ".showPurchase()",
+      "file_type": "code",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L50",
+      "id": "viewmodels_homeviewmodel_homeviewmodel_showpurchase",
+      "community": 8,
+      "norm_label": ".showpurchase()"
+    },
+    {
+      "label": ".setupInitialData()",
+      "file_type": "code",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L55",
+      "id": "viewmodels_homeviewmodel_homeviewmodel_setupinitialdata",
+      "community": 8,
+      "norm_label": ".setupinitialdata()"
+    },
+    {
+      "label": ".loadCategories()",
+      "file_type": "code",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L61",
+      "id": "viewmodels_homeviewmodel_homeviewmodel_loadcategories",
+      "community": 8,
+      "norm_label": ".loadcategories()"
+    },
+    {
+      "label": ".loadBanners()",
+      "file_type": "code",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L65",
+      "id": "viewmodels_homeviewmodel_homeviewmodel_loadbanners",
+      "community": 8,
+      "norm_label": ".loadbanners()"
+    },
+    {
+      "label": "HomeView.swift",
+      "file_type": "code",
+      "source_file": "Features/Home/Views/HomeView.swift",
+      "source_location": "L1",
+      "id": "features_home_views_homeview_swift",
+      "community": 6,
+      "norm_label": "homeview.swift"
+    },
+    {
+      "label": "HomeView",
+      "file_type": "code",
+      "source_file": "Features/Home/Views/HomeView.swift",
+      "source_location": "L4",
+      "id": "views_homeview_homeview",
+      "community": 6,
+      "norm_label": "homeview"
+    },
+    {
+      "label": "BannerView",
+      "file_type": "code",
+      "source_file": "Features/Home/Views/HomeView.swift",
+      "source_location": "L59",
+      "id": "views_homeview_bannerview",
+      "community": 6,
+      "norm_label": "bannerview"
+    },
+    {
+      "label": ".startAutoScroll()",
+      "file_type": "code",
+      "source_file": "Features/Home/Views/HomeView.swift",
+      "source_location": "L80",
+      "id": "views_homeview_bannerview_startautoscroll",
+      "community": 6,
+      "norm_label": ".startautoscroll()"
+    },
+    {
+      "label": "BannerItemView",
+      "file_type": "code",
+      "source_file": "Features/Home/Views/HomeView.swift",
+      "source_location": "L92",
+      "id": "views_homeview_banneritemview",
+      "community": 6,
+      "norm_label": "banneritemview"
+    },
+    {
+      "label": "CategoryGridView",
+      "file_type": "code",
+      "source_file": "Features/Home/Views/HomeView.swift",
+      "source_location": "L125",
+      "id": "views_homeview_categorygridview",
+      "community": 6,
+      "norm_label": "categorygridview"
+    },
+    {
+      "label": "CategoryItemView",
+      "file_type": "code",
+      "source_file": "Features/Home/Views/HomeView.swift",
+      "source_location": "L144",
+      "id": "views_homeview_categoryitemview",
+      "community": 6,
+      "norm_label": "categoryitemview"
+    },
+    {
+      "label": "SettingsView",
+      "file_type": "code",
+      "source_file": "Features/Home/Views/HomeView.swift",
+      "source_location": "L182",
+      "id": "views_homeview_settingsview",
+      "community": 6,
+      "norm_label": "settingsview"
+    },
+    {
+      "label": "VideoPlayerViewModel.swift",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L1",
+      "id": "features_video_viewmodels_videoplayerviewmodel_swift",
+      "community": 1,
+      "norm_label": "videoplayerviewmodel.swift"
+    },
+    {
+      "label": "VideoPlayerViewModel",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L7",
+      "id": "viewmodels_videoplayerviewmodel_videoplayerviewmodel",
+      "community": 1,
+      "norm_label": "videoplayerviewmodel"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L25",
+      "id": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_init",
+      "community": 1,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".loadInitialVideo()",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L34",
+      "id": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_loadinitialvideo",
+      "community": 5,
+      "norm_label": ".loadinitialvideo()"
+    },
+    {
+      "label": ".togglePlayPause()",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L39",
+      "id": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_toggleplaypause",
+      "community": 1,
+      "norm_label": ".toggleplaypause()"
+    },
+    {
+      "label": ".toggleFavorite()",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L49",
+      "id": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_togglefavorite",
+      "community": 1,
+      "norm_label": ".togglefavorite()"
+    },
+    {
+      "label": ".shareVideo()",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L70",
+      "id": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_sharevideo",
+      "community": 1,
+      "norm_label": ".sharevideo()"
+    },
+    {
+      "label": ".nextVideo()",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L82",
+      "id": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_nextvideo",
+      "community": 1,
+      "norm_label": ".nextvideo()"
+    },
+    {
+      "label": ".previousVideo()",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L88",
+      "id": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_previousvideo",
+      "community": 1,
+      "norm_label": ".previousvideo()"
+    },
+    {
+      "label": ".seekTo()",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L94",
+      "id": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_seekto",
+      "community": 1,
+      "norm_label": ".seekto()"
+    },
+    {
+      "label": ".startPlaying()",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L100",
+      "id": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_startplaying",
+      "community": 1,
+      "norm_label": ".startplaying()"
+    },
+    {
+      "label": ".stopPlaying()",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L105",
+      "id": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_stopplaying",
+      "community": 1,
+      "norm_label": ".stopplaying()"
+    },
+    {
+      "label": ".cleanup()",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L110",
+      "id": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_cleanup",
+      "community": 1,
+      "norm_label": ".cleanup()"
+    },
+    {
+      "label": ".resetPlaybackState()",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L116",
+      "id": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_resetplaybackstate",
+      "community": 1,
+      "norm_label": ".resetplaybackstate()"
+    },
+    {
+      "label": ".startProgressTimer()",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L122",
+      "id": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_startprogresstimer",
+      "community": 1,
+      "norm_label": ".startprogresstimer()"
+    },
+    {
+      "label": ".stopProgressTimer()",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L132",
+      "id": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_stopprogresstimer",
+      "community": 1,
+      "norm_label": ".stopprogresstimer()"
+    },
+    {
+      "label": ".updateProgress()",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L137",
+      "id": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_updateprogress",
+      "community": 1,
+      "norm_label": ".updateprogress()"
+    },
+    {
+      "label": ".deinit()",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L155",
+      "id": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_deinit",
+      "community": 1,
+      "norm_label": ".deinit()"
+    },
+    {
+      "label": "FavoriteServiceProtocol",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L163",
+      "id": "viewmodels_videoplayerviewmodel_favoriteserviceprotocol",
+      "community": 1,
+      "norm_label": "favoriteserviceprotocol"
+    },
+    {
+      "label": "DefaultFavoriteService",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L171",
+      "id": "viewmodels_videoplayerviewmodel_defaultfavoriteservice",
+      "community": 1,
+      "norm_label": "defaultfavoriteservice"
+    },
+    {
+      "label": ".addFavorite()",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L175",
+      "id": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_addfavorite",
+      "community": 1,
+      "norm_label": ".addfavorite()"
+    },
+    {
+      "label": ".removeFavorite()",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L181",
+      "id": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_removefavorite",
+      "community": 1,
+      "norm_label": ".removefavorite()"
+    },
+    {
+      "label": ".getFavorites()",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L187",
+      "id": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_getfavorites",
+      "community": 1,
+      "norm_label": ".getfavorites()"
+    },
+    {
+      "label": ".isFavorite()",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L193",
+      "id": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_isfavorite",
+      "community": 1,
+      "norm_label": ".isfavorite()"
+    },
+    {
+      "label": ".getFavoriteIds()",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L198",
+      "id": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_getfavoriteids",
+      "community": 1,
+      "norm_label": ".getfavoriteids()"
+    },
+    {
+      "label": ".saveFavoriteIds()",
+      "file_type": "code",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L203",
+      "id": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_savefavoriteids",
+      "community": 1,
+      "norm_label": ".savefavoriteids()"
+    },
+    {
+      "label": "VideoPlayerView.swift",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/VideoPlayerView.swift",
+      "source_location": "L1",
+      "id": "features_video_views_videoplayerview_swift",
+      "community": 6,
+      "norm_label": "videoplayerview.swift"
+    },
+    {
+      "label": "VideoPlayerView",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/VideoPlayerView.swift",
+      "source_location": "L6",
+      "id": "views_videoplayerview_videoplayerview",
+      "community": 6,
+      "norm_label": "videoplayerview"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/VideoPlayerView.swift",
+      "source_location": "L10",
+      "id": "views_videoplayerview_videoplayerview_init",
+      "community": 6,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "TikTokStyleVideoPlayer",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/VideoPlayerView.swift",
+      "source_location": "L59",
+      "id": "views_videoplayerview_tiktokstylevideoplayer",
+      "community": 6,
+      "norm_label": "tiktokstylevideoplayer"
+    },
+    {
+      "label": "VideoPlayerCard",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/VideoPlayerView.swift",
+      "source_location": "L81",
+      "id": "views_videoplayerview_videoplayercard",
+      "community": 6,
+      "norm_label": "videoplayercard"
+    },
+    {
+      "label": ".setupPlayer()",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/VideoPlayerView.swift",
+      "source_location": "L212",
+      "id": "views_videoplayerview_videoplayercard_setupplayer",
+      "community": 6,
+      "norm_label": ".setupplayer()"
+    },
+    {
+      "label": "AVPlayerView.swift",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L1",
+      "id": "features_video_views_avplayerview_swift",
+      "community": 7,
+      "norm_label": "avplayerview.swift"
+    },
+    {
+      "label": "AVPlayerView",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L6",
+      "id": "views_avplayerview_avplayerview",
+      "community": 7,
+      "norm_label": "avplayerview"
+    },
+    {
+      "label": "UIViewControllerRepresentable",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "uiviewcontrollerrepresentable",
+      "community": 7,
+      "norm_label": "uiviewcontrollerrepresentable"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L15",
+      "id": "views_avplayerview_avplayerview_init",
+      "community": 7,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".makeUIViewController()",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L31",
+      "id": "views_avplayerview_avplayerview_makeuiviewcontroller",
+      "community": 7,
+      "norm_label": ".makeuiviewcontroller()"
+    },
+    {
+      "label": ".updateUIViewController()",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L48",
+      "id": "views_avplayerview_avplayerview_updateuiviewcontroller",
+      "community": 7,
+      "norm_label": ".updateuiviewcontroller()"
+    },
+    {
+      "label": ".dismantleUIViewController()",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L62",
+      "id": "views_avplayerview_avplayerview_dismantleuiviewcontroller",
+      "community": 7,
+      "norm_label": ".dismantleuiviewcontroller()"
+    },
+    {
+      "label": ".makeCoordinator()",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L69",
+      "id": "views_avplayerview_avplayerview_makecoordinator",
+      "community": 7,
+      "norm_label": ".makecoordinator()"
+    },
+    {
+      "label": "Coordinator",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L73",
+      "id": "views_avplayerview_coordinator",
+      "community": 7,
+      "norm_label": "coordinator"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L79",
+      "id": "views_avplayerview_coordinator_init",
+      "community": 7,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".deinit()",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L83",
+      "id": "views_avplayerview_coordinator_deinit",
+      "community": 7,
+      "norm_label": ".deinit()"
+    },
+    {
+      "label": ".cleanupObservers()",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L87",
+      "id": "views_avplayerview_coordinator_cleanupobservers",
+      "community": 7,
+      "norm_label": ".cleanupobservers()"
+    },
+    {
+      "label": ".setupPeriodicTimeObserver()",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L102",
+      "id": "views_avplayerview_coordinator_setupperiodictimeobserver",
+      "community": 7,
+      "norm_label": ".setupperiodictimeobserver()"
+    },
+    {
+      "label": ".setupPlayerObservers()",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L131",
+      "id": "views_avplayerview_coordinator_setupplayerobservers",
+      "community": 7,
+      "norm_label": ".setupplayerobservers()"
+    },
+    {
+      "label": "CustomVideoPlayer",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L168",
+      "id": "views_avplayerview_customvideoplayer",
+      "community": 7,
+      "norm_label": "customvideoplayer"
+    },
+    {
+      "label": ".loadVideoURL()",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L333",
+      "id": "views_avplayerview_customvideoplayer_loadvideourl",
+      "community": 7,
+      "norm_label": ".loadvideourl()"
+    },
+    {
+      "label": ".formatTime()",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L347",
+      "id": "views_avplayerview_customvideoplayer_formattime",
+      "community": 2,
+      "norm_label": ".formattime()"
+    },
+    {
+      "label": "VideoListView.swift",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L1",
+      "id": "features_video_views_videolistview_swift",
+      "community": 5,
+      "norm_label": "videolistview.swift"
+    },
+    {
+      "label": "VideoListView",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L5",
+      "id": "views_videolistview_videolistview",
+      "community": 5,
+      "norm_label": "videolistview"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L11",
+      "id": "views_videolistview_videolistview_init",
+      "community": 5,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "VideoListItemView",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L92",
+      "id": "views_videolistview_videolistitemview",
+      "community": 5,
+      "norm_label": "videolistitemview"
+    },
+    {
+      "label": ".formatDuration()",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L169",
+      "id": "views_videolistview_videolistitemview_formatduration",
+      "community": 5,
+      "norm_label": ".formatduration()"
+    },
+    {
+      "label": "VideoListViewModel",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L177",
+      "id": "views_videolistview_videolistviewmodel",
+      "community": 5,
+      "norm_label": "videolistviewmodel"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L186",
+      "id": "views_videolistview_videolistviewmodel_init",
+      "community": 5,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".loadVideos()",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L192",
+      "id": "views_videolistview_videolistviewmodel_loadvideos",
+      "community": 5,
+      "norm_label": ".loadvideos()"
+    },
+    {
+      "label": ".loadMoreVideos()",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L213",
+      "id": "views_videolistview_videolistviewmodel_loadmorevideos",
+      "community": 5,
+      "norm_label": ".loadmorevideos()"
+    },
+    {
+      "label": ".refreshVideos()",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L233",
+      "id": "views_videolistview_videolistviewmodel_refreshvideos",
+      "community": 5,
+      "norm_label": ".refreshvideos()"
+    },
+    {
+      "label": ".updateFavoriteStatus()",
+      "file_type": "code",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L239",
+      "id": "views_videolistview_videolistviewmodel_updatefavoritestatus",
+      "community": 5,
+      "norm_label": ".updatefavoritestatus()"
+    },
+    {
+      "label": "VideoModels.swift",
+      "file_type": "code",
+      "source_file": "Models/VideoModels.swift",
+      "source_location": "L1",
+      "id": "models_videomodels_swift",
+      "community": 15,
+      "norm_label": "videomodels.swift"
+    },
+    {
+      "label": "Video.swift",
+      "file_type": "code",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L1",
+      "id": "data_models_video_swift",
+      "community": 3,
+      "norm_label": "video.swift"
+    },
+    {
+      "label": "Video",
+      "file_type": "code",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L4",
+      "id": "models_video_video",
+      "community": 3,
+      "norm_label": "video"
+    },
+    {
+      "label": "Equatable",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "equatable",
+      "community": 3,
+      "norm_label": "equatable"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L22",
+      "id": "models_video_video_init",
+      "community": 3,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "VideoCategory",
+      "file_type": "code",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L91",
+      "id": "models_video_videocategory",
+      "community": 3,
+      "norm_label": "videocategory"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L99",
+      "id": "models_video_videocategory_init",
+      "community": 3,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "Banner",
+      "file_type": "code",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L122",
+      "id": "models_video_banner",
+      "community": 3,
+      "norm_label": "banner"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L129",
+      "id": "models_video_banner_init",
+      "community": 3,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "User",
+      "file_type": "code",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L145",
+      "id": "models_video_user",
+      "community": 3,
+      "norm_label": "user"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L152",
+      "id": "models_video_user_init",
+      "community": 3,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "PlaybackRecord",
+      "file_type": "code",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L168",
+      "id": "models_video_playbackrecord",
+      "community": 3,
+      "norm_label": "playbackrecord"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L180",
+      "id": "models_video_playbackrecord_init",
+      "community": 3,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "UserSettings",
+      "file_type": "code",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L196",
+      "id": "models_video_usersettings",
+      "community": 3,
+      "norm_label": "usersettings"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L202",
+      "id": "models_video_usersettings_init",
+      "community": 3,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "VideoQuality",
+      "file_type": "code",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L216",
+      "id": "models_video_videoquality",
+      "community": 3,
+      "norm_label": "videoquality"
+    },
+    {
+      "label": "String",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "string",
+      "community": 2,
+      "norm_label": "string"
+    },
+    {
+      "label": "CaseIterable",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "caseiterable",
+      "community": 3,
+      "norm_label": "caseiterable"
+    },
+    {
+      "label": "low",
+      "file_type": "code",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L217",
+      "id": "models_video_videoquality_low",
+      "community": 3,
+      "norm_label": "low"
+    },
+    {
+      "label": "medium",
+      "file_type": "code",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L218",
+      "id": "models_video_videoquality_medium",
+      "community": 3,
+      "norm_label": "medium"
+    },
+    {
+      "label": "high",
+      "file_type": "code",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L219",
+      "id": "models_video_videoquality_high",
+      "community": 3,
+      "norm_label": "high"
+    },
+    {
+      "label": "FavoritesTabView.swift",
+      "file_type": "code",
+      "source_file": "Views/Tabs/FavoritesTabView.swift",
+      "source_location": "L1",
+      "id": "views_tabs_favoritestabview_swift",
+      "community": 16,
+      "norm_label": "favoritestabview.swift"
+    },
+    {
+      "label": "SettingsTabView.swift",
+      "file_type": "code",
+      "source_file": "Views/Tabs/SettingsTabView.swift",
+      "source_location": "L1",
+      "id": "views_tabs_settingstabview_swift",
+      "community": 17,
+      "norm_label": "settingstabview.swift"
+    },
+    {
+      "label": "CategoryItemCardView.swift",
+      "file_type": "code",
+      "source_file": "Views/Home/CategoryItemCardView.swift",
+      "source_location": "L1",
+      "id": "views_home_categoryitemcardview_swift",
+      "community": 18,
+      "norm_label": "categoryitemcardview.swift"
+    },
+    {
+      "label": "CategoryGridSectionView.swift",
+      "file_type": "code",
+      "source_file": "Views/Home/CategoryGridSectionView.swift",
+      "source_location": "L1",
+      "id": "views_home_categorygridsectionview_swift",
+      "community": 19,
+      "norm_label": "categorygridsectionview.swift"
+    },
+    {
+      "label": "HomeTabView.swift",
+      "file_type": "code",
+      "source_file": "Views/Home/HomeTabView.swift",
+      "source_location": "L1",
+      "id": "views_home_hometabview_swift",
+      "community": 20,
+      "norm_label": "hometabview.swift"
+    },
+    {
+      "label": "BannerSectionView.swift",
+      "file_type": "code",
+      "source_file": "Views/Home/BannerSectionView.swift",
+      "source_location": "L1",
+      "id": "views_home_bannersectionview_swift",
+      "community": 21,
+      "norm_label": "bannersectionview.swift"
+    },
+    {
+      "label": "VideoItemView.swift",
+      "file_type": "code",
+      "source_file": "Views/Video/VideoItemView.swift",
+      "source_location": "L1",
+      "id": "views_video_videoitemview_swift",
+      "community": 22,
+      "norm_label": "videoitemview.swift"
+    },
+    {
+      "label": "SimpleVideoPlayerView.swift",
+      "file_type": "code",
+      "source_file": "Views/VideoPlayer/SimpleVideoPlayerView.swift",
+      "source_location": "L1",
+      "id": "views_videoplayer_simplevideoplayerview_swift",
+      "community": 23,
+      "norm_label": "simplevideoplayerview.swift"
+    },
+    {
+      "label": "VideoPlayerManager.swift",
+      "file_type": "code",
+      "source_file": "Views/VideoPlayer/VideoPlayerManager.swift",
+      "source_location": "L1",
+      "id": "views_videoplayer_videoplayermanager_swift",
+      "community": 24,
+      "norm_label": "videoplayermanager.swift"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "ContentView.swift",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "contentview_swift",
+      "target": "childrenenglish_contentview_contentview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "ContentView.swift",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "contentview_swift",
+      "target": "childrenenglish_contentview_favoritesview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "ContentView.swift",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "contentview_swift",
+      "target": "childrenenglish_contentview_simplesettingsview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "ContentView.swift",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "childrenenglish_contentview_contentview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "ContentView.swift",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "childrenenglish_contentview_favoritesview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "ContentView.swift",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "childrenenglish_contentview_simplesettingsview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_purchaseview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Views/HomeView.swift",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "views_homeview_homeview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Views/HomeView.swift",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "views_homeview_bannerview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Views/HomeView.swift",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "views_homeview_banneritemview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Views/HomeView.swift",
+      "source_location": "L125",
+      "weight": 1.0,
+      "source": "views_homeview_categorygridview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Views/HomeView.swift",
+      "source_location": "L144",
+      "weight": 1.0,
+      "source": "views_homeview_categoryitemview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Views/HomeView.swift",
+      "source_location": "L182",
+      "weight": 1.0,
+      "source": "views_homeview_settingsview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoPlayerView.swift",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "views_videoplayerview_videoplayerview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoPlayerView.swift",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "views_videoplayerview_tiktokstylevideoplayer",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoPlayerView.swift",
+      "source_location": "L81",
+      "weight": 1.0,
+      "source": "views_videoplayerview_videoplayercard",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L168",
+      "weight": 1.0,
+      "source": "views_avplayerview_customvideoplayer",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "views_videolistview_videolistview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "views_videolistview_videolistitemview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Constants/AppConstants.swift",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "core_constants_appconstants_swift",
+      "target": "constants_appconstants_appconstants",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Constants/AppConstants.swift",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "core_constants_appconstants_swift",
+      "target": "constants_appconstants_api",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Constants/AppConstants.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "core_constants_appconstants_swift",
+      "target": "constants_appconstants_oss",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Constants/AppConstants.swift",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "core_constants_appconstants_swift",
+      "target": "constants_appconstants_videocategories",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Constants/AppConstants.swift",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "core_constants_appconstants_swift",
+      "target": "constants_appconstants_userdefaultskeys",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Constants/AppConstants.swift",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "core_constants_appconstants_swift",
+      "target": "constants_appconstants_urlschemes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Constants/AppConstants.swift",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "core_constants_appconstants_swift",
+      "target": "constants_appconstants_notificationnames",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Architecture/ViewModel.swift",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "core_architecture_viewmodel_swift",
+      "target": "architecture_viewmodel_viewmodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Architecture/ViewModel.swift",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "core_architecture_viewmodel_swift",
+      "target": "architecture_viewmodel_baseviewmodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Architecture/ViewModel.swift",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "architecture_viewmodel_viewmodel",
+      "target": "observableobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Architecture/ViewModel.swift",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "architecture_viewmodel_baseviewmodel",
+      "target": "observableobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/UserService.swift",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "services_userservice_userservice",
+      "target": "observableobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Architecture/ViewModel.swift",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "architecture_viewmodel_baseviewmodel",
+      "target": "architecture_viewmodel_baseviewmodel_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Architecture/ViewModel.swift",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "architecture_viewmodel_baseviewmodel",
+      "target": "architecture_viewmodel_baseviewmodel_deinit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Architecture/ViewModel.swift",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "architecture_viewmodel_baseviewmodel",
+      "target": "architecture_viewmodel_baseviewmodel_handleerror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Architecture/ViewModel.swift",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "architecture_viewmodel_baseviewmodel",
+      "target": "architecture_viewmodel_baseviewmodel_clearerror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Architecture/ViewModel.swift",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "architecture_viewmodel_baseviewmodel",
+      "target": "architecture_viewmodel_baseviewmodel_setloading",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "viewmodels_homeviewmodel_homeviewmodel_loadcontent",
+      "target": "architecture_viewmodel_baseviewmodel_clearerror"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L196",
+      "weight": 1.0,
+      "source": "views_videolistview_videolistviewmodel_loadvideos",
+      "target": "architecture_viewmodel_baseviewmodel_clearerror"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "viewmodels_homeviewmodel_homeviewmodel_loadcontent",
+      "target": "architecture_viewmodel_baseviewmodel_setloading"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_loadinitialvideo",
+      "target": "architecture_viewmodel_baseviewmodel_setloading"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L195",
+      "weight": 1.0,
+      "source": "views_videolistview_videolistviewmodel_loadvideos",
+      "target": "architecture_viewmodel_baseviewmodel_setloading"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L216",
+      "weight": 1.0,
+      "source": "views_videolistview_videolistviewmodel_loadmorevideos",
+      "target": "architecture_viewmodel_baseviewmodel_setloading"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Architecture/Repository/Repository.swift",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "core_architecture_repository_repository_swift",
+      "target": "repository_repository_repository",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Architecture/Repository/Repository.swift",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "core_architecture_repository_repository_swift",
+      "target": "repository_repository_networkdatasource",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Architecture/Repository/Repository.swift",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "core_architecture_repository_repository_swift",
+      "target": "repository_repository_localdatasource",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Architecture/Repository/Repository.swift",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "core_architecture_repository_repository_swift",
+      "target": "repository_repository_baserepository",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Architecture/Repository/Repository.swift",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "repository_repository_baserepository",
+      "target": "repository_repository_baserepository_handleerror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Architecture/Coordinator/Coordinator.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "core_architecture_coordinator_coordinator_swift",
+      "target": "coordinator_coordinator_coordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Architecture/Coordinator/Coordinator.swift",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "core_architecture_coordinator_coordinator_swift",
+      "target": "coordinator_coordinator_basecoordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Architecture/Coordinator/Coordinator.swift",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "coordinator_coordinator_coordinator",
+      "target": "anyobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Architecture/Coordinator/Coordinator.swift",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "coordinator_coordinator_coordinator",
+      "target": "coordinator_coordinator_coordinator_addchildcoordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Architecture/Coordinator/Coordinator.swift",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "coordinator_coordinator_coordinator",
+      "target": "coordinator_coordinator_coordinator_removechildcoordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Architecture/Coordinator/Coordinator.swift",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "coordinator_coordinator_basecoordinator",
+      "target": "coordinator_coordinator_coordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "app_appcoordinator_appcoordinator_showmaininterface",
+      "target": "coordinator_coordinator_coordinator_addchildcoordinator"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L75",
+      "weight": 1.0,
+      "source": "app_appcoordinator_tabbarcoordinator_setuptabbarcontroller",
+      "target": "coordinator_coordinator_coordinator_addchildcoordinator"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_homecoordinator_showvideolist",
+      "target": "coordinator_coordinator_coordinator_addchildcoordinator"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_homecoordinator_showpurchase",
+      "target": "coordinator_coordinator_coordinator_addchildcoordinator"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Architecture/Coordinator/Coordinator.swift",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "coordinator_coordinator_basecoordinator",
+      "target": "coordinator_coordinator_basecoordinator_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Architecture/Coordinator/Coordinator.swift",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "coordinator_coordinator_basecoordinator",
+      "target": "coordinator_coordinator_basecoordinator_start",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/UserService.swift",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "core_services_userservice_swift",
+      "target": "services_userservice_userservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/UserService.swift",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "services_userservice_userservice",
+      "target": "services_userservice_userservice_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/UserService.swift",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "services_userservice_userservice",
+      "target": "services_userservice_userservice_loaduserdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/UserService.swift",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "services_userservice_userservice",
+      "target": "services_userservice_userservice_saveuserdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/UserService.swift",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "services_userservice_userservice",
+      "target": "services_userservice_userservice_upgradetopremium",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/UserService.swift",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "services_userservice_userservice_init",
+      "target": "services_userservice_userservice_loaduserdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/UserService.swift",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "services_userservice_userservice_upgradetopremium",
+      "target": "services_userservice_userservice_saveuserdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "core_services_videoservice_swift",
+      "target": "services_videoservice_videoserviceprotocol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "core_services_videoservice_swift",
+      "target": "services_videoservice_videolistresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "core_services_videoservice_swift",
+      "target": "services_videoservice_defaultvideoservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L445",
+      "weight": 1.0,
+      "source": "core_services_videoservice_swift",
+      "target": "services_videoservice_mockvideoservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice",
+      "target": "services_videoservice_videoserviceprotocol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L445",
+      "weight": 1.0,
+      "source": "services_videoservice_mockvideoservice",
+      "target": "services_videoservice_videoserviceprotocol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L65",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice_loadvideos",
+      "target": "services_videoservice_videolistresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L211",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice_createmockvideoresponse",
+      "target": "services_videoservice_videolistresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L457",
+      "weight": 1.0,
+      "source": "services_videoservice_mockvideoservice_loadvideos",
+      "target": "services_videoservice_videolistresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice",
+      "target": "services_videoservice_defaultvideoservice_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice",
+      "target": "services_videoservice_defaultvideoservice_loadcategories",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice",
+      "target": "services_videoservice_defaultvideoservice_loadvideos",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L78",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice",
+      "target": "services_videoservice_defaultvideoservice_loadbanners",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L103",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice",
+      "target": "services_videoservice_defaultvideoservice_getvideourl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L126",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice",
+      "target": "services_videoservice_defaultvideoservice_createvideo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L145",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice",
+      "target": "services_videoservice_defaultvideoservice_generatevideotitle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L160",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice",
+      "target": "services_videoservice_defaultvideoservice_generatethumbnailkey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L165",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice",
+      "target": "services_videoservice_defaultvideoservice_generatevideodescription",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L192",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice",
+      "target": "services_videoservice_defaultvideoservice_createmockvideoresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L218",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice",
+      "target": "services_videoservice_defaultvideoservice_generatecategoryspecifictitles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "app_appcoordinator_appcoordinator_init",
+      "target": "services_videoservice_defaultvideoservice"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice_loadvideos",
+      "target": "services_videoservice_defaultvideoservice_createvideo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice_loadvideos",
+      "target": "services_videoservice_defaultvideoservice_createmockvideoresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L81",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice_loadbanners",
+      "target": "models_video_banner"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L128",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice_createvideo",
+      "target": "services_videoservice_defaultvideoservice_generatevideotitle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L129",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice_createvideo",
+      "target": "services_videoservice_defaultvideoservice_generatethumbnailkey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L134",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice_createvideo",
+      "target": "services_videoservice_defaultvideoservice_generatevideodescription",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L131",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice_createvideo",
+      "target": "models_video_video"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L157",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice_generatevideotitle",
+      "target": "string"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L200",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice_createmockvideoresponse",
+      "target": "services_videoservice_defaultvideoservice_generatevideodescription",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L194",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice_createmockvideoresponse",
+      "target": "services_videoservice_defaultvideoservice_generatecategoryspecifictitles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L197",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice_createmockvideoresponse",
+      "target": "models_video_video"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L201",
+      "weight": 1.0,
+      "source": "services_videoservice_defaultvideoservice_createmockvideoresponse",
+      "target": "string"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L446",
+      "weight": 1.0,
+      "source": "services_videoservice_mockvideoservice",
+      "target": "services_videoservice_mockvideoservice_loadcategories",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L452",
+      "weight": 1.0,
+      "source": "services_videoservice_mockvideoservice",
+      "target": "services_videoservice_mockvideoservice_loadvideos",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L464",
+      "weight": 1.0,
+      "source": "services_videoservice_mockvideoservice",
+      "target": "services_videoservice_mockvideoservice_loadbanners",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L475",
+      "weight": 1.0,
+      "source": "services_videoservice_mockvideoservice",
+      "target": "services_videoservice_mockvideoservice_getvideourl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L480",
+      "weight": 1.0,
+      "source": "services_videoservice_mockvideoservice",
+      "target": "services_videoservice_mockvideoservice_createmockvideos",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L456",
+      "weight": 1.0,
+      "source": "services_videoservice_mockvideoservice_loadvideos",
+      "target": "services_videoservice_mockvideoservice_createmockvideos",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L466",
+      "weight": 1.0,
+      "source": "services_videoservice_mockvideoservice_loadbanners",
+      "target": "models_video_banner"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Core/Services/VideoService.swift",
+      "source_location": "L490",
+      "weight": 1.0,
+      "source": "services_videoservice_mockvideoservice_createmockvideos",
+      "target": "models_video_video"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "core_services_ossservice_swift",
+      "target": "services_ossservice_ossconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "core_services_ossservice_swift",
+      "target": "services_ossservice_ossobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "core_services_ossservice_swift",
+      "target": "services_ossservice_osslistresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "core_services_ossservice_swift",
+      "target": "services_ossservice_ossserviceprotocol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "core_services_ossservice_swift",
+      "target": "services_ossservice_ossservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L165",
+      "weight": 1.0,
+      "source": "core_services_ossservice_swift",
+      "target": "services_ossservice_osserror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L186",
+      "weight": 1.0,
+      "source": "core_services_ossservice_swift",
+      "target": "services_ossservice_ossxmlparser",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "services_ossservice_ossobject",
+      "target": "codable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "services_ossservice_ossobject",
+      "target": "identifiable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L269",
+      "weight": 1.0,
+      "source": "services_ossservice_ossxmlparser_createobjectfromcurrentdata",
+      "target": "services_ossservice_ossobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "models_video_video",
+      "target": "codable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "models_video_videocategory",
+      "target": "codable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L122",
+      "weight": 1.0,
+      "source": "models_video_banner",
+      "target": "codable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L145",
+      "weight": 1.0,
+      "source": "models_video_user",
+      "target": "codable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L168",
+      "weight": 1.0,
+      "source": "models_video_playbackrecord",
+      "target": "codable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L196",
+      "weight": 1.0,
+      "source": "models_video_usersettings",
+      "target": "codable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L216",
+      "weight": 1.0,
+      "source": "models_video_videoquality",
+      "target": "codable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "models_video_video",
+      "target": "identifiable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "models_video_videocategory",
+      "target": "identifiable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L122",
+      "weight": 1.0,
+      "source": "models_video_banner",
+      "target": "identifiable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L168",
+      "weight": 1.0,
+      "source": "models_video_playbackrecord",
+      "target": "identifiable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L211",
+      "weight": 1.0,
+      "source": "services_ossservice_ossxmlparser_parselistobjectsresponse",
+      "target": "services_ossservice_osslistresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "services_ossservice_ossservice",
+      "target": "services_ossservice_ossserviceprotocol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "services_ossservice_ossservice",
+      "target": "services_ossservice_ossservice_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "services_ossservice_ossservice",
+      "target": "services_ossservice_ossservice_listobjects",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L79",
+      "weight": 1.0,
+      "source": "services_ossservice_ossservice",
+      "target": "services_ossservice_ossservice_generatesignedurl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L97",
+      "weight": 1.0,
+      "source": "services_ossservice_ossservice",
+      "target": "services_ossservice_ossservice_buildlistobjectsurl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L113",
+      "weight": 1.0,
+      "source": "services_ossservice_ossservice",
+      "target": "services_ossservice_ossservice_createauthenticatedrequest",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L127",
+      "weight": 1.0,
+      "source": "services_ossservice_ossservice",
+      "target": "services_ossservice_ossservice_generateauthorization",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L138",
+      "weight": 1.0,
+      "source": "services_ossservice_ossservice",
+      "target": "services_ossservice_ossservice_formatdate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L146",
+      "weight": 1.0,
+      "source": "services_ossservice_ossservice",
+      "target": "services_ossservice_ossservice_hmacsha1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L154",
+      "weight": 1.0,
+      "source": "services_ossservice_ossservice",
+      "target": "services_ossservice_ossservice_parselistobjectsresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L65",
+      "weight": 1.0,
+      "source": "services_ossservice_ossservice_listobjects",
+      "target": "services_ossservice_ossservice_buildlistobjectsurl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L66",
+      "weight": 1.0,
+      "source": "services_ossservice_ossservice_listobjects",
+      "target": "services_ossservice_ossservice_createauthenticatedrequest",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L75",
+      "weight": 1.0,
+      "source": "services_ossservice_ossservice_listobjects",
+      "target": "services_ossservice_ossxmlparser_parselistobjectsresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L89",
+      "weight": 1.0,
+      "source": "services_ossservice_ossservice_generatesignedurl",
+      "target": "services_ossservice_ossservice_hmacsha1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L117",
+      "weight": 1.0,
+      "source": "services_ossservice_ossservice_createauthenticatedrequest",
+      "target": "services_ossservice_ossservice_formatdate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L121",
+      "weight": 1.0,
+      "source": "services_ossservice_ossservice_createauthenticatedrequest",
+      "target": "services_ossservice_ossservice_generateauthorization",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L133",
+      "weight": 1.0,
+      "source": "services_ossservice_ossservice_generateauthorization",
+      "target": "services_ossservice_ossservice_hmacsha1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L159",
+      "weight": 1.0,
+      "source": "services_ossservice_ossservice_parselistobjectsresponse",
+      "target": "services_ossservice_ossxmlparser",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L160",
+      "weight": 1.0,
+      "source": "services_ossservice_ossservice_parselistobjectsresponse",
+      "target": "services_ossservice_ossxmlparser_parselistobjectsresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L155",
+      "weight": 1.0,
+      "source": "services_ossservice_ossservice_parselistobjectsresponse",
+      "target": "string"
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L165",
+      "weight": 1.0,
+      "source": "services_ossservice_osserror",
+      "target": "localizederror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L166",
+      "weight": 1.0,
+      "source": "services_ossservice_osserror",
+      "target": "services_ossservice_osserror_requestfailed",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L167",
+      "weight": 1.0,
+      "source": "services_ossservice_osserror",
+      "target": "services_ossservice_osserror_invalidresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L168",
+      "weight": 1.0,
+      "source": "services_ossservice_osserror",
+      "target": "services_ossservice_osserror_xmlparsingerror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L169",
+      "weight": 1.0,
+      "source": "services_ossservice_osserror",
+      "target": "services_ossservice_osserror_signatureerror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L186",
+      "weight": 1.0,
+      "source": "services_ossservice_ossxmlparser",
+      "target": "nsobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L186",
+      "weight": 1.0,
+      "source": "services_ossservice_ossxmlparser",
+      "target": "xmlparserdelegate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L195",
+      "weight": 1.0,
+      "source": "services_ossservice_ossxmlparser",
+      "target": "services_ossservice_ossxmlparser_parselistobjectsresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L232",
+      "weight": 1.0,
+      "source": "services_ossservice_ossxmlparser",
+      "target": "services_ossservice_ossxmlparser_parser",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L257",
+      "weight": 1.0,
+      "source": "services_ossservice_ossxmlparser",
+      "target": "services_ossservice_ossxmlparser_createobjectfromcurrentdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L280",
+      "weight": 1.0,
+      "source": "services_ossservice_ossxmlparser",
+      "target": "services_ossservice_ossxmlparser_parsedate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "views_avplayerview_coordinator",
+      "target": "nsobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L245",
+      "weight": 1.0,
+      "source": "services_ossservice_ossxmlparser_parser",
+      "target": "services_ossservice_ossxmlparser_createobjectfromcurrentdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Core/Services/OSSService.swift",
+      "source_location": "L267",
+      "weight": 1.0,
+      "source": "services_ossservice_ossxmlparser_createobjectfromcurrentdata",
+      "target": "services_ossservice_ossxmlparser_parsedate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "app_appcoordinator_swift",
+      "target": "app_appcoordinator_appcoordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "app_appcoordinator_swift",
+      "target": "app_appcoordinator_tabbarcoordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L81",
+      "weight": 1.0,
+      "source": "app_appcoordinator_swift",
+      "target": "app_appcoordinator_settingscoordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "app_appcoordinator_appcoordinator",
+      "target": "basecoordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "app_appcoordinator_appcoordinator",
+      "target": "app_appcoordinator_appcoordinator_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "app_appcoordinator_appcoordinator",
+      "target": "app_appcoordinator_appcoordinator_start",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "app_appcoordinator_appcoordinator",
+      "target": "app_appcoordinator_appcoordinator_setupwindow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "app_appcoordinator_appcoordinator",
+      "target": "app_appcoordinator_appcoordinator_showmaininterface",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "app_appcoordinator_tabbarcoordinator",
+      "target": "basecoordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L81",
+      "weight": 1.0,
+      "source": "app_appcoordinator_settingscoordinator",
+      "target": "basecoordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_homecoordinator",
+      "target": "basecoordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_videocoordinator",
+      "target": "basecoordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L74",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_purchasecoordinator",
+      "target": "basecoordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "app_appcoordinator_appcoordinator_init",
+      "target": "app_appcoordinator_tabbarcoordinator_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "app_appcoordinator_appcoordinator_start",
+      "target": "app_appcoordinator_appcoordinator_setupwindow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "app_appcoordinator_appcoordinator_start",
+      "target": "app_appcoordinator_appcoordinator_showmaininterface",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "app_appcoordinator_appcoordinator_showmaininterface",
+      "target": "app_appcoordinator_tabbarcoordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "app_appcoordinator_appcoordinator_showmaininterface",
+      "target": "app_appcoordinator_settingscoordinator_start",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "app_appcoordinator_tabbarcoordinator",
+      "target": "app_appcoordinator_tabbarcoordinator_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "app_appcoordinator_tabbarcoordinator",
+      "target": "app_appcoordinator_tabbarcoordinator_start",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "app_appcoordinator_tabbarcoordinator",
+      "target": "app_appcoordinator_tabbarcoordinator_setuptabbarcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "app_appcoordinator_tabbarcoordinator_start",
+      "target": "app_appcoordinator_tabbarcoordinator_setuptabbarcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L54",
+      "weight": 1.0,
+      "source": "app_appcoordinator_tabbarcoordinator_setuptabbarcontroller",
+      "target": "app_appcoordinator_settingscoordinator_start",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "app_appcoordinator_tabbarcoordinator_setuptabbarcontroller",
+      "target": "app_appcoordinator_settingscoordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "app_appcoordinator_tabbarcoordinator_setuptabbarcontroller",
+      "target": "coordinators_homecoordinator_homecoordinator"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L82",
+      "weight": 1.0,
+      "source": "app_appcoordinator_settingscoordinator",
+      "target": "app_appcoordinator_settingscoordinator_start",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L86",
+      "weight": 1.0,
+      "source": "app_appcoordinator_settingscoordinator",
+      "target": "app_appcoordinator_settingscoordinator_showsettings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L83",
+      "weight": 1.0,
+      "source": "app_appcoordinator_settingscoordinator_start",
+      "target": "app_appcoordinator_settingscoordinator_showsettings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "App/AppCoordinator.swift",
+      "source_location": "L87",
+      "weight": 1.0,
+      "source": "app_appcoordinator_settingscoordinator_showsettings",
+      "target": "views_homeview_settingsview"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "App/ChildrenEnglishApp.swift",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "app_childrenenglishapp_swift",
+      "target": "app_childrenenglishapp_childrenenglishapp",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "App/ChildrenEnglishApp.swift",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "app_childrenenglishapp_childrenenglishapp",
+      "target": "app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "features_home_coordinators_homecoordinator_swift",
+      "target": "coordinators_homecoordinator_homecoordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "features_home_coordinators_homecoordinator_swift",
+      "target": "coordinators_homecoordinator_videocoordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L74",
+      "weight": 1.0,
+      "source": "features_home_coordinators_homecoordinator_swift",
+      "target": "coordinators_homecoordinator_purchasecoordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "features_home_coordinators_homecoordinator_swift",
+      "target": "coordinators_homecoordinator_purchaseview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_homecoordinator",
+      "target": "coordinators_homecoordinator_homecoordinator_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_homecoordinator",
+      "target": "coordinators_homecoordinator_homecoordinator_start",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_homecoordinator",
+      "target": "coordinators_homecoordinator_homecoordinator_showhome",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_homecoordinator",
+      "target": "coordinators_homecoordinator_homecoordinator_showvideolist",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_homecoordinator",
+      "target": "coordinators_homecoordinator_homecoordinator_showpurchase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_homecoordinator_init",
+      "target": "coordinators_homecoordinator_videocoordinator_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_homecoordinator_start",
+      "target": "coordinators_homecoordinator_homecoordinator_showhome",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_homecoordinator_showhome",
+      "target": "viewmodels_homeviewmodel_homeviewmodel"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_homecoordinator_showhome",
+      "target": "views_homeview_homeview"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_homecoordinator_showvideolist",
+      "target": "coordinators_homecoordinator_purchasecoordinator_showpurchase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_homecoordinator_showvideolist",
+      "target": "coordinators_homecoordinator_videocoordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_homecoordinator_showvideolist",
+      "target": "coordinators_homecoordinator_purchasecoordinator_start",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_homecoordinator_showpurchase",
+      "target": "coordinators_homecoordinator_purchasecoordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_homecoordinator_showpurchase",
+      "target": "coordinators_homecoordinator_purchasecoordinator_start",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L54",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_videocoordinator",
+      "target": "coordinators_homecoordinator_videocoordinator_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L60",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_videocoordinator",
+      "target": "coordinators_homecoordinator_videocoordinator_start",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_videocoordinator",
+      "target": "coordinators_homecoordinator_videocoordinator_showvideolist",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_videocoordinator_start",
+      "target": "coordinators_homecoordinator_videocoordinator_showvideolist",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L65",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_videocoordinator_showvideolist",
+      "target": "views_videolistview_videolistview"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L75",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_purchasecoordinator",
+      "target": "coordinators_homecoordinator_purchasecoordinator_start",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L79",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_purchasecoordinator",
+      "target": "coordinators_homecoordinator_purchasecoordinator_showpurchase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L76",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_purchasecoordinator_start",
+      "target": "coordinators_homecoordinator_purchasecoordinator_showpurchase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Coordinators/HomeCoordinator.swift",
+      "source_location": "L80",
+      "weight": 1.0,
+      "source": "coordinators_homecoordinator_purchasecoordinator_showpurchase",
+      "target": "coordinators_homecoordinator_purchaseview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "features_home_viewmodels_homeviewmodel_swift",
+      "target": "viewmodels_homeviewmodel_homeviewmodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "viewmodels_homeviewmodel_homeviewmodel",
+      "target": "baseviewmodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "viewmodels_homeviewmodel_homeviewmodel",
+      "target": "viewmodels_homeviewmodel_homeviewmodel_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "viewmodels_homeviewmodel_homeviewmodel",
+      "target": "viewmodels_homeviewmodel_homeviewmodel_loadcontent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "viewmodels_homeviewmodel_homeviewmodel",
+      "target": "viewmodels_homeviewmodel_homeviewmodel_refreshcontent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "viewmodels_homeviewmodel_homeviewmodel",
+      "target": "viewmodels_homeviewmodel_homeviewmodel_selectcategory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "viewmodels_homeviewmodel_homeviewmodel",
+      "target": "viewmodels_homeviewmodel_homeviewmodel_showpurchase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "viewmodels_homeviewmodel_homeviewmodel",
+      "target": "viewmodels_homeviewmodel_homeviewmodel_setupinitialdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "viewmodels_homeviewmodel_homeviewmodel",
+      "target": "viewmodels_homeviewmodel_homeviewmodel_loadcategories",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L65",
+      "weight": 1.0,
+      "source": "viewmodels_homeviewmodel_homeviewmodel",
+      "target": "viewmodels_homeviewmodel_homeviewmodel_loadbanners",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel",
+      "target": "baseviewmodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L177",
+      "weight": 1.0,
+      "source": "views_videolistview_videolistviewmodel",
+      "target": "baseviewmodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "viewmodels_homeviewmodel_homeviewmodel_init",
+      "target": "viewmodels_homeviewmodel_homeviewmodel_setupinitialdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "viewmodels_homeviewmodel_homeviewmodel_loadcontent",
+      "target": "viewmodels_homeviewmodel_homeviewmodel_loadcategories",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "viewmodels_homeviewmodel_homeviewmodel_loadcontent",
+      "target": "viewmodels_homeviewmodel_homeviewmodel_loadbanners",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/ViewModels/HomeViewModel.swift",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "viewmodels_homeviewmodel_homeviewmodel_refreshcontent",
+      "target": "viewmodels_homeviewmodel_homeviewmodel_loadcontent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Views/HomeView.swift",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "features_home_views_homeview_swift",
+      "target": "views_homeview_homeview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Views/HomeView.swift",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "features_home_views_homeview_swift",
+      "target": "views_homeview_bannerview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Views/HomeView.swift",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "features_home_views_homeview_swift",
+      "target": "views_homeview_banneritemview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Views/HomeView.swift",
+      "source_location": "L125",
+      "weight": 1.0,
+      "source": "features_home_views_homeview_swift",
+      "target": "views_homeview_categorygridview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Views/HomeView.swift",
+      "source_location": "L144",
+      "weight": 1.0,
+      "source": "features_home_views_homeview_swift",
+      "target": "views_homeview_categoryitemview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Views/HomeView.swift",
+      "source_location": "L182",
+      "weight": 1.0,
+      "source": "features_home_views_homeview_swift",
+      "target": "views_homeview_settingsview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Home/Views/HomeView.swift",
+      "source_location": "L80",
+      "weight": 1.0,
+      "source": "views_homeview_bannerview",
+      "target": "views_homeview_bannerview_startautoscroll",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "features_video_viewmodels_videoplayerviewmodel_swift",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L163",
+      "weight": 1.0,
+      "source": "features_video_viewmodels_videoplayerviewmodel_swift",
+      "target": "viewmodels_videoplayerviewmodel_favoriteserviceprotocol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L171",
+      "weight": 1.0,
+      "source": "features_video_viewmodels_videoplayerviewmodel_swift",
+      "target": "viewmodels_videoplayerviewmodel_defaultfavoriteservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_loadinitialvideo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_toggleplaypause",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_togglefavorite",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L70",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_sharevideo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L82",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_nextvideo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L88",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_previousvideo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L94",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_seekto",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L100",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_startplaying",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L105",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_stopplaying",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L110",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_cleanup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L116",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_resetplaybackstate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L122",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_startprogresstimer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L132",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_stopprogresstimer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L137",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_updateprogress",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L155",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_deinit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Features/Video/Views/VideoPlayerView.swift",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "views_videoplayerview_videoplayerview_init",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_init",
+      "target": "viewmodels_videoplayerviewmodel_defaultfavoriteservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_toggleplaypause",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_startprogresstimer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_toggleplaypause",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_stopprogresstimer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_togglefavorite",
+      "target": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_removefavorite",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L57",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_togglefavorite",
+      "target": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_addfavorite",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L85",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_nextvideo",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_resetplaybackstate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L150",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_updateprogress",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_nextvideo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_previousvideo",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_resetplaybackstate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L102",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_startplaying",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_startprogresstimer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L107",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_stopplaying",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_stopprogresstimer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L111",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_cleanup",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_stopprogresstimer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L119",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_resetplaybackstate",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_startprogresstimer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L123",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_startprogresstimer",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_stopprogresstimer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L127",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_startprogresstimer",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_updateprogress",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L146",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_updateprogress",
+      "target": "viewmodels_videoplayerviewmodel_videoplayerviewmodel_stopprogresstimer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L171",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_defaultfavoriteservice",
+      "target": "viewmodels_videoplayerviewmodel_favoriteserviceprotocol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L175",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_defaultfavoriteservice",
+      "target": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_addfavorite",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L181",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_defaultfavoriteservice",
+      "target": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_removefavorite",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L187",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_defaultfavoriteservice",
+      "target": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_getfavorites",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L193",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_defaultfavoriteservice",
+      "target": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_isfavorite",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L198",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_defaultfavoriteservice",
+      "target": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_getfavoriteids",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L203",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_defaultfavoriteservice",
+      "target": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_savefavoriteids",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L240",
+      "weight": 1.0,
+      "source": "views_videolistview_videolistviewmodel_updatefavoritestatus",
+      "target": "viewmodels_videoplayerviewmodel_defaultfavoriteservice"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L176",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_addfavorite",
+      "target": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_getfavoriteids",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L178",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_addfavorite",
+      "target": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_savefavoriteids",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L182",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_removefavorite",
+      "target": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_getfavoriteids",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L184",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_removefavorite",
+      "target": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_savefavoriteids",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/ViewModels/VideoPlayerViewModel.swift",
+      "source_location": "L194",
+      "weight": 1.0,
+      "source": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_isfavorite",
+      "target": "viewmodels_videoplayerviewmodel_defaultfavoriteservice_getfavoriteids",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoPlayerView.swift",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "features_video_views_videoplayerview_swift",
+      "target": "views_videoplayerview_videoplayerview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoPlayerView.swift",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "features_video_views_videoplayerview_swift",
+      "target": "views_videoplayerview_tiktokstylevideoplayer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoPlayerView.swift",
+      "source_location": "L81",
+      "weight": 1.0,
+      "source": "features_video_views_videoplayerview_swift",
+      "target": "views_videoplayerview_videoplayercard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoPlayerView.swift",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "views_videoplayerview_videoplayerview",
+      "target": "views_videoplayerview_videoplayerview_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoPlayerView.swift",
+      "source_location": "L212",
+      "weight": 1.0,
+      "source": "views_videoplayerview_videoplayercard",
+      "target": "views_videoplayerview_videoplayercard_setupplayer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "features_video_views_avplayerview_swift",
+      "target": "views_avplayerview_avplayerview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "features_video_views_avplayerview_swift",
+      "target": "views_avplayerview_coordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L168",
+      "weight": 1.0,
+      "source": "features_video_views_avplayerview_swift",
+      "target": "views_avplayerview_customvideoplayer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "views_avplayerview_avplayerview",
+      "target": "uiviewcontrollerrepresentable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "views_avplayerview_avplayerview",
+      "target": "views_avplayerview_avplayerview_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "views_avplayerview_avplayerview",
+      "target": "views_avplayerview_avplayerview_makeuiviewcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "views_avplayerview_avplayerview",
+      "target": "views_avplayerview_avplayerview_updateuiviewcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "views_avplayerview_avplayerview",
+      "target": "views_avplayerview_avplayerview_dismantleuiviewcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L69",
+      "weight": 1.0,
+      "source": "views_avplayerview_avplayerview",
+      "target": "views_avplayerview_avplayerview_makecoordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "views_avplayerview_avplayerview_makeuiviewcontroller",
+      "target": "views_avplayerview_coordinator_setupperiodictimeobserver",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "views_avplayerview_avplayerview_makeuiviewcontroller",
+      "target": "views_avplayerview_coordinator_setupplayerobservers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "views_avplayerview_avplayerview_dismantleuiviewcontroller",
+      "target": "views_avplayerview_coordinator_cleanupobservers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L70",
+      "weight": 1.0,
+      "source": "views_avplayerview_avplayerview_makecoordinator",
+      "target": "views_avplayerview_coordinator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L79",
+      "weight": 1.0,
+      "source": "views_avplayerview_coordinator",
+      "target": "views_avplayerview_coordinator_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L83",
+      "weight": 1.0,
+      "source": "views_avplayerview_coordinator",
+      "target": "views_avplayerview_coordinator_deinit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L87",
+      "weight": 1.0,
+      "source": "views_avplayerview_coordinator",
+      "target": "views_avplayerview_coordinator_cleanupobservers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L102",
+      "weight": 1.0,
+      "source": "views_avplayerview_coordinator",
+      "target": "views_avplayerview_coordinator_setupperiodictimeobserver",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L131",
+      "weight": 1.0,
+      "source": "views_avplayerview_coordinator",
+      "target": "views_avplayerview_coordinator_setupplayerobservers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L84",
+      "weight": 1.0,
+      "source": "views_avplayerview_coordinator_deinit",
+      "target": "views_avplayerview_coordinator_cleanupobservers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L333",
+      "weight": 1.0,
+      "source": "views_avplayerview_customvideoplayer",
+      "target": "views_avplayerview_customvideoplayer_loadvideourl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L347",
+      "weight": 1.0,
+      "source": "views_avplayerview_customvideoplayer",
+      "target": "views_avplayerview_customvideoplayer_formattime",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Features/Video/Views/AVPlayerView.swift",
+      "source_location": "L351",
+      "weight": 1.0,
+      "source": "views_avplayerview_customvideoplayer_formattime",
+      "target": "string"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "features_video_views_videolistview_swift",
+      "target": "views_videolistview_videolistview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "features_video_views_videolistview_swift",
+      "target": "views_videolistview_videolistitemview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L177",
+      "weight": 1.0,
+      "source": "features_video_views_videolistview_swift",
+      "target": "views_videolistview_videolistviewmodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "views_videolistview_videolistview",
+      "target": "views_videolistview_videolistview_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "views_videolistview_videolistview_init",
+      "target": "views_videolistview_videolistviewmodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L169",
+      "weight": 1.0,
+      "source": "views_videolistview_videolistitemview",
+      "target": "views_videolistview_videolistitemview_formatduration",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L172",
+      "weight": 1.0,
+      "source": "views_videolistview_videolistitemview_formatduration",
+      "target": "string"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L186",
+      "weight": 1.0,
+      "source": "views_videolistview_videolistviewmodel",
+      "target": "views_videolistview_videolistviewmodel_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L192",
+      "weight": 1.0,
+      "source": "views_videolistview_videolistviewmodel",
+      "target": "views_videolistview_videolistviewmodel_loadvideos",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L213",
+      "weight": 1.0,
+      "source": "views_videolistview_videolistviewmodel",
+      "target": "views_videolistview_videolistviewmodel_loadmorevideos",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L233",
+      "weight": 1.0,
+      "source": "views_videolistview_videolistviewmodel",
+      "target": "views_videolistview_videolistviewmodel_refreshvideos",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L239",
+      "weight": 1.0,
+      "source": "views_videolistview_videolistviewmodel",
+      "target": "views_videolistview_videolistviewmodel_updatefavoritestatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L205",
+      "weight": 1.0,
+      "source": "views_videolistview_videolistviewmodel_loadvideos",
+      "target": "views_videolistview_videolistviewmodel_updatefavoritestatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L219",
+      "weight": 1.0,
+      "source": "views_videolistview_videolistviewmodel_loadmorevideos",
+      "target": "views_videolistview_videolistviewmodel_loadvideos",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L236",
+      "weight": 1.0,
+      "source": "views_videolistview_videolistviewmodel_refreshvideos",
+      "target": "views_videolistview_videolistviewmodel_loadvideos",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Features/Video/Views/VideoListView.swift",
+      "source_location": "L225",
+      "weight": 1.0,
+      "source": "views_videolistview_videolistviewmodel_loadmorevideos",
+      "target": "views_videolistview_videolistviewmodel_updatefavoritestatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "data_models_video_swift",
+      "target": "models_video_video",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L231",
+      "weight": 1.0,
+      "source": "data_models_video_swift",
+      "target": "models_video_videocategory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L122",
+      "weight": 1.0,
+      "source": "data_models_video_swift",
+      "target": "models_video_banner",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L145",
+      "weight": 1.0,
+      "source": "data_models_video_swift",
+      "target": "models_video_user",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L168",
+      "weight": 1.0,
+      "source": "data_models_video_swift",
+      "target": "models_video_playbackrecord",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L196",
+      "weight": 1.0,
+      "source": "data_models_video_swift",
+      "target": "models_video_usersettings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L216",
+      "weight": 1.0,
+      "source": "data_models_video_swift",
+      "target": "models_video_videoquality",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "models_video_video",
+      "target": "equatable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "models_video_video",
+      "target": "models_video_video_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "models_video_videocategory",
+      "target": "equatable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L122",
+      "weight": 1.0,
+      "source": "models_video_banner",
+      "target": "equatable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "models_video_video_init",
+      "target": "models_video_videocategory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L99",
+      "weight": 1.0,
+      "source": "models_video_videocategory",
+      "target": "models_video_videocategory_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L129",
+      "weight": 1.0,
+      "source": "models_video_banner",
+      "target": "models_video_banner_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L152",
+      "weight": 1.0,
+      "source": "models_video_user",
+      "target": "models_video_user_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L180",
+      "weight": 1.0,
+      "source": "models_video_playbackrecord",
+      "target": "models_video_playbackrecord_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L202",
+      "weight": 1.0,
+      "source": "models_video_usersettings",
+      "target": "models_video_usersettings_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L216",
+      "weight": 1.0,
+      "source": "models_video_videoquality",
+      "target": "string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L216",
+      "weight": 1.0,
+      "source": "models_video_videoquality",
+      "target": "caseiterable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L217",
+      "weight": 1.0,
+      "source": "models_video_videoquality",
+      "target": "models_video_videoquality_low",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L218",
+      "weight": 1.0,
+      "source": "models_video_videoquality",
+      "target": "models_video_videoquality_medium",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "Data/Models/Video.swift",
+      "source_location": "L219",
+      "weight": 1.0,
+      "source": "models_video_videoquality",
+      "target": "models_video_videoquality_high",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}

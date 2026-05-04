@@ -1,6 +1,9 @@
 # ChildrenEnglish graphify Knowledge Graph
 
-- [Open interactive graphify visual graph](graph.html)
-- [GRAPH_REPORT.md](GRAPH_REPORT.md)
-- [graph.json](graph.json)
-- [Repository README.md](https://github.com/luowei/ChildrenEnglish#readme)
+This project is split into implementation-specific graphify graphs.
+
+- [OC](OC/)
+- [Swift](Swift/)
+- [Web](Web/)
+
+- [Repository README](https://github.com/luowei/ChildrenEnglish#readme)

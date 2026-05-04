@@ -1,0 +1,4014 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "Package.swift",
+      "file_type": "code",
+      "source_file": "Package.swift",
+      "source_location": "L1",
+      "id": "package_swift",
+      "community": 9,
+      "norm_label": "package.swift"
+    },
+    {
+      "label": "MyBrowserUITests.swift",
+      "file_type": "code",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L1",
+      "id": "mybrowseruitests_mybrowseruitests_swift",
+      "community": 5,
+      "norm_label": "mybrowseruitests.swift"
+    },
+    {
+      "label": "MyBrowserUITests",
+      "file_type": "code",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L10",
+      "id": "mybrowseruitests_mybrowseruitests_mybrowseruitests",
+      "community": 5,
+      "norm_label": "mybrowseruitests"
+    },
+    {
+      "label": "XCTestCase",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "xctestcase",
+      "community": 5,
+      "norm_label": "xctestcase"
+    },
+    {
+      "label": ".setUpWithError()",
+      "file_type": "code",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L14",
+      "id": "mybrowseruitests_mybrowseruitests_mybrowseruitests_setupwitherror",
+      "community": 5,
+      "norm_label": ".setupwitherror()"
+    },
+    {
+      "label": ".tearDownWithError()",
+      "file_type": "code",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L21",
+      "id": "mybrowseruitests_mybrowseruitests_mybrowseruitests_teardownwitherror",
+      "community": 5,
+      "norm_label": ".teardownwitherror()"
+    },
+    {
+      "label": ".testAppLaunch()",
+      "file_type": "code",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L27",
+      "id": "mybrowseruitests_mybrowseruitests_mybrowseruitests_testapplaunch",
+      "community": 5,
+      "norm_label": ".testapplaunch()"
+    },
+    {
+      "label": ".testTabNavigation()",
+      "file_type": "code",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L35",
+      "id": "mybrowseruitests_mybrowseruitests_mybrowseruitests_testtabnavigation",
+      "community": 5,
+      "norm_label": ".testtabnavigation()"
+    },
+    {
+      "label": ".testHomeViewElements()",
+      "file_type": "code",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L57",
+      "id": "mybrowseruitests_mybrowseruitests_mybrowseruitests_testhomeviewelements",
+      "community": 5,
+      "norm_label": ".testhomeviewelements()"
+    },
+    {
+      "label": ".testBookmarkView()",
+      "file_type": "code",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L71",
+      "id": "mybrowseruitests_mybrowseruitests_mybrowseruitests_testbookmarkview",
+      "community": 5,
+      "norm_label": ".testbookmarkview()"
+    },
+    {
+      "label": ".testBookmarkAddButton()",
+      "file_type": "code",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L87",
+      "id": "mybrowseruitests_mybrowseruitests_mybrowseruitests_testbookmarkaddbutton",
+      "community": 5,
+      "norm_label": ".testbookmarkaddbutton()"
+    },
+    {
+      "label": ".testSettingsView()",
+      "file_type": "code",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L100",
+      "id": "mybrowseruitests_mybrowseruitests_mybrowseruitests_testsettingsview",
+      "community": 5,
+      "norm_label": ".testsettingsview()"
+    },
+    {
+      "label": ".testSettingsItemTap()",
+      "file_type": "code",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L117",
+      "id": "mybrowseruitests_mybrowseruitests_mybrowseruitests_testsettingsitemtap",
+      "community": 5,
+      "norm_label": ".testsettingsitemtap()"
+    },
+    {
+      "label": ".testAccessibilityLabels()",
+      "file_type": "code",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L130",
+      "id": "mybrowseruitests_mybrowseruitests_mybrowseruitests_testaccessibilitylabels",
+      "community": 5,
+      "norm_label": ".testaccessibilitylabels()"
+    },
+    {
+      "label": ".testLaunchPerformance()",
+      "file_type": "code",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L140",
+      "id": "mybrowseruitests_mybrowseruitests_mybrowseruitests_testlaunchperformance",
+      "community": 5,
+      "norm_label": ".testlaunchperformance()"
+    },
+    {
+      "label": ".testScrollPerformance()",
+      "file_type": "code",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L149",
+      "id": "mybrowseruitests_mybrowseruitests_mybrowseruitests_testscrollperformance",
+      "community": 5,
+      "norm_label": ".testscrollperformance()"
+    },
+    {
+      "label": ".testScreenshots()",
+      "file_type": "code",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L165",
+      "id": "mybrowseruitests_mybrowseruitests_mybrowseruitests_testscreenshots",
+      "community": 5,
+      "norm_label": ".testscreenshots()"
+    },
+    {
+      "label": "MyBrowserUITestsLaunchTests.swift",
+      "file_type": "code",
+      "source_file": "MyBrowserUITests/MyBrowserUITestsLaunchTests.swift",
+      "source_location": "L1",
+      "id": "mybrowseruitests_mybrowseruitestslaunchtests_swift",
+      "community": 5,
+      "norm_label": "mybrowseruitestslaunchtests.swift"
+    },
+    {
+      "label": "MyBrowserUITestsLaunchTests",
+      "file_type": "code",
+      "source_file": "MyBrowserUITests/MyBrowserUITestsLaunchTests.swift",
+      "source_location": "L10",
+      "id": "mybrowseruitests_mybrowseruitestslaunchtests_mybrowseruitestslaunchtests",
+      "community": 5,
+      "norm_label": "mybrowseruitestslaunchtests"
+    },
+    {
+      "label": ".setUpWithError()",
+      "file_type": "code",
+      "source_file": "MyBrowserUITests/MyBrowserUITestsLaunchTests.swift",
+      "source_location": "L16",
+      "id": "mybrowseruitests_mybrowseruitestslaunchtests_mybrowseruitestslaunchtests_setupwitherror",
+      "community": 5,
+      "norm_label": ".setupwitherror()"
+    },
+    {
+      "label": ".testLaunch()",
+      "file_type": "code",
+      "source_file": "MyBrowserUITests/MyBrowserUITestsLaunchTests.swift",
+      "source_location": "L20",
+      "id": "mybrowseruitests_mybrowseruitestslaunchtests_mybrowseruitestslaunchtests_testlaunch",
+      "community": 5,
+      "norm_label": ".testlaunch()"
+    },
+    {
+      "label": "MyBrowserApp.swift",
+      "file_type": "code",
+      "source_file": "MyBrowser/MyBrowserApp.swift",
+      "source_location": "L1",
+      "id": "mybrowser_mybrowserapp_swift",
+      "community": 7,
+      "norm_label": "mybrowserapp.swift"
+    },
+    {
+      "label": "MyBrowserApp",
+      "file_type": "code",
+      "source_file": "MyBrowser/MyBrowserApp.swift",
+      "source_location": "L3",
+      "id": "mybrowser_mybrowserapp_mybrowserapp",
+      "community": 7,
+      "norm_label": "mybrowserapp"
+    },
+    {
+      "label": "App",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "app",
+      "community": 7,
+      "norm_label": "app"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "MyBrowser/MyBrowserApp.swift",
+      "source_location": "L8",
+      "id": "mybrowser_mybrowserapp_mybrowserapp_init",
+      "community": 7,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".setupApplication()",
+      "file_type": "code",
+      "source_file": "MyBrowser/MyBrowserApp.swift",
+      "source_location": "L23",
+      "id": "mybrowser_mybrowserapp_mybrowserapp_setupapplication",
+      "community": 7,
+      "norm_label": ".setupapplication()"
+    },
+    {
+      "label": ".setupDependencyInjection()",
+      "file_type": "code",
+      "source_file": "MyBrowser/MyBrowserApp.swift",
+      "source_location": "L31",
+      "id": "mybrowser_mybrowserapp_mybrowserapp_setupdependencyinjection",
+      "community": 7,
+      "norm_label": ".setupdependencyinjection()"
+    },
+    {
+      "label": ".configureAppearance()",
+      "file_type": "code",
+      "source_file": "MyBrowser/MyBrowserApp.swift",
+      "source_location": "L36",
+      "id": "mybrowser_mybrowserapp_mybrowserapp_configureappearance",
+      "community": 7,
+      "norm_label": ".configureappearance()"
+    },
+    {
+      "label": "ContentView.swift",
+      "file_type": "code",
+      "source_file": "MyBrowser/ContentView.swift",
+      "source_location": "L1",
+      "id": "mybrowser_contentview_swift",
+      "community": 0,
+      "norm_label": "contentview.swift"
+    },
+    {
+      "label": "ContentView",
+      "file_type": "code",
+      "source_file": "MyBrowser/ContentView.swift",
+      "source_location": "L3",
+      "id": "mybrowser_contentview_contentview",
+      "community": 0,
+      "norm_label": "contentview"
+    },
+    {
+      "label": "View",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "view",
+      "community": 0,
+      "norm_label": "view"
+    },
+    {
+      "label": "SettingsView.swift",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L1",
+      "id": "mybrowser_views_settingsview_swift",
+      "community": 0,
+      "norm_label": "settingsview.swift"
+    },
+    {
+      "label": "SettingsView",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L10",
+      "id": "views_settingsview_settingsview",
+      "community": 0,
+      "norm_label": "settingsview"
+    },
+    {
+      "label": ".clearAllData()",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L206",
+      "id": "views_settingsview_settingsview_clearalldata",
+      "community": 0,
+      "norm_label": ".clearalldata()"
+    },
+    {
+      "label": "FileManagerView",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L227",
+      "id": "views_settingsview_filemanagerview",
+      "community": 0,
+      "norm_label": "filemanagerview"
+    },
+    {
+      "label": ".loadFiles()",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L250",
+      "id": "views_settingsview_filemanagerview_loadfiles",
+      "community": 0,
+      "norm_label": ".loadfiles()"
+    },
+    {
+      "label": "DownloadsView",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L261",
+      "id": "views_settingsview_downloadsview",
+      "community": 0,
+      "norm_label": "downloadsview"
+    },
+    {
+      "label": ".loadDownloads()",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L300",
+      "id": "views_settingsview_downloadsview_loaddownloads",
+      "community": 0,
+      "norm_label": ".loaddownloads()"
+    },
+    {
+      "label": ".openDownload()",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L320",
+      "id": "views_settingsview_downloadsview_opendownload",
+      "community": 0,
+      "norm_label": ".opendownload()"
+    },
+    {
+      "label": ".deleteDownloads()",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L325",
+      "id": "views_settingsview_downloadsview_deletedownloads",
+      "community": 0,
+      "norm_label": ".deletedownloads()"
+    },
+    {
+      "label": "VersionInfoView",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L331",
+      "id": "views_settingsview_versioninfoview",
+      "community": 0,
+      "norm_label": "versioninfoview"
+    },
+    {
+      "label": "AboutView",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L380",
+      "id": "views_settingsview_aboutview",
+      "community": 0,
+      "norm_label": "aboutview"
+    },
+    {
+      "label": "InfoRow",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L442",
+      "id": "views_settingsview_inforow",
+      "community": 0,
+      "norm_label": "inforow"
+    },
+    {
+      "label": "FileRow",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L459",
+      "id": "views_settingsview_filerow",
+      "community": 0,
+      "norm_label": "filerow"
+    },
+    {
+      "label": "DownloadRow",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L496",
+      "id": "views_settingsview_downloadrow",
+      "community": 0,
+      "norm_label": "downloadrow"
+    },
+    {
+      "label": "FeatureBullet",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L534",
+      "id": "views_settingsview_featurebullet",
+      "community": 0,
+      "norm_label": "featurebullet"
+    },
+    {
+      "label": "FileItem",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L552",
+      "id": "views_settingsview_fileitem",
+      "community": 0,
+      "norm_label": "fileitem"
+    },
+    {
+      "label": "Identifiable",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "identifiable",
+      "community": 0,
+      "norm_label": "identifiable"
+    },
+    {
+      "label": "DownloadItem",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L560",
+      "id": "views_settingsview_downloaditem",
+      "community": 0,
+      "norm_label": "downloaditem"
+    },
+    {
+      "label": "formatFileSize()",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L571",
+      "id": "views_settingsview_formatfilesize",
+      "community": 0,
+      "norm_label": "formatfilesize()"
+    },
+    {
+      "label": "formatDate()",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L578",
+      "id": "views_settingsview_formatdate",
+      "community": 0,
+      "norm_label": "formatdate()"
+    },
+    {
+      "label": "HomeView.swift",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/HomeView.swift",
+      "source_location": "L1",
+      "id": "mybrowser_views_homeview_swift",
+      "community": 0,
+      "norm_label": "homeview.swift"
+    },
+    {
+      "label": "HomeView",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/HomeView.swift",
+      "source_location": "L10",
+      "id": "views_homeview_homeview",
+      "community": 0,
+      "norm_label": "homeview"
+    },
+    {
+      "label": ".searchAction()",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/HomeView.swift",
+      "source_location": "L148",
+      "id": "views_homeview_homeview_searchaction",
+      "community": 0,
+      "norm_label": ".searchaction()"
+    },
+    {
+      "label": "QuickAccessCard",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/HomeView.swift",
+      "source_location": "L154",
+      "id": "views_homeview_quickaccesscard",
+      "community": 0,
+      "norm_label": "quickaccesscard"
+    },
+    {
+      "label": "FeatureCard",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/HomeView.swift",
+      "source_location": "L185",
+      "id": "views_homeview_featurecard",
+      "community": 0,
+      "norm_label": "featurecard"
+    },
+    {
+      "label": "HistoryView",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/HomeView.swift",
+      "source_location": "L217",
+      "id": "views_homeview_historyview",
+      "community": 0,
+      "norm_label": "historyview"
+    },
+    {
+      "label": "HistoryItem",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/HomeView.swift",
+      "source_location": "L242",
+      "id": "views_homeview_historyitem",
+      "community": 0,
+      "norm_label": "historyitem"
+    },
+    {
+      "label": "BrowserView.swift",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/BrowserView.swift",
+      "source_location": "L1",
+      "id": "mybrowser_views_browserview_swift",
+      "community": 8,
+      "norm_label": "browserview.swift"
+    },
+    {
+      "label": "BrowserView",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/BrowserView.swift",
+      "source_location": "L11",
+      "id": "views_browserview_browserview",
+      "community": 8,
+      "norm_label": "browserview"
+    },
+    {
+      "label": ".loadURL()",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/BrowserView.swift",
+      "source_location": "L124",
+      "id": "views_browserview_browserview_loadurl",
+      "community": 8,
+      "norm_label": ".loadurl()"
+    },
+    {
+      "label": ".loadDefaultPage()",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/BrowserView.swift",
+      "source_location": "L146",
+      "id": "views_browserview_browserview_loaddefaultpage",
+      "community": 8,
+      "norm_label": ".loaddefaultpage()"
+    },
+    {
+      "label": ".addCurrentPageToBookmarks()",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/BrowserView.swift",
+      "source_location": "L153",
+      "id": "views_browserview_browserview_addcurrentpagetobookmarks",
+      "community": 8,
+      "norm_label": ".addcurrentpagetobookmarks()"
+    },
+    {
+      "label": ".shareCurrentPage()",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/BrowserView.swift",
+      "source_location": "L159",
+      "id": "views_browserview_browserview_sharecurrentpage",
+      "community": 8,
+      "norm_label": ".sharecurrentpage()"
+    },
+    {
+      "label": "BookmarksView.swift",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L1",
+      "id": "mybrowser_views_bookmarksview_swift",
+      "community": 6,
+      "norm_label": "bookmarksview.swift"
+    },
+    {
+      "label": "BookmarksView",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L12",
+      "id": "views_bookmarksview_bookmarksview",
+      "community": 6,
+      "norm_label": "bookmarksview"
+    },
+    {
+      "label": ".loadBookmarks()",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L197",
+      "id": "views_bookmarksview_bookmarksview_loadbookmarks",
+      "community": 6,
+      "norm_label": ".loadbookmarks()"
+    },
+    {
+      "label": ".openBookmark()",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L213",
+      "id": "views_bookmarksview_bookmarksview_openbookmark",
+      "community": 6,
+      "norm_label": ".openbookmark()"
+    },
+    {
+      "label": ".deleteBookmarks()",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L218",
+      "id": "views_bookmarksview_bookmarksview_deletebookmarks",
+      "community": 6,
+      "norm_label": ".deletebookmarks()"
+    },
+    {
+      "label": ".exportBookmarks()",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L237",
+      "id": "views_bookmarksview_bookmarksview_exportbookmarks",
+      "community": 6,
+      "norm_label": ".exportbookmarks()"
+    },
+    {
+      "label": ".importBookmarks()",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L254",
+      "id": "views_bookmarksview_bookmarksview_importbookmarks",
+      "community": 6,
+      "norm_label": ".importbookmarks()"
+    },
+    {
+      "label": "BookmarkRow",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L260",
+      "id": "views_bookmarksview_bookmarkrow",
+      "community": 6,
+      "norm_label": "bookmarkrow"
+    },
+    {
+      "label": "AddBookmarkView",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L327",
+      "id": "views_bookmarksview_addbookmarkview",
+      "community": 6,
+      "norm_label": "addbookmarkview"
+    },
+    {
+      "label": ".saveBookmark()",
+      "file_type": "code",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L382",
+      "id": "views_bookmarksview_addbookmarkview_savebookmark",
+      "community": 6,
+      "norm_label": ".savebookmark()"
+    },
+    {
+      "label": "MyBrowserTests.swift",
+      "file_type": "code",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L1",
+      "id": "mybrowsertests_mybrowsertests_swift",
+      "community": 3,
+      "norm_label": "mybrowsertests.swift"
+    },
+    {
+      "label": "MyBrowserTests",
+      "file_type": "code",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L12",
+      "id": "mybrowsertests_mybrowsertests_mybrowsertests",
+      "community": 3,
+      "norm_label": "mybrowsertests"
+    },
+    {
+      "label": ".setUpWithError()",
+      "file_type": "code",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L16",
+      "id": "mybrowsertests_mybrowsertests_mybrowsertests_setupwitherror",
+      "community": 3,
+      "norm_label": ".setupwitherror()"
+    },
+    {
+      "label": ".tearDownWithError()",
+      "file_type": "code",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L20",
+      "id": "mybrowsertests_mybrowsertests_mybrowsertests_teardownwitherror",
+      "community": 3,
+      "norm_label": ".teardownwitherror()"
+    },
+    {
+      "label": ".testDIContainerRegistration()",
+      "file_type": "code",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L26",
+      "id": "mybrowsertests_mybrowsertests_mybrowsertests_testdicontainerregistration",
+      "community": 3,
+      "norm_label": ".testdicontainerregistration()"
+    },
+    {
+      "label": ".testDIContainerFactoryRegistration()",
+      "file_type": "code",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L41",
+      "id": "mybrowsertests_mybrowsertests_mybrowsertests_testdicontainerfactoryregistration",
+      "community": 3,
+      "norm_label": ".testdicontainerfactoryregistration()"
+    },
+    {
+      "label": ".testBookmarkServiceFetch()",
+      "file_type": "code",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L60",
+      "id": "mybrowsertests_mybrowsertests_mybrowsertests_testbookmarkservicefetch",
+      "community": 3,
+      "norm_label": ".testbookmarkservicefetch()"
+    },
+    {
+      "label": ".testBookmarkServiceAdd()",
+      "file_type": "code",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L84",
+      "id": "mybrowsertests_mybrowsertests_mybrowsertests_testbookmarkserviceadd",
+      "community": 2,
+      "norm_label": ".testbookmarkserviceadd()"
+    },
+    {
+      "label": ".testBookmarkValidation()",
+      "file_type": "code",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L112",
+      "id": "mybrowsertests_mybrowsertests_mybrowsertests_testbookmarkvalidation",
+      "community": 2,
+      "norm_label": ".testbookmarkvalidation()"
+    },
+    {
+      "label": ".testBrowserEngineInitialization()",
+      "file_type": "code",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L124",
+      "id": "mybrowsertests_mybrowsertests_mybrowsertests_testbrowserengineinitialization",
+      "community": 3,
+      "norm_label": ".testbrowserengineinitialization()"
+    },
+    {
+      "label": ".testBrowserEngineLoadURL()",
+      "file_type": "code",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L136",
+      "id": "mybrowsertests_mybrowsertests_mybrowsertests_testbrowserengineloadurl",
+      "community": 3,
+      "norm_label": ".testbrowserengineloadurl()"
+    },
+    {
+      "label": ".testBrowserEngineURLPreprocessing()",
+      "file_type": "code",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L149",
+      "id": "mybrowsertests_mybrowsertests_mybrowsertests_testbrowserengineurlpreprocessing",
+      "community": 3,
+      "norm_label": ".testbrowserengineurlpreprocessing()"
+    },
+    {
+      "label": ".testDIContainerPerformance()",
+      "file_type": "code",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L163",
+      "id": "mybrowsertests_mybrowsertests_mybrowsertests_testdicontainerperformance",
+      "community": 3,
+      "norm_label": ".testdicontainerperformance()"
+    },
+    {
+      "label": ".testBookmarkSearchPerformance()",
+      "file_type": "code",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L174",
+      "id": "mybrowsertests_mybrowsertests_mybrowsertests_testbookmarksearchperformance",
+      "community": 2,
+      "norm_label": ".testbookmarksearchperformance()"
+    },
+    {
+      "label": "MockServiceProtocol",
+      "file_type": "code",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L203",
+      "id": "mybrowsertests_mybrowsertests_mockserviceprotocol",
+      "community": 3,
+      "norm_label": "mockserviceprotocol"
+    },
+    {
+      "label": "MockService",
+      "file_type": "code",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L207",
+      "id": "mybrowsertests_mybrowsertests_mockservice",
+      "community": 3,
+      "norm_label": "mockservice"
+    },
+    {
+      "label": ".performAction()",
+      "file_type": "code",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L208",
+      "id": "mybrowsertests_mybrowsertests_mockservice_performaction",
+      "community": 3,
+      "norm_label": ".performaction()"
+    },
+    {
+      "label": "MyBrowserKit.h",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/MyBrowserKit.h",
+      "source_location": "L1",
+      "id": "mybrowserkit_mybrowserkit_h",
+      "community": 10,
+      "norm_label": "mybrowserkit.h"
+    },
+    {
+      "label": "WebViewManager.swift",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L1",
+      "id": "mybrowserkit_webengine_webviewmanager_swift",
+      "community": 1,
+      "norm_label": "webviewmanager.swift"
+    },
+    {
+      "label": "WebViewManagerProtocol",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L16",
+      "id": "webengine_webviewmanager_webviewmanagerprotocol",
+      "community": 1,
+      "norm_label": "webviewmanagerprotocol"
+    },
+    {
+      "label": "ObservableObject",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "observableobject",
+      "community": 1,
+      "norm_label": "observableobject"
+    },
+    {
+      "label": "WebViewManager",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L37",
+      "id": "webengine_webviewmanager_webviewmanager",
+      "community": 1,
+      "norm_label": "webviewmanager"
+    },
+    {
+      "label": "NSObject",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "nsobject",
+      "community": 1,
+      "norm_label": "nsobject"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L60",
+      "id": "webengine_webviewmanager_webviewmanager_init",
+      "community": 1,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".setupWebView()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L73",
+      "id": "webengine_webviewmanager_webviewmanager_setupwebview",
+      "community": 1,
+      "norm_label": ".setupwebview()"
+    },
+    {
+      "label": ".setupObservers()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L85",
+      "id": "webengine_webviewmanager_webviewmanager_setupobservers",
+      "community": 1,
+      "norm_label": ".setupobservers()"
+    },
+    {
+      "label": ".configureUserContentController()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L117",
+      "id": "webengine_webviewmanager_webviewmanager_configureusercontentcontroller",
+      "community": 1,
+      "norm_label": ".configureusercontentcontroller()"
+    },
+    {
+      "label": ".createUserAgent()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L140",
+      "id": "webengine_webviewmanager_webviewmanager_createuseragent",
+      "community": 1,
+      "norm_label": ".createuseragent()"
+    },
+    {
+      "label": ".load()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L147",
+      "id": "webengine_webviewmanager_webviewmanager_load",
+      "community": 1,
+      "norm_label": ".load()"
+    },
+    {
+      "label": ".goBack()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L156",
+      "id": "webengine_webviewmanager_webviewmanager_goback",
+      "community": 1,
+      "norm_label": ".goback()"
+    },
+    {
+      "label": ".goForward()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L160",
+      "id": "webengine_webviewmanager_webviewmanager_goforward",
+      "community": 1,
+      "norm_label": ".goforward()"
+    },
+    {
+      "label": ".reload()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L164",
+      "id": "webengine_webviewmanager_webviewmanager_reload",
+      "community": 1,
+      "norm_label": ".reload()"
+    },
+    {
+      "label": ".stop()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L168",
+      "id": "webengine_webviewmanager_webviewmanager_stop",
+      "community": 1,
+      "norm_label": ".stop()"
+    },
+    {
+      "label": ".evaluateJavaScript()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L172",
+      "id": "webengine_webviewmanager_webviewmanager_evaluatejavascript",
+      "community": 1,
+      "norm_label": ".evaluatejavascript()"
+    },
+    {
+      "label": ".takeSnapshot()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L189",
+      "id": "webengine_webviewmanager_webviewmanager_takesnapshot",
+      "community": 1,
+      "norm_label": ".takesnapshot()"
+    },
+    {
+      "label": ".findInPage()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L204",
+      "id": "webengine_webviewmanager_webviewmanager_findinpage",
+      "community": 1,
+      "norm_label": ".findinpage()"
+    },
+    {
+      "label": ".clearWebsiteData()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L211",
+      "id": "webengine_webviewmanager_webviewmanager_clearwebsitedata",
+      "community": 1,
+      "norm_label": ".clearwebsitedata()"
+    },
+    {
+      "label": "WKNavigationDelegate",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "wknavigationdelegate",
+      "community": 1,
+      "norm_label": "wknavigationdelegate"
+    },
+    {
+      "label": ".webView()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L227",
+      "id": "webengine_webviewmanager_webviewmanager_webview",
+      "community": 1,
+      "norm_label": ".webview()"
+    },
+    {
+      "label": "WKUIDelegate",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "wkuidelegate",
+      "community": 1,
+      "norm_label": "wkuidelegate"
+    },
+    {
+      "label": "WKScriptMessageHandler",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "wkscriptmessagehandler",
+      "community": 1,
+      "norm_label": "wkscriptmessagehandler"
+    },
+    {
+      "label": ".userContentController()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L292",
+      "id": "webengine_webviewmanager_webviewmanager_usercontentcontroller",
+      "community": 1,
+      "norm_label": ".usercontentcontroller()"
+    },
+    {
+      "label": "WebView",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L305",
+      "id": "webengine_webviewmanager_webview",
+      "community": 1,
+      "norm_label": "webview"
+    },
+    {
+      "label": "UIViewRepresentable",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "uiviewrepresentable",
+      "community": 1,
+      "norm_label": "uiviewrepresentable"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L309",
+      "id": "webengine_webviewmanager_webview_init",
+      "community": 1,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".makeUIView()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L313",
+      "id": "webengine_webviewmanager_webview_makeuiview",
+      "community": 1,
+      "norm_label": ".makeuiview()"
+    },
+    {
+      "label": ".updateUIView()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L317",
+      "id": "webengine_webviewmanager_webview_updateuiview",
+      "community": 1,
+      "norm_label": ".updateuiview()"
+    },
+    {
+      "label": "DIContainer.swift",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/UtilityKit/DIContainer.swift",
+      "source_location": "L1",
+      "id": "mybrowserkit_utilitykit_dicontainer_swift",
+      "community": 3,
+      "norm_label": "dicontainer.swift"
+    },
+    {
+      "label": "DIContainer",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/UtilityKit/DIContainer.swift",
+      "source_location": "L15",
+      "id": "utilitykit_dicontainer_dicontainer",
+      "community": 3,
+      "norm_label": "dicontainer"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/UtilityKit/DIContainer.swift",
+      "source_location": "L28",
+      "id": "utilitykit_dicontainer_dicontainer_init",
+      "community": 3,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".register()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/UtilityKit/DIContainer.swift",
+      "source_location": "L36",
+      "id": "utilitykit_dicontainer_dicontainer_register",
+      "community": 3,
+      "norm_label": ".register()"
+    },
+    {
+      "label": ".resolve()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/UtilityKit/DIContainer.swift",
+      "source_location": "L57",
+      "id": "utilitykit_dicontainer_dicontainer_resolve",
+      "community": 3,
+      "norm_label": ".resolve()"
+    },
+    {
+      "label": ".tryResolve()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/UtilityKit/DIContainer.swift",
+      "source_location": "L74",
+      "id": "utilitykit_dicontainer_dicontainer_tryresolve",
+      "community": 3,
+      "norm_label": ".tryresolve()"
+    },
+    {
+      "label": ".isRegistered()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/UtilityKit/DIContainer.swift",
+      "source_location": "L91",
+      "id": "utilitykit_dicontainer_dicontainer_isregistered",
+      "community": 3,
+      "norm_label": ".isregistered()"
+    },
+    {
+      "label": ".unregister()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/UtilityKit/DIContainer.swift",
+      "source_location": "L100",
+      "id": "utilitykit_dicontainer_dicontainer_unregister",
+      "community": 3,
+      "norm_label": ".unregister()"
+    },
+    {
+      "label": ".clear()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/UtilityKit/DIContainer.swift",
+      "source_location": "L108",
+      "id": "utilitykit_dicontainer_dicontainer_clear",
+      "community": 3,
+      "norm_label": ".clear()"
+    },
+    {
+      "label": ".registerCoreServices()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/UtilityKit/DIContainer.swift",
+      "source_location": "L122",
+      "id": "utilitykit_dicontainer_dicontainer_registercoreservices",
+      "community": 3,
+      "norm_label": ".registercoreservices()"
+    },
+    {
+      "label": "BookmarkService.swift",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L1",
+      "id": "mybrowserkit_dataservice_bookmarkservice_swift",
+      "community": 2,
+      "norm_label": "bookmarkservice.swift"
+    },
+    {
+      "label": "Bookmark",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L13",
+      "id": "dataservice_bookmarkservice_bookmark",
+      "community": 2,
+      "norm_label": "bookmark"
+    },
+    {
+      "label": "Codable",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "codable",
+      "community": 2,
+      "norm_label": "codable"
+    },
+    {
+      "label": "Equatable",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "equatable",
+      "community": 2,
+      "norm_label": "equatable"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L26",
+      "id": "dataservice_bookmarkservice_bookmark_init",
+      "community": 2,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "BookmarkServiceProtocol",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L56",
+      "id": "dataservice_bookmarkservice_bookmarkserviceprotocol",
+      "community": 2,
+      "norm_label": "bookmarkserviceprotocol"
+    },
+    {
+      "label": "BookmarkService",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L78",
+      "id": "dataservice_bookmarkservice_bookmarkservice",
+      "community": 2,
+      "norm_label": "bookmarkservice"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L91",
+      "id": "dataservice_bookmarkservice_bookmarkservice_init",
+      "community": 2,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".loadBookmarks()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L100",
+      "id": "dataservice_bookmarkservice_bookmarkservice_loadbookmarks",
+      "community": 2,
+      "norm_label": ".loadbookmarks()"
+    },
+    {
+      "label": ".fetchBookmarks()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L117",
+      "id": "dataservice_bookmarkservice_bookmarkservice_fetchbookmarks",
+      "community": 2,
+      "norm_label": ".fetchbookmarks()"
+    },
+    {
+      "label": ".fetchFavoriteBookmarks()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L144",
+      "id": "dataservice_bookmarkservice_bookmarkservice_fetchfavoritebookmarks",
+      "community": 2,
+      "norm_label": ".fetchfavoritebookmarks()"
+    },
+    {
+      "label": ".fetchHomeUpBookmarks()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L153",
+      "id": "dataservice_bookmarkservice_bookmarkservice_fetchhomeupbookmarks",
+      "community": 2,
+      "norm_label": ".fetchhomeupbookmarks()"
+    },
+    {
+      "label": ".fetchHomeDownBookmarks()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L162",
+      "id": "dataservice_bookmarkservice_bookmarkservice_fetchhomedownbookmarks",
+      "community": 2,
+      "norm_label": ".fetchhomedownbookmarks()"
+    },
+    {
+      "label": ".fetchSecretBookmarks()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L171",
+      "id": "dataservice_bookmarkservice_bookmarkservice_fetchsecretbookmarks",
+      "community": 2,
+      "norm_label": ".fetchsecretbookmarks()"
+    },
+    {
+      "label": ".addBookmark()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L180",
+      "id": "dataservice_bookmarkservice_bookmarkservice_addbookmark",
+      "community": 2,
+      "norm_label": ".addbookmark()"
+    },
+    {
+      "label": ".updateBookmark()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L193",
+      "id": "dataservice_bookmarkservice_bookmarkservice_updatebookmark",
+      "community": 2,
+      "norm_label": ".updatebookmark()"
+    },
+    {
+      "label": ".deleteBookmark()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L208",
+      "id": "dataservice_bookmarkservice_bookmarkservice_deletebookmark",
+      "community": 2,
+      "norm_label": ".deletebookmark()"
+    },
+    {
+      "label": ".deleteBookmarks()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L212",
+      "id": "dataservice_bookmarkservice_bookmarkservice_deletebookmarks",
+      "community": 2,
+      "norm_label": ".deletebookmarks()"
+    },
+    {
+      "label": ".searchBookmarks()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L225",
+      "id": "dataservice_bookmarkservice_bookmarkservice_searchbookmarks",
+      "community": 2,
+      "norm_label": ".searchbookmarks()"
+    },
+    {
+      "label": ".isBookmarked()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L237",
+      "id": "dataservice_bookmarkservice_bookmarkservice_isbookmarked",
+      "community": 2,
+      "norm_label": ".isbookmarked()"
+    },
+    {
+      "label": ".exportBookmarks()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L245",
+      "id": "dataservice_bookmarkservice_bookmarkservice_exportbookmarks",
+      "community": 2,
+      "norm_label": ".exportbookmarks()"
+    },
+    {
+      "label": ".importBookmarks()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L273",
+      "id": "dataservice_bookmarkservice_bookmarkservice_importbookmarks",
+      "community": 2,
+      "norm_label": ".importbookmarks()"
+    },
+    {
+      "label": "CoreDataManagerProtocol",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L290",
+      "id": "dataservice_bookmarkservice_coredatamanagerprotocol",
+      "community": 2,
+      "norm_label": "coredatamanagerprotocol"
+    },
+    {
+      "label": "CoreDataManager",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L297",
+      "id": "dataservice_bookmarkservice_coredatamanager",
+      "community": 2,
+      "norm_label": "coredatamanager"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L301",
+      "id": "dataservice_bookmarkservice_coredatamanager_init",
+      "community": 2,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".sampleBookmarks()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L312",
+      "id": "dataservice_bookmarkservice_bookmark_samplebookmarks",
+      "community": 2,
+      "norm_label": ".samplebookmarks()"
+    },
+    {
+      "label": "BrowserEngine.swift",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L1",
+      "id": "mybrowserkit_browsercore_browserengine_swift",
+      "community": 4,
+      "norm_label": "browserengine.swift"
+    },
+    {
+      "label": "BrowserEngineProtocol",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L15",
+      "id": "browsercore_browserengine_browserengineprotocol",
+      "community": 4,
+      "norm_label": "browserengineprotocol"
+    },
+    {
+      "label": "BrowserEngine",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L33",
+      "id": "browsercore_browserengine_browserengine",
+      "community": 4,
+      "norm_label": "browserengine"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L50",
+      "id": "browsercore_browserengine_browserengine_init",
+      "community": 4,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".setupBindings()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L56",
+      "id": "browsercore_browserengine_browserengine_setupbindings",
+      "community": 4,
+      "norm_label": ".setupbindings()"
+    },
+    {
+      "label": ".load()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L63",
+      "id": "browsercore_browserengine_browserengine_load",
+      "community": 4,
+      "norm_label": ".load()"
+    },
+    {
+      "label": ".goBack()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L94",
+      "id": "browsercore_browserengine_browserengine_goback",
+      "community": 4,
+      "norm_label": ".goback()"
+    },
+    {
+      "label": ".goForward()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L101",
+      "id": "browsercore_browserengine_browserengine_goforward",
+      "community": 4,
+      "norm_label": ".goforward()"
+    },
+    {
+      "label": ".reload()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L108",
+      "id": "browsercore_browserengine_browserengine_reload",
+      "community": 4,
+      "norm_label": ".reload()"
+    },
+    {
+      "label": ".stop()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L118",
+      "id": "browsercore_browserengine_browserengine_stop",
+      "community": 4,
+      "norm_label": ".stop()"
+    },
+    {
+      "label": ".preprocessURL()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L127",
+      "id": "browsercore_browserengine_browserengine_preprocessurl",
+      "community": 4,
+      "norm_label": ".preprocessurl()"
+    },
+    {
+      "label": ".performSearch()",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L140",
+      "id": "browsercore_browserengine_browserengine_performsearch",
+      "community": 4,
+      "norm_label": ".performsearch()"
+    },
+    {
+      "label": "BrowserState",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L155",
+      "id": "browsercore_browserengine_browserstate",
+      "community": 4,
+      "norm_label": "browserstate"
+    },
+    {
+      "label": "idle",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L156",
+      "id": "browsercore_browserengine_browserstate_idle",
+      "community": 4,
+      "norm_label": "idle"
+    },
+    {
+      "label": "loading",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L157",
+      "id": "browsercore_browserengine_browserstate_loading",
+      "community": 4,
+      "norm_label": "loading"
+    },
+    {
+      "label": "loaded",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L158",
+      "id": "browsercore_browserengine_browserstate_loaded",
+      "community": 4,
+      "norm_label": "loaded"
+    },
+    {
+      "label": "error",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L159",
+      "id": "browsercore_browserengine_browserstate_error",
+      "community": 4,
+      "norm_label": "error"
+    },
+    {
+      "label": "BrowserError",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L163",
+      "id": "browsercore_browserengine_browsererror",
+      "community": 4,
+      "norm_label": "browsererror"
+    },
+    {
+      "label": "LocalizedError",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "localizederror",
+      "community": 4,
+      "norm_label": "localizederror"
+    },
+    {
+      "label": "invalidURL",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L164",
+      "id": "browsercore_browserengine_browsererror_invalidurl",
+      "community": 4,
+      "norm_label": "invalidurl"
+    },
+    {
+      "label": "networkError",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L165",
+      "id": "browsercore_browserengine_browsererror_networkerror",
+      "community": 4,
+      "norm_label": "networkerror"
+    },
+    {
+      "label": "loadingFailed",
+      "file_type": "code",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L166",
+      "id": "browsercore_browserengine_browsererror_loadingfailed",
+      "community": 4,
+      "norm_label": "loadingfailed"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "mybrowseruitests_mybrowseruitests_swift",
+      "target": "mybrowseruitests_mybrowseruitests_mybrowseruitests",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "mybrowseruitests_mybrowseruitests_mybrowseruitests",
+      "target": "xctestcase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "mybrowseruitests_mybrowseruitests_mybrowseruitests",
+      "target": "mybrowseruitests_mybrowseruitests_mybrowseruitests_setupwitherror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "mybrowseruitests_mybrowseruitests_mybrowseruitests",
+      "target": "mybrowseruitests_mybrowseruitests_mybrowseruitests_teardownwitherror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "mybrowseruitests_mybrowseruitests_mybrowseruitests",
+      "target": "mybrowseruitests_mybrowseruitests_mybrowseruitests_testapplaunch",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "mybrowseruitests_mybrowseruitests_mybrowseruitests",
+      "target": "mybrowseruitests_mybrowseruitests_mybrowseruitests_testtabnavigation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L57",
+      "weight": 1.0,
+      "source": "mybrowseruitests_mybrowseruitests_mybrowseruitests",
+      "target": "mybrowseruitests_mybrowseruitests_mybrowseruitests_testhomeviewelements",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L71",
+      "weight": 1.0,
+      "source": "mybrowseruitests_mybrowseruitests_mybrowseruitests",
+      "target": "mybrowseruitests_mybrowseruitests_mybrowseruitests_testbookmarkview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L87",
+      "weight": 1.0,
+      "source": "mybrowseruitests_mybrowseruitests_mybrowseruitests",
+      "target": "mybrowseruitests_mybrowseruitests_mybrowseruitests_testbookmarkaddbutton",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L100",
+      "weight": 1.0,
+      "source": "mybrowseruitests_mybrowseruitests_mybrowseruitests",
+      "target": "mybrowseruitests_mybrowseruitests_mybrowseruitests_testsettingsview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L117",
+      "weight": 1.0,
+      "source": "mybrowseruitests_mybrowseruitests_mybrowseruitests",
+      "target": "mybrowseruitests_mybrowseruitests_mybrowseruitests_testsettingsitemtap",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L130",
+      "weight": 1.0,
+      "source": "mybrowseruitests_mybrowseruitests_mybrowseruitests",
+      "target": "mybrowseruitests_mybrowseruitests_mybrowseruitests_testaccessibilitylabels",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L140",
+      "weight": 1.0,
+      "source": "mybrowseruitests_mybrowseruitests_mybrowseruitests",
+      "target": "mybrowseruitests_mybrowseruitests_mybrowseruitests_testlaunchperformance",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L149",
+      "weight": 1.0,
+      "source": "mybrowseruitests_mybrowseruitests_mybrowseruitests",
+      "target": "mybrowseruitests_mybrowseruitests_mybrowseruitests_testscrollperformance",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserUITests/MyBrowserUITests.swift",
+      "source_location": "L165",
+      "weight": 1.0,
+      "source": "mybrowseruitests_mybrowseruitests_mybrowseruitests",
+      "target": "mybrowseruitests_mybrowseruitests_mybrowseruitests_testscreenshots",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserUITests/MyBrowserUITestsLaunchTests.swift",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "mybrowseruitests_mybrowseruitestslaunchtests_mybrowseruitestslaunchtests",
+      "target": "xctestcase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests",
+      "target": "xctestcase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserUITests/MyBrowserUITestsLaunchTests.swift",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "mybrowseruitests_mybrowseruitestslaunchtests_swift",
+      "target": "mybrowseruitests_mybrowseruitestslaunchtests_mybrowseruitestslaunchtests",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserUITests/MyBrowserUITestsLaunchTests.swift",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "mybrowseruitests_mybrowseruitestslaunchtests_mybrowseruitestslaunchtests",
+      "target": "mybrowseruitests_mybrowseruitestslaunchtests_mybrowseruitestslaunchtests_setupwitherror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserUITests/MyBrowserUITestsLaunchTests.swift",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "mybrowseruitests_mybrowseruitestslaunchtests_mybrowseruitestslaunchtests",
+      "target": "mybrowseruitests_mybrowseruitestslaunchtests_mybrowseruitestslaunchtests_testlaunch",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/MyBrowserApp.swift",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "mybrowser_mybrowserapp_swift",
+      "target": "mybrowser_mybrowserapp_mybrowserapp",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/MyBrowserApp.swift",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "mybrowser_mybrowserapp_mybrowserapp",
+      "target": "app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/MyBrowserApp.swift",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "mybrowser_mybrowserapp_mybrowserapp",
+      "target": "mybrowser_mybrowserapp_mybrowserapp_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/MyBrowserApp.swift",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "mybrowser_mybrowserapp_mybrowserapp",
+      "target": "mybrowser_mybrowserapp_mybrowserapp_setupapplication",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/MyBrowserApp.swift",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "mybrowser_mybrowserapp_mybrowserapp",
+      "target": "mybrowser_mybrowserapp_mybrowserapp_setupdependencyinjection",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/MyBrowserApp.swift",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "mybrowser_mybrowserapp_mybrowserapp",
+      "target": "mybrowser_mybrowserapp_mybrowserapp_configureappearance",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/MyBrowserApp.swift",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "mybrowser_mybrowserapp_mybrowserapp_init",
+      "target": "mybrowser_mybrowserapp_mybrowserapp_setupapplication",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/MyBrowserApp.swift",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "mybrowser_mybrowserapp_mybrowserapp_setupapplication",
+      "target": "mybrowser_mybrowserapp_mybrowserapp_setupdependencyinjection",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/MyBrowserApp.swift",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "mybrowser_mybrowserapp_mybrowserapp_setupapplication",
+      "target": "mybrowser_mybrowserapp_mybrowserapp_configureappearance",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/ContentView.swift",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "mybrowser_contentview_swift",
+      "target": "mybrowser_contentview_contentview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/ContentView.swift",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "mybrowser_contentview_contentview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "views_settingsview_settingsview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L227",
+      "weight": 1.0,
+      "source": "views_settingsview_filemanagerview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L261",
+      "weight": 1.0,
+      "source": "views_settingsview_downloadsview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L331",
+      "weight": 1.0,
+      "source": "views_settingsview_versioninfoview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L380",
+      "weight": 1.0,
+      "source": "views_settingsview_aboutview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L442",
+      "weight": 1.0,
+      "source": "views_settingsview_inforow",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L459",
+      "weight": 1.0,
+      "source": "views_settingsview_filerow",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L496",
+      "weight": 1.0,
+      "source": "views_settingsview_downloadrow",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L534",
+      "weight": 1.0,
+      "source": "views_settingsview_featurebullet",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/HomeView.swift",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "views_homeview_homeview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/HomeView.swift",
+      "source_location": "L154",
+      "weight": 1.0,
+      "source": "views_homeview_quickaccesscard",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/HomeView.swift",
+      "source_location": "L185",
+      "weight": 1.0,
+      "source": "views_homeview_featurecard",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/HomeView.swift",
+      "source_location": "L217",
+      "weight": 1.0,
+      "source": "views_homeview_historyview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/HomeView.swift",
+      "source_location": "L242",
+      "weight": 1.0,
+      "source": "views_homeview_historyitem",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/BrowserView.swift",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "views_browserview_browserview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "views_bookmarksview_bookmarksview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L260",
+      "weight": 1.0,
+      "source": "views_bookmarksview_bookmarkrow",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L327",
+      "weight": 1.0,
+      "source": "views_bookmarksview_addbookmarkview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "mybrowser_views_settingsview_swift",
+      "target": "views_settingsview_settingsview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L227",
+      "weight": 1.0,
+      "source": "mybrowser_views_settingsview_swift",
+      "target": "views_settingsview_filemanagerview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L261",
+      "weight": 1.0,
+      "source": "mybrowser_views_settingsview_swift",
+      "target": "views_settingsview_downloadsview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L331",
+      "weight": 1.0,
+      "source": "mybrowser_views_settingsview_swift",
+      "target": "views_settingsview_versioninfoview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L380",
+      "weight": 1.0,
+      "source": "mybrowser_views_settingsview_swift",
+      "target": "views_settingsview_aboutview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L442",
+      "weight": 1.0,
+      "source": "mybrowser_views_settingsview_swift",
+      "target": "views_settingsview_inforow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L459",
+      "weight": 1.0,
+      "source": "mybrowser_views_settingsview_swift",
+      "target": "views_settingsview_filerow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L496",
+      "weight": 1.0,
+      "source": "mybrowser_views_settingsview_swift",
+      "target": "views_settingsview_downloadrow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L534",
+      "weight": 1.0,
+      "source": "mybrowser_views_settingsview_swift",
+      "target": "views_settingsview_featurebullet",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L552",
+      "weight": 1.0,
+      "source": "mybrowser_views_settingsview_swift",
+      "target": "views_settingsview_fileitem",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L560",
+      "weight": 1.0,
+      "source": "mybrowser_views_settingsview_swift",
+      "target": "views_settingsview_downloaditem",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L571",
+      "weight": 1.0,
+      "source": "mybrowser_views_settingsview_swift",
+      "target": "views_settingsview_formatfilesize",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L578",
+      "weight": 1.0,
+      "source": "mybrowser_views_settingsview_swift",
+      "target": "views_settingsview_formatdate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L206",
+      "weight": 1.0,
+      "source": "views_settingsview_settingsview",
+      "target": "views_settingsview_settingsview_clearalldata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L250",
+      "weight": 1.0,
+      "source": "views_settingsview_filemanagerview",
+      "target": "views_settingsview_filemanagerview_loadfiles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L253",
+      "weight": 1.0,
+      "source": "views_settingsview_filemanagerview_loadfiles",
+      "target": "views_settingsview_fileitem",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L300",
+      "weight": 1.0,
+      "source": "views_settingsview_downloadsview",
+      "target": "views_settingsview_downloadsview_loaddownloads",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L320",
+      "weight": 1.0,
+      "source": "views_settingsview_downloadsview",
+      "target": "views_settingsview_downloadsview_opendownload",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L325",
+      "weight": 1.0,
+      "source": "views_settingsview_downloadsview",
+      "target": "views_settingsview_downloadsview_deletedownloads",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L303",
+      "weight": 1.0,
+      "source": "views_settingsview_downloadsview_loaddownloads",
+      "target": "views_settingsview_downloaditem",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L552",
+      "weight": 1.0,
+      "source": "views_settingsview_fileitem",
+      "target": "identifiable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/SettingsView.swift",
+      "source_location": "L560",
+      "weight": 1.0,
+      "source": "views_settingsview_downloaditem",
+      "target": "identifiable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmark",
+      "target": "identifiable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/HomeView.swift",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "mybrowser_views_homeview_swift",
+      "target": "views_homeview_homeview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/HomeView.swift",
+      "source_location": "L154",
+      "weight": 1.0,
+      "source": "mybrowser_views_homeview_swift",
+      "target": "views_homeview_quickaccesscard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/HomeView.swift",
+      "source_location": "L185",
+      "weight": 1.0,
+      "source": "mybrowser_views_homeview_swift",
+      "target": "views_homeview_featurecard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/HomeView.swift",
+      "source_location": "L217",
+      "weight": 1.0,
+      "source": "mybrowser_views_homeview_swift",
+      "target": "views_homeview_historyview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/HomeView.swift",
+      "source_location": "L242",
+      "weight": 1.0,
+      "source": "mybrowser_views_homeview_swift",
+      "target": "views_homeview_historyitem",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/HomeView.swift",
+      "source_location": "L148",
+      "weight": 1.0,
+      "source": "views_homeview_homeview",
+      "target": "views_homeview_homeview_searchaction",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/BrowserView.swift",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "mybrowser_views_browserview_swift",
+      "target": "views_browserview_browserview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/BrowserView.swift",
+      "source_location": "L124",
+      "weight": 1.0,
+      "source": "views_browserview_browserview",
+      "target": "views_browserview_browserview_loadurl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/BrowserView.swift",
+      "source_location": "L146",
+      "weight": 1.0,
+      "source": "views_browserview_browserview",
+      "target": "views_browserview_browserview_loaddefaultpage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/BrowserView.swift",
+      "source_location": "L153",
+      "weight": 1.0,
+      "source": "views_browserview_browserview",
+      "target": "views_browserview_browserview_addcurrentpagetobookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/BrowserView.swift",
+      "source_location": "L159",
+      "weight": 1.0,
+      "source": "views_browserview_browserview",
+      "target": "views_browserview_browserview_sharecurrentpage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "mybrowser_views_bookmarksview_swift",
+      "target": "views_bookmarksview_bookmarksview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L260",
+      "weight": 1.0,
+      "source": "mybrowser_views_bookmarksview_swift",
+      "target": "views_bookmarksview_bookmarkrow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L327",
+      "weight": 1.0,
+      "source": "mybrowser_views_bookmarksview_swift",
+      "target": "views_bookmarksview_addbookmarkview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L197",
+      "weight": 1.0,
+      "source": "views_bookmarksview_bookmarksview",
+      "target": "views_bookmarksview_bookmarksview_loadbookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L213",
+      "weight": 1.0,
+      "source": "views_bookmarksview_bookmarksview",
+      "target": "views_bookmarksview_bookmarksview_openbookmark",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L218",
+      "weight": 1.0,
+      "source": "views_bookmarksview_bookmarksview",
+      "target": "views_bookmarksview_bookmarksview_deletebookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L237",
+      "weight": 1.0,
+      "source": "views_bookmarksview_bookmarksview",
+      "target": "views_bookmarksview_bookmarksview_exportbookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L254",
+      "weight": 1.0,
+      "source": "views_bookmarksview_bookmarksview",
+      "target": "views_bookmarksview_bookmarksview_importbookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L231",
+      "weight": 1.0,
+      "source": "views_bookmarksview_bookmarksview_deletebookmarks",
+      "target": "views_bookmarksview_bookmarksview_loadbookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L382",
+      "weight": 1.0,
+      "source": "views_bookmarksview_addbookmarkview",
+      "target": "views_bookmarksview_addbookmarkview_savebookmark",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MyBrowser/Views/BookmarksView.swift",
+      "source_location": "L383",
+      "weight": 1.0,
+      "source": "views_bookmarksview_addbookmarkview_savebookmark",
+      "target": "dataservice_bookmarkservice_bookmark"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_swift",
+      "target": "mybrowsertests_mybrowsertests_mybrowsertests",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L203",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_swift",
+      "target": "mybrowsertests_mybrowsertests_mockserviceprotocol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L207",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_swift",
+      "target": "mybrowsertests_mybrowsertests_mockservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests",
+      "target": "mybrowsertests_mybrowsertests_mybrowsertests_setupwitherror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests",
+      "target": "mybrowsertests_mybrowsertests_mybrowsertests_teardownwitherror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests",
+      "target": "mybrowsertests_mybrowsertests_mybrowsertests_testdicontainerregistration",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests",
+      "target": "mybrowsertests_mybrowsertests_mybrowsertests_testdicontainerfactoryregistration",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L60",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests",
+      "target": "mybrowsertests_mybrowsertests_mybrowsertests_testbookmarkservicefetch",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L84",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests",
+      "target": "mybrowsertests_mybrowsertests_mybrowsertests_testbookmarkserviceadd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L112",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests",
+      "target": "mybrowsertests_mybrowsertests_mybrowsertests_testbookmarkvalidation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L124",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests",
+      "target": "mybrowsertests_mybrowsertests_mybrowsertests_testbrowserengineinitialization",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L136",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests",
+      "target": "mybrowsertests_mybrowsertests_mybrowsertests_testbrowserengineloadurl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L149",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests",
+      "target": "mybrowsertests_mybrowsertests_mybrowsertests_testbrowserengineurlpreprocessing",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L163",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests",
+      "target": "mybrowsertests_mybrowsertests_mybrowsertests_testdicontainerperformance",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L174",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests",
+      "target": "mybrowsertests_mybrowsertests_mybrowsertests_testbookmarksearchperformance",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests_testdicontainerregistration",
+      "target": "mybrowsertests_mybrowsertests_mockservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests_testdicontainerregistration",
+      "target": "utilitykit_dicontainer_dicontainer"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests_testdicontainerfactoryregistration",
+      "target": "mybrowsertests_mybrowsertests_mockservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests_testdicontainerfactoryregistration",
+      "target": "utilitykit_dicontainer_dicontainer"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests_testbookmarkservicefetch",
+      "target": "dataservice_bookmarkservice_bookmarkservice"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L86",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests_testbookmarkserviceadd",
+      "target": "dataservice_bookmarkservice_bookmarkservice"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L87",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests_testbookmarkserviceadd",
+      "target": "dataservice_bookmarkservice_bookmark"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L114",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests_testbookmarkvalidation",
+      "target": "dataservice_bookmarkservice_bookmark"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L126",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests_testbrowserengineinitialization",
+      "target": "browsercore_browserengine_browserengine"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L138",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests_testbrowserengineloadurl",
+      "target": "browsercore_browserengine_browserengine"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L151",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests_testbrowserengineurlpreprocessing",
+      "target": "browsercore_browserengine_browserengine"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L165",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests_testdicontainerperformance",
+      "target": "mybrowsertests_mybrowsertests_mockservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L164",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests_testdicontainerperformance",
+      "target": "utilitykit_dicontainer_dicontainer"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L175",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests_testbookmarksearchperformance",
+      "target": "dataservice_bookmarkservice_bookmarkservice"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L177",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mybrowsertests_testbookmarksearchperformance",
+      "target": "dataservice_bookmarkservice_bookmark"
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L207",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mockservice",
+      "target": "mybrowsertests_mybrowsertests_mockserviceprotocol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserTests/MyBrowserTests.swift",
+      "source_location": "L208",
+      "weight": 1.0,
+      "source": "mybrowsertests_mybrowsertests_mockservice",
+      "target": "mybrowsertests_mybrowsertests_mockservice_performaction",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "mybrowserkit_webengine_webviewmanager_swift",
+      "target": "webengine_webviewmanager_webviewmanagerprotocol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L290",
+      "weight": 1.0,
+      "source": "mybrowserkit_webengine_webviewmanager_swift",
+      "target": "webengine_webviewmanager_webviewmanager",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L305",
+      "weight": 1.0,
+      "source": "mybrowserkit_webengine_webviewmanager_swift",
+      "target": "webengine_webviewmanager_webview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanagerprotocol",
+      "target": "observableobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager",
+      "target": "webengine_webviewmanager_webviewmanagerprotocol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L78",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice",
+      "target": "observableobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "browsercore_browserengine_browserengine",
+      "target": "observableobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager",
+      "target": "nsobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L60",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager",
+      "target": "webengine_webviewmanager_webviewmanager_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager",
+      "target": "webengine_webviewmanager_webviewmanager_setupwebview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L85",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager",
+      "target": "webengine_webviewmanager_webviewmanager_setupobservers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L117",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager",
+      "target": "webengine_webviewmanager_webviewmanager_configureusercontentcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L140",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager",
+      "target": "webengine_webviewmanager_webviewmanager_createuseragent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L152",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager",
+      "target": "webengine_webviewmanager_webviewmanager_load",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L156",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager",
+      "target": "webengine_webviewmanager_webviewmanager_goback",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L160",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager",
+      "target": "webengine_webviewmanager_webviewmanager_goforward",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L164",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager",
+      "target": "webengine_webviewmanager_webviewmanager_reload",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L168",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager",
+      "target": "webengine_webviewmanager_webviewmanager_stop",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L172",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager",
+      "target": "webengine_webviewmanager_webviewmanager_evaluatejavascript",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L189",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager",
+      "target": "webengine_webviewmanager_webviewmanager_takesnapshot",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L204",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager",
+      "target": "webengine_webviewmanager_webviewmanager_findinpage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L211",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager",
+      "target": "webengine_webviewmanager_webviewmanager_clearwebsitedata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L225",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager",
+      "target": "wknavigationdelegate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L280",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager",
+      "target": "webengine_webviewmanager_webviewmanager_webview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L264",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager",
+      "target": "wkuidelegate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L290",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager",
+      "target": "wkscriptmessagehandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L292",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager",
+      "target": "webengine_webviewmanager_webviewmanager_usercontentcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager_init",
+      "target": "webengine_webviewmanager_webview_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L66",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager_init",
+      "target": "webengine_webviewmanager_webviewmanager_setupwebview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L67",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager_init",
+      "target": "webengine_webviewmanager_webviewmanager_setupobservers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L68",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager_init",
+      "target": "webengine_webviewmanager_webviewmanager_configureusercontentcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L82",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager_setupwebview",
+      "target": "webengine_webviewmanager_webviewmanager_createuseragent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L206",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webviewmanager_findinpage",
+      "target": "webengine_webviewmanager_webviewmanager_evaluatejavascript",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L305",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webview",
+      "target": "uiviewrepresentable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L309",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webview",
+      "target": "webengine_webviewmanager_webview_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L313",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webview",
+      "target": "webengine_webviewmanager_webview_makeuiview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/WebEngine/WebViewManager.swift",
+      "source_location": "L317",
+      "weight": 1.0,
+      "source": "webengine_webviewmanager_webview",
+      "target": "webengine_webviewmanager_webview_updateuiview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/UtilityKit/DIContainer.swift",
+      "source_location": "L117",
+      "weight": 1.0,
+      "source": "mybrowserkit_utilitykit_dicontainer_swift",
+      "target": "utilitykit_dicontainer_dicontainer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/UtilityKit/DIContainer.swift",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "utilitykit_dicontainer_dicontainer",
+      "target": "utilitykit_dicontainer_dicontainer_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/UtilityKit/DIContainer.swift",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "utilitykit_dicontainer_dicontainer",
+      "target": "utilitykit_dicontainer_dicontainer_register",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/UtilityKit/DIContainer.swift",
+      "source_location": "L57",
+      "weight": 1.0,
+      "source": "utilitykit_dicontainer_dicontainer",
+      "target": "utilitykit_dicontainer_dicontainer_resolve",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/UtilityKit/DIContainer.swift",
+      "source_location": "L74",
+      "weight": 1.0,
+      "source": "utilitykit_dicontainer_dicontainer",
+      "target": "utilitykit_dicontainer_dicontainer_tryresolve",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/UtilityKit/DIContainer.swift",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "utilitykit_dicontainer_dicontainer",
+      "target": "utilitykit_dicontainer_dicontainer_isregistered",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/UtilityKit/DIContainer.swift",
+      "source_location": "L100",
+      "weight": 1.0,
+      "source": "utilitykit_dicontainer_dicontainer",
+      "target": "utilitykit_dicontainer_dicontainer_unregister",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/UtilityKit/DIContainer.swift",
+      "source_location": "L108",
+      "weight": 1.0,
+      "source": "utilitykit_dicontainer_dicontainer",
+      "target": "utilitykit_dicontainer_dicontainer_clear",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/UtilityKit/DIContainer.swift",
+      "source_location": "L122",
+      "weight": 1.0,
+      "source": "utilitykit_dicontainer_dicontainer",
+      "target": "utilitykit_dicontainer_dicontainer_registercoreservices",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L308",
+      "weight": 1.0,
+      "source": "mybrowserkit_dataservice_bookmarkservice_swift",
+      "target": "dataservice_bookmarkservice_bookmark",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L56",
+      "weight": 1.0,
+      "source": "mybrowserkit_dataservice_bookmarkservice_swift",
+      "target": "dataservice_bookmarkservice_bookmarkserviceprotocol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L78",
+      "weight": 1.0,
+      "source": "mybrowserkit_dataservice_bookmarkservice_swift",
+      "target": "dataservice_bookmarkservice_bookmarkservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L290",
+      "weight": 1.0,
+      "source": "mybrowserkit_dataservice_bookmarkservice_swift",
+      "target": "dataservice_bookmarkservice_coredatamanagerprotocol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L297",
+      "weight": 1.0,
+      "source": "mybrowserkit_dataservice_bookmarkservice_swift",
+      "target": "dataservice_bookmarkservice_coredatamanager",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmark",
+      "target": "codable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmark",
+      "target": "equatable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmark",
+      "target": "dataservice_bookmarkservice_bookmark_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L314",
+      "weight": 1.0,
+      "context": "call",
+      "source": "dataservice_bookmarkservice_bookmark_samplebookmarks",
+      "target": "dataservice_bookmarkservice_bookmark",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L122",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice_fetchbookmarks",
+      "target": "dataservice_bookmarkservice_bookmark",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L78",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice",
+      "target": "dataservice_bookmarkservice_bookmarkserviceprotocol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice",
+      "target": "dataservice_bookmarkservice_bookmarkservice_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L100",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice",
+      "target": "dataservice_bookmarkservice_bookmarkservice_loadbookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L117",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice",
+      "target": "dataservice_bookmarkservice_bookmarkservice_fetchbookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L144",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice",
+      "target": "dataservice_bookmarkservice_bookmarkservice_fetchfavoritebookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L153",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice",
+      "target": "dataservice_bookmarkservice_bookmarkservice_fetchhomeupbookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L162",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice",
+      "target": "dataservice_bookmarkservice_bookmarkservice_fetchhomedownbookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L171",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice",
+      "target": "dataservice_bookmarkservice_bookmarkservice_fetchsecretbookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L180",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice",
+      "target": "dataservice_bookmarkservice_bookmarkservice_addbookmark",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L193",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice",
+      "target": "dataservice_bookmarkservice_bookmarkservice_updatebookmark",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L208",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice",
+      "target": "dataservice_bookmarkservice_bookmarkservice_deletebookmark",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L212",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice",
+      "target": "dataservice_bookmarkservice_bookmarkservice_deletebookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L225",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice",
+      "target": "dataservice_bookmarkservice_bookmarkservice_searchbookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L237",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice",
+      "target": "dataservice_bookmarkservice_bookmarkservice_isbookmarked",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L245",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice",
+      "target": "dataservice_bookmarkservice_bookmarkservice_exportbookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L273",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice",
+      "target": "dataservice_bookmarkservice_bookmarkservice_importbookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L95",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice_init",
+      "target": "dataservice_bookmarkservice_bookmarkservice_loadbookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L101",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice_loadbookmarks",
+      "target": "dataservice_bookmarkservice_bookmarkservice_fetchbookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L145",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice_fetchfavoritebookmarks",
+      "target": "dataservice_bookmarkservice_bookmarkservice_fetchbookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L154",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice_fetchhomeupbookmarks",
+      "target": "dataservice_bookmarkservice_bookmarkservice_fetchbookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L163",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice_fetchhomedownbookmarks",
+      "target": "dataservice_bookmarkservice_bookmarkservice_fetchbookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L172",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice_fetchsecretbookmarks",
+      "target": "dataservice_bookmarkservice_bookmarkservice_fetchbookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L226",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice_searchbookmarks",
+      "target": "dataservice_bookmarkservice_bookmarkservice_fetchbookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L238",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice_isbookmarked",
+      "target": "dataservice_bookmarkservice_bookmarkservice_fetchbookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L246",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice_exportbookmarks",
+      "target": "dataservice_bookmarkservice_bookmarkservice_fetchbookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L209",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_bookmarkservice_deletebookmark",
+      "target": "dataservice_bookmarkservice_bookmarkservice_deletebookmarks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L297",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_coredatamanager",
+      "target": "dataservice_bookmarkservice_coredatamanagerprotocol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/DataService/BookmarkService.swift",
+      "source_location": "L301",
+      "weight": 1.0,
+      "source": "dataservice_bookmarkservice_coredatamanager",
+      "target": "dataservice_bookmarkservice_coredatamanager_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "mybrowserkit_browsercore_browserengine_swift",
+      "target": "browsercore_browserengine_browserengineprotocol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "mybrowserkit_browsercore_browserengine_swift",
+      "target": "browsercore_browserengine_browserengine",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L155",
+      "weight": 1.0,
+      "source": "mybrowserkit_browsercore_browserengine_swift",
+      "target": "browsercore_browserengine_browserstate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L163",
+      "weight": 1.0,
+      "source": "mybrowserkit_browsercore_browserengine_swift",
+      "target": "browsercore_browserengine_browsererror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "browsercore_browserengine_browserengine",
+      "target": "browsercore_browserengine_browserengineprotocol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "browsercore_browserengine_browserengine",
+      "target": "browsercore_browserengine_browserengine_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L56",
+      "weight": 1.0,
+      "source": "browsercore_browserengine_browserengine",
+      "target": "browsercore_browserengine_browserengine_setupbindings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L83",
+      "weight": 1.0,
+      "source": "browsercore_browserengine_browserengine",
+      "target": "browsercore_browserengine_browserengine_load",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L94",
+      "weight": 1.0,
+      "source": "browsercore_browserengine_browserengine",
+      "target": "browsercore_browserengine_browserengine_goback",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L101",
+      "weight": 1.0,
+      "source": "browsercore_browserengine_browserengine",
+      "target": "browsercore_browserengine_browserengine_goforward",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L108",
+      "weight": 1.0,
+      "source": "browsercore_browserengine_browserengine",
+      "target": "browsercore_browserengine_browserengine_reload",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L118",
+      "weight": 1.0,
+      "source": "browsercore_browserengine_browserengine",
+      "target": "browsercore_browserengine_browserengine_stop",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L127",
+      "weight": 1.0,
+      "source": "browsercore_browserengine_browserengine",
+      "target": "browsercore_browserengine_browserengine_preprocessurl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L140",
+      "weight": 1.0,
+      "source": "browsercore_browserengine_browserengine",
+      "target": "browsercore_browserengine_browserengine_performsearch",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L51",
+      "weight": 1.0,
+      "source": "browsercore_browserengine_browserengine_init",
+      "target": "browsercore_browserengine_browserengine_setupbindings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L84",
+      "weight": 1.0,
+      "source": "browsercore_browserengine_browserengine_load",
+      "target": "browsercore_browserengine_browserengine_preprocessurl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L147",
+      "weight": 1.0,
+      "source": "browsercore_browserengine_browserengine_performsearch",
+      "target": "browsercore_browserengine_browserengine_load",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L156",
+      "weight": 1.0,
+      "source": "browsercore_browserengine_browserstate",
+      "target": "browsercore_browserengine_browserstate_idle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L157",
+      "weight": 1.0,
+      "source": "browsercore_browserengine_browserstate",
+      "target": "browsercore_browserengine_browserstate_loading",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L158",
+      "weight": 1.0,
+      "source": "browsercore_browserengine_browserstate",
+      "target": "browsercore_browserengine_browserstate_loaded",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L159",
+      "weight": 1.0,
+      "source": "browsercore_browserengine_browserstate",
+      "target": "browsercore_browserengine_browserstate_error",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L163",
+      "weight": 1.0,
+      "source": "browsercore_browserengine_browsererror",
+      "target": "localizederror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L164",
+      "weight": 1.0,
+      "source": "browsercore_browserengine_browsererror",
+      "target": "browsercore_browserengine_browsererror_invalidurl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L165",
+      "weight": 1.0,
+      "source": "browsercore_browserengine_browsererror",
+      "target": "browsercore_browserengine_browsererror_networkerror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "MyBrowserKit/BrowserCore/BrowserEngine.swift",
+      "source_location": "L166",
+      "weight": 1.0,
+      "source": "browsercore_browserengine_browsererror",
+      "target": "browsercore_browserengine_browsererror_loadingfailed",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}

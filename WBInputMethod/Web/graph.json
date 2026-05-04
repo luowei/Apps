@@ -1,0 +1,1741 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "index.ts",
+      "file_type": "code",
+      "source_file": "server/src/index.ts",
+      "source_location": "L1",
+      "id": "server_src_index_ts",
+      "community": 3,
+      "norm_label": "index.ts"
+    },
+    {
+      "label": "startServer()",
+      "file_type": "code",
+      "source_file": "server/src/index.ts",
+      "source_location": "L122",
+      "id": "src_index_startserver",
+      "community": 3,
+      "norm_label": "startserver()"
+    },
+    {
+      "label": "errorHandler.ts",
+      "file_type": "code",
+      "source_file": "server/src/middleware/errorHandler.ts",
+      "source_location": "L1",
+      "id": "server_src_middleware_errorhandler_ts",
+      "community": 3,
+      "norm_label": "errorhandler.ts"
+    },
+    {
+      "label": "errorHandler()",
+      "file_type": "code",
+      "source_file": "server/src/middleware/errorHandler.ts",
+      "source_location": "L4",
+      "id": "middleware_errorhandler_errorhandler",
+      "community": 3,
+      "norm_label": "errorhandler()"
+    },
+    {
+      "label": "notFoundHandler()",
+      "file_type": "code",
+      "source_file": "server/src/middleware/errorHandler.ts",
+      "source_location": "L52",
+      "id": "middleware_errorhandler_notfoundhandler",
+      "community": 3,
+      "norm_label": "notfoundhandler()"
+    },
+    {
+      "label": "notFoundHandler.ts",
+      "file_type": "code",
+      "source_file": "server/src/middleware/notFoundHandler.ts",
+      "source_location": "L1",
+      "id": "server_src_middleware_notfoundhandler_ts",
+      "community": 3,
+      "norm_label": "notfoundhandler.ts"
+    },
+    {
+      "label": "notFoundHandler()",
+      "file_type": "code",
+      "source_file": "server/src/middleware/notFoundHandler.ts",
+      "source_location": "L3",
+      "id": "middleware_notfoundhandler_notfoundhandler",
+      "community": 3,
+      "norm_label": "notfoundhandler()"
+    },
+    {
+      "label": "auth.ts",
+      "file_type": "code",
+      "source_file": "server/src/middleware/auth.ts",
+      "source_location": "L1",
+      "id": "server_src_middleware_auth_ts",
+      "community": 4,
+      "norm_label": "auth.ts"
+    },
+    {
+      "label": "authMiddleware()",
+      "file_type": "code",
+      "source_file": "server/src/middleware/auth.ts",
+      "source_location": "L7",
+      "id": "middleware_auth_authmiddleware",
+      "community": 3,
+      "norm_label": "authmiddleware()"
+    },
+    {
+      "label": "optionalAuthMiddleware()",
+      "file_type": "code",
+      "source_file": "server/src/middleware/auth.ts",
+      "source_location": "L50",
+      "id": "middleware_auth_optionalauthmiddleware",
+      "community": 4,
+      "norm_label": "optionalauthmiddleware()"
+    },
+    {
+      "label": "index.ts",
+      "file_type": "code",
+      "source_file": "server/src/types/index.ts",
+      "source_location": "L1",
+      "id": "server_src_types_index_ts",
+      "community": 8,
+      "norm_label": "index.ts"
+    },
+    {
+      "label": "AppError",
+      "file_type": "code",
+      "source_file": "server/src/types/index.ts",
+      "source_location": "L149",
+      "id": "types_index_apperror",
+      "community": 8,
+      "norm_label": "apperror"
+    },
+    {
+      "label": ".constructor()",
+      "file_type": "code",
+      "source_file": "server/src/types/index.ts",
+      "source_location": "L153",
+      "id": "types_index_apperror_constructor",
+      "community": 8,
+      "norm_label": ".constructor()"
+    },
+    {
+      "label": "database.ts",
+      "file_type": "code",
+      "source_file": "server/src/config/database.ts",
+      "source_location": "L1",
+      "id": "server_src_config_database_ts",
+      "community": 11,
+      "norm_label": "database.ts"
+    },
+    {
+      "label": "config.ts",
+      "file_type": "code",
+      "source_file": "server/src/config/config.ts",
+      "source_location": "L1",
+      "id": "server_src_config_config_ts",
+      "community": 12,
+      "norm_label": "config.ts"
+    },
+    {
+      "label": "seed.ts",
+      "file_type": "code",
+      "source_file": "server/src/scripts/seed.ts",
+      "source_location": "L1",
+      "id": "server_src_scripts_seed_ts",
+      "community": 10,
+      "norm_label": "seed.ts"
+    },
+    {
+      "label": "seedDatabase()",
+      "file_type": "code",
+      "source_file": "server/src/scripts/seed.ts",
+      "source_location": "L114",
+      "id": "scripts_seed_seeddatabase",
+      "community": 10,
+      "norm_label": "seeddatabase()"
+    },
+    {
+      "label": "authController.ts",
+      "file_type": "code",
+      "source_file": "server/src/controllers/authController.ts",
+      "source_location": "L1",
+      "id": "server_src_controllers_authcontroller_ts",
+      "community": 1,
+      "norm_label": "authcontroller.ts"
+    },
+    {
+      "label": "register()",
+      "file_type": "code",
+      "source_file": "server/src/controllers/authController.ts",
+      "source_location": "L57",
+      "id": "controllers_authcontroller_register",
+      "community": 1,
+      "norm_label": "register()"
+    },
+    {
+      "label": "login()",
+      "file_type": "code",
+      "source_file": "server/src/controllers/authController.ts",
+      "source_location": "L167",
+      "id": "controllers_authcontroller_login",
+      "community": 1,
+      "norm_label": "login()"
+    },
+    {
+      "label": "logout()",
+      "file_type": "code",
+      "source_file": "server/src/controllers/authController.ts",
+      "source_location": "L242",
+      "id": "controllers_authcontroller_logout",
+      "community": 1,
+      "norm_label": "logout()"
+    },
+    {
+      "label": "wubiController.ts",
+      "file_type": "code",
+      "source_file": "server/src/controllers/wubiController.ts",
+      "source_location": "L1",
+      "id": "server_src_controllers_wubicontroller_ts",
+      "community": 4,
+      "norm_label": "wubicontroller.ts"
+    },
+    {
+      "label": "search()",
+      "file_type": "code",
+      "source_file": "server/src/controllers/wubiController.ts",
+      "source_location": "L59",
+      "id": "controllers_wubicontroller_search",
+      "community": 4,
+      "norm_label": "search()"
+    },
+    {
+      "label": "getCharacter()",
+      "file_type": "code",
+      "source_file": "server/src/controllers/wubiController.ts",
+      "source_location": "L162",
+      "id": "controllers_wubicontroller_getcharacter",
+      "community": 4,
+      "norm_label": "getcharacter()"
+    },
+    {
+      "label": "getCode()",
+      "file_type": "code",
+      "source_file": "server/src/controllers/wubiController.ts",
+      "source_location": "L217",
+      "id": "controllers_wubicontroller_getcode",
+      "community": 4,
+      "norm_label": "getcode()"
+    },
+    {
+      "label": "getRandomCharacters()",
+      "file_type": "code",
+      "source_file": "server/src/controllers/wubiController.ts",
+      "source_location": "L278",
+      "id": "controllers_wubicontroller_getrandomcharacters",
+      "community": 4,
+      "norm_label": "getrandomcharacters()"
+    },
+    {
+      "label": "statistics.ts",
+      "file_type": "code",
+      "source_file": "server/src/routes/statistics.ts",
+      "source_location": "L1",
+      "id": "server_src_routes_statistics_ts",
+      "community": 13,
+      "norm_label": "statistics.ts"
+    },
+    {
+      "label": "settings.ts",
+      "file_type": "code",
+      "source_file": "server/src/routes/settings.ts",
+      "source_location": "L1",
+      "id": "server_src_routes_settings_ts",
+      "community": 14,
+      "norm_label": "settings.ts"
+    },
+    {
+      "label": "wubi.ts",
+      "file_type": "code",
+      "source_file": "server/src/routes/wubi.ts",
+      "source_location": "L1",
+      "id": "server_src_routes_wubi_ts",
+      "community": 4,
+      "norm_label": "wubi.ts"
+    },
+    {
+      "label": "practice.ts",
+      "file_type": "code",
+      "source_file": "server/src/routes/practice.ts",
+      "source_location": "L1",
+      "id": "server_src_routes_practice_ts",
+      "community": 15,
+      "norm_label": "practice.ts"
+    },
+    {
+      "label": "user.ts",
+      "file_type": "code",
+      "source_file": "server/src/routes/user.ts",
+      "source_location": "L1",
+      "id": "server_src_routes_user_ts",
+      "community": 16,
+      "norm_label": "user.ts"
+    },
+    {
+      "label": "auth.ts",
+      "file_type": "code",
+      "source_file": "server/src/routes/auth.ts",
+      "source_location": "L1",
+      "id": "server_src_routes_auth_ts",
+      "community": 1,
+      "norm_label": "auth.ts"
+    },
+    {
+      "label": "vite.config.ts",
+      "file_type": "code",
+      "source_file": "client/vite.config.ts",
+      "source_location": "L1",
+      "id": "client_vite_config_ts",
+      "community": 17,
+      "norm_label": "vite.config.ts"
+    },
+    {
+      "label": "App.tsx",
+      "file_type": "code",
+      "source_file": "client/src/App.tsx",
+      "source_location": "L1",
+      "id": "client_src_app_tsx",
+      "community": 9,
+      "norm_label": "app.tsx"
+    },
+    {
+      "label": "main.tsx",
+      "file_type": "code",
+      "source_file": "client/src/main.tsx",
+      "source_location": "L1",
+      "id": "client_src_main_tsx",
+      "community": 9,
+      "norm_label": "main.tsx"
+    },
+    {
+      "label": "vite-env.d.ts",
+      "file_type": "code",
+      "source_file": "client/src/vite-env.d.ts",
+      "source_location": "L1",
+      "id": "client_src_vite_env_d_ts",
+      "community": 18,
+      "norm_label": "vite-env.d.ts"
+    },
+    {
+      "label": "Layout.tsx",
+      "file_type": "code",
+      "source_file": "client/src/components/Layout/Layout.tsx",
+      "source_location": "L1",
+      "id": "client_src_components_layout_layout_tsx",
+      "community": 19,
+      "norm_label": "layout.tsx"
+    },
+    {
+      "label": "RegisterPage.tsx",
+      "file_type": "code",
+      "source_file": "client/src/pages/RegisterPage.tsx",
+      "source_location": "L1",
+      "id": "client_src_pages_registerpage_tsx",
+      "community": 1,
+      "norm_label": "registerpage.tsx"
+    },
+    {
+      "label": "handleChange()",
+      "file_type": "code",
+      "source_file": "client/src/pages/RegisterPage.tsx",
+      "source_location": "L33",
+      "id": "pages_registerpage_handlechange",
+      "community": 1,
+      "norm_label": "handlechange()"
+    },
+    {
+      "label": "handleSubmit()",
+      "file_type": "code",
+      "source_file": "client/src/pages/RegisterPage.tsx",
+      "source_location": "L40",
+      "id": "pages_registerpage_handlesubmit",
+      "community": 1,
+      "norm_label": "handlesubmit()"
+    },
+    {
+      "label": "LoginPage.tsx",
+      "file_type": "code",
+      "source_file": "client/src/pages/LoginPage.tsx",
+      "source_location": "L1",
+      "id": "client_src_pages_loginpage_tsx",
+      "community": 1,
+      "norm_label": "loginpage.tsx"
+    },
+    {
+      "label": "handleChange()",
+      "file_type": "code",
+      "source_file": "client/src/pages/LoginPage.tsx",
+      "source_location": "L31",
+      "id": "pages_loginpage_handlechange",
+      "community": 1,
+      "norm_label": "handlechange()"
+    },
+    {
+      "label": "handleSubmit()",
+      "file_type": "code",
+      "source_file": "client/src/pages/LoginPage.tsx",
+      "source_location": "L38",
+      "id": "pages_loginpage_handlesubmit",
+      "community": 1,
+      "norm_label": "handlesubmit()"
+    },
+    {
+      "label": "SettingsPage.tsx",
+      "file_type": "code",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L1",
+      "id": "client_src_pages_settingspage_tsx",
+      "community": 0,
+      "norm_label": "settingspage.tsx"
+    },
+    {
+      "label": "TabPanel()",
+      "file_type": "code",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L52",
+      "id": "pages_settingspage_tabpanel",
+      "community": 0,
+      "norm_label": "tabpanel()"
+    },
+    {
+      "label": "loadSettings()",
+      "file_type": "code",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L107",
+      "id": "pages_settingspage_loadsettings",
+      "community": 0,
+      "norm_label": "loadsettings()"
+    },
+    {
+      "label": "saveSettings()",
+      "file_type": "code",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L119",
+      "id": "pages_settingspage_savesettings",
+      "community": 0,
+      "norm_label": "savesettings()"
+    },
+    {
+      "label": "handleTabChange()",
+      "file_type": "code",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L131",
+      "id": "pages_settingspage_handletabchange",
+      "community": 0,
+      "norm_label": "handletabchange()"
+    },
+    {
+      "label": "handleSettingChange()",
+      "file_type": "code",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L135",
+      "id": "pages_settingspage_handlesettingchange",
+      "community": 0,
+      "norm_label": "handlesettingchange()"
+    },
+    {
+      "label": "handleConfirmAction()",
+      "file_type": "code",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L142",
+      "id": "pages_settingspage_handleconfirmaction",
+      "community": 0,
+      "norm_label": "handleconfirmaction()"
+    },
+    {
+      "label": "executeConfirmAction()",
+      "file_type": "code",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L147",
+      "id": "pages_settingspage_executeconfirmaction",
+      "community": 0,
+      "norm_label": "executeconfirmaction()"
+    },
+    {
+      "label": "resetSettings()",
+      "file_type": "code",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L164",
+      "id": "pages_settingspage_resetsettings",
+      "community": 0,
+      "norm_label": "resetsettings()"
+    },
+    {
+      "label": "clearAllData()",
+      "file_type": "code",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L185",
+      "id": "pages_settingspage_clearalldata",
+      "community": 0,
+      "norm_label": "clearalldata()"
+    },
+    {
+      "label": "exportData()",
+      "file_type": "code",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L193",
+      "id": "pages_settingspage_exportdata",
+      "community": 0,
+      "norm_label": "exportdata()"
+    },
+    {
+      "label": "importData()",
+      "file_type": "code",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L221",
+      "id": "pages_settingspage_importdata",
+      "community": 0,
+      "norm_label": "importdata()"
+    },
+    {
+      "label": "getActionText()",
+      "file_type": "code",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L257",
+      "id": "pages_settingspage_getactiontext",
+      "community": 0,
+      "norm_label": "getactiontext()"
+    },
+    {
+      "label": "PracticePage.tsx",
+      "file_type": "code",
+      "source_file": "client/src/pages/PracticePage.tsx",
+      "source_location": "L1",
+      "id": "client_src_pages_practicepage_tsx",
+      "community": 5,
+      "norm_label": "practicepage.tsx"
+    },
+    {
+      "label": "generatePracticeContent()",
+      "file_type": "code",
+      "source_file": "client/src/pages/PracticePage.tsx",
+      "source_location": "L130",
+      "id": "pages_practicepage_generatepracticecontent",
+      "community": 5,
+      "norm_label": "generatepracticecontent()"
+    },
+    {
+      "label": "startPractice()",
+      "file_type": "code",
+      "source_file": "client/src/pages/PracticePage.tsx",
+      "source_location": "L239",
+      "id": "pages_practicepage_startpractice",
+      "community": 5,
+      "norm_label": "startpractice()"
+    },
+    {
+      "label": "handleInputChange()",
+      "file_type": "code",
+      "source_file": "client/src/pages/PracticePage.tsx",
+      "source_location": "L276",
+      "id": "pages_practicepage_handleinputchange",
+      "community": 5,
+      "norm_label": "handleinputchange()"
+    },
+    {
+      "label": "handleSubmit()",
+      "file_type": "code",
+      "source_file": "client/src/pages/PracticePage.tsx",
+      "source_location": "L287",
+      "id": "pages_practicepage_handlesubmit",
+      "community": 5,
+      "norm_label": "handlesubmit()"
+    },
+    {
+      "label": "handleKeyPress()",
+      "file_type": "code",
+      "source_file": "client/src/pages/PracticePage.tsx",
+      "source_location": "L320",
+      "id": "pages_practicepage_handlekeypress",
+      "community": 5,
+      "norm_label": "handlekeypress()"
+    },
+    {
+      "label": "resetPractice()",
+      "file_type": "code",
+      "source_file": "client/src/pages/PracticePage.tsx",
+      "source_location": "L328",
+      "id": "pages_practicepage_resetpractice",
+      "community": 5,
+      "norm_label": "resetpractice()"
+    },
+    {
+      "label": "formatTime()",
+      "file_type": "code",
+      "source_file": "client/src/pages/PracticePage.tsx",
+      "source_location": "L335",
+      "id": "pages_practicepage_formattime",
+      "community": 5,
+      "norm_label": "formattime()"
+    },
+    {
+      "label": "StatisticsPage.tsx",
+      "file_type": "code",
+      "source_file": "client/src/pages/StatisticsPage.tsx",
+      "source_location": "L1",
+      "id": "client_src_pages_statisticspage_tsx",
+      "community": 6,
+      "norm_label": "statisticspage.tsx"
+    },
+    {
+      "label": "TabPanel()",
+      "file_type": "code",
+      "source_file": "client/src/pages/StatisticsPage.tsx",
+      "source_location": "L40",
+      "id": "pages_statisticspage_tabpanel",
+      "community": 6,
+      "norm_label": "tabpanel()"
+    },
+    {
+      "label": "loadStatistics()",
+      "file_type": "code",
+      "source_file": "client/src/pages/StatisticsPage.tsx",
+      "source_location": "L110",
+      "id": "pages_statisticspage_loadstatistics",
+      "community": 6,
+      "norm_label": "loadstatistics()"
+    },
+    {
+      "label": "generateMockData()",
+      "file_type": "code",
+      "source_file": "client/src/pages/StatisticsPage.tsx",
+      "source_location": "L136",
+      "id": "pages_statisticspage_generatemockdata",
+      "community": 6,
+      "norm_label": "generatemockdata()"
+    },
+    {
+      "label": "analyzeData()",
+      "file_type": "code",
+      "source_file": "client/src/pages/StatisticsPage.tsx",
+      "source_location": "L168",
+      "id": "pages_statisticspage_analyzedata",
+      "community": 6,
+      "norm_label": "analyzedata()"
+    },
+    {
+      "label": "handleTabChange()",
+      "file_type": "code",
+      "source_file": "client/src/pages/StatisticsPage.tsx",
+      "source_location": "L237",
+      "id": "pages_statisticspage_handletabchange",
+      "community": 6,
+      "norm_label": "handletabchange()"
+    },
+    {
+      "label": "getAccuracyColor()",
+      "file_type": "code",
+      "source_file": "client/src/pages/StatisticsPage.tsx",
+      "source_location": "L241",
+      "id": "pages_statisticspage_getaccuracycolor",
+      "community": 6,
+      "norm_label": "getaccuracycolor()"
+    },
+    {
+      "label": "getSpeedColor()",
+      "file_type": "code",
+      "source_file": "client/src/pages/StatisticsPage.tsx",
+      "source_location": "L247",
+      "id": "pages_statisticspage_getspeedcolor",
+      "community": 6,
+      "norm_label": "getspeedcolor()"
+    },
+    {
+      "label": "SearchPage.tsx",
+      "file_type": "code",
+      "source_file": "client/src/pages/SearchPage.tsx",
+      "source_location": "L1",
+      "id": "client_src_pages_searchpage_tsx",
+      "community": 2,
+      "norm_label": "searchpage.tsx"
+    },
+    {
+      "label": "saveSearchHistory()",
+      "file_type": "code",
+      "source_file": "client/src/pages/SearchPage.tsx",
+      "source_location": "L72",
+      "id": "pages_searchpage_savesearchhistory",
+      "community": 2,
+      "norm_label": "savesearchhistory()"
+    },
+    {
+      "label": "searchWubi()",
+      "file_type": "code",
+      "source_file": "client/src/pages/SearchPage.tsx",
+      "source_location": "L78",
+      "id": "pages_searchpage_searchwubi",
+      "community": 2,
+      "norm_label": "searchwubi()"
+    },
+    {
+      "label": "handleSearch()",
+      "file_type": "code",
+      "source_file": "client/src/pages/SearchPage.tsx",
+      "source_location": "L142",
+      "id": "pages_searchpage_handlesearch",
+      "community": 2,
+      "norm_label": "handlesearch()"
+    },
+    {
+      "label": "handleTabChange()",
+      "file_type": "code",
+      "source_file": "client/src/pages/SearchPage.tsx",
+      "source_location": "L162",
+      "id": "pages_searchpage_handletabchange",
+      "community": 2,
+      "norm_label": "handletabchange()"
+    },
+    {
+      "label": "copyToClipboard()",
+      "file_type": "code",
+      "source_file": "client/src/pages/SearchPage.tsx",
+      "source_location": "L168",
+      "id": "pages_searchpage_copytoclipboard",
+      "community": 2,
+      "norm_label": "copytoclipboard()"
+    },
+    {
+      "label": "clearSearch()",
+      "file_type": "code",
+      "source_file": "client/src/pages/SearchPage.tsx",
+      "source_location": "L176",
+      "id": "pages_searchpage_clearsearch",
+      "community": 2,
+      "norm_label": "clearsearch()"
+    },
+    {
+      "label": "handleHistoryClick()",
+      "file_type": "code",
+      "source_file": "client/src/pages/SearchPage.tsx",
+      "source_location": "L183",
+      "id": "pages_searchpage_handlehistoryclick",
+      "community": 2,
+      "norm_label": "handlehistoryclick()"
+    },
+    {
+      "label": "clearHistory()",
+      "file_type": "code",
+      "source_file": "client/src/pages/SearchPage.tsx",
+      "source_location": "L187",
+      "id": "pages_searchpage_clearhistory",
+      "community": 2,
+      "norm_label": "clearhistory()"
+    },
+    {
+      "label": "NotFoundPage.tsx",
+      "file_type": "code",
+      "source_file": "client/src/pages/NotFoundPage.tsx",
+      "source_location": "L1",
+      "id": "client_src_pages_notfoundpage_tsx",
+      "community": 20,
+      "norm_label": "notfoundpage.tsx"
+    },
+    {
+      "label": "HomePage.tsx",
+      "file_type": "code",
+      "source_file": "client/src/pages/HomePage.tsx",
+      "source_location": "L1",
+      "id": "client_src_pages_homepage_tsx",
+      "community": 21,
+      "norm_label": "homepage.tsx"
+    },
+    {
+      "label": "api.ts",
+      "file_type": "code",
+      "source_file": "client/src/services/api.ts",
+      "source_location": "L1",
+      "id": "client_src_services_api_ts",
+      "community": 22,
+      "norm_label": "api.ts"
+    },
+    {
+      "label": "wubiService.ts",
+      "file_type": "code",
+      "source_file": "client/src/services/wubiService.ts",
+      "source_location": "L1",
+      "id": "client_src_services_wubiservice_ts",
+      "community": 7,
+      "norm_label": "wubiservice.ts"
+    },
+    {
+      "label": "WubiService",
+      "file_type": "code",
+      "source_file": "client/src/services/wubiService.ts",
+      "source_location": "L28",
+      "id": "services_wubiservice_wubiservice",
+      "community": 7,
+      "norm_label": "wubiservice"
+    },
+    {
+      "label": ".search()",
+      "file_type": "code",
+      "source_file": "client/src/services/wubiService.ts",
+      "source_location": "L29",
+      "id": "services_wubiservice_wubiservice_search",
+      "community": 7,
+      "norm_label": ".search()"
+    },
+    {
+      "label": ".getCharacter()",
+      "file_type": "code",
+      "source_file": "client/src/services/wubiService.ts",
+      "source_location": "L34",
+      "id": "services_wubiservice_wubiservice_getcharacter",
+      "community": 7,
+      "norm_label": ".getcharacter()"
+    },
+    {
+      "label": ".getCode()",
+      "file_type": "code",
+      "source_file": "client/src/services/wubiService.ts",
+      "source_location": "L39",
+      "id": "services_wubiservice_wubiservice_getcode",
+      "community": 7,
+      "norm_label": ".getcode()"
+    },
+    {
+      "label": ".getRandomCharacters()",
+      "file_type": "code",
+      "source_file": "client/src/services/wubiService.ts",
+      "source_location": "L44",
+      "id": "services_wubiservice_wubiservice_getrandomcharacters",
+      "community": 7,
+      "norm_label": ".getrandomcharacters()"
+    },
+    {
+      "label": "practiceService.ts",
+      "file_type": "code",
+      "source_file": "client/src/services/practiceService.ts",
+      "source_location": "L1",
+      "id": "client_src_services_practiceservice_ts",
+      "community": 23,
+      "norm_label": "practiceservice.ts"
+    },
+    {
+      "label": "api.ts",
+      "file_type": "code",
+      "source_file": "client/src/store/api.ts",
+      "source_location": "L1",
+      "id": "client_src_store_api_ts",
+      "community": 24,
+      "norm_label": "api.ts"
+    },
+    {
+      "label": "index.ts",
+      "file_type": "code",
+      "source_file": "client/src/store/index.ts",
+      "source_location": "L1",
+      "id": "client_src_store_index_ts",
+      "community": 9,
+      "norm_label": "index.ts"
+    },
+    {
+      "label": "authSlice.ts",
+      "file_type": "code",
+      "source_file": "client/src/store/slices/authSlice.ts",
+      "source_location": "L1",
+      "id": "client_src_store_slices_authslice_ts",
+      "community": 25,
+      "norm_label": "authslice.ts"
+    },
+    {
+      "label": "uiSlice.ts",
+      "file_type": "code",
+      "source_file": "client/src/store/slices/uiSlice.ts",
+      "source_location": "L1",
+      "id": "client_src_store_slices_uislice_ts",
+      "community": 26,
+      "norm_label": "uislice.ts"
+    }
+  ],
+  "links": [
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/index.ts",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "server_src_index_ts",
+      "target": "middleware_errorhandler_errorhandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/index.ts",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "server_src_index_ts",
+      "target": "middleware_notfoundhandler_notfoundhandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/index.ts",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "server_src_index_ts",
+      "target": "middleware_auth_authmiddleware",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/index.ts",
+      "source_location": "L122",
+      "weight": 1.0,
+      "source": "server_src_index_ts",
+      "target": "src_index_startserver",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/middleware/errorHandler.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "server_src_middleware_errorhandler_ts",
+      "target": "middleware_errorhandler_errorhandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/middleware/errorHandler.ts",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "server_src_middleware_errorhandler_ts",
+      "target": "middleware_errorhandler_notfoundhandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/middleware/notFoundHandler.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "server_src_middleware_notfoundhandler_ts",
+      "target": "middleware_notfoundhandler_notfoundhandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/middleware/auth.ts",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "server_src_middleware_auth_ts",
+      "target": "middleware_auth_authmiddleware",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/middleware/auth.ts",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "server_src_middleware_auth_ts",
+      "target": "middleware_auth_optionalauthmiddleware",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/controllers/wubiController.ts",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "server_src_controllers_wubicontroller_ts",
+      "target": "middleware_auth_optionalauthmiddleware",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/routes/wubi.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "server_src_routes_wubi_ts",
+      "target": "middleware_auth_optionalauthmiddleware",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/types/index.ts",
+      "source_location": "L149",
+      "weight": 1.0,
+      "source": "server_src_types_index_ts",
+      "target": "types_index_apperror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/types/index.ts",
+      "source_location": "L153",
+      "weight": 1.0,
+      "source": "types_index_apperror",
+      "target": "types_index_apperror_constructor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/scripts/seed.ts",
+      "source_location": "L114",
+      "weight": 1.0,
+      "source": "server_src_scripts_seed_ts",
+      "target": "scripts_seed_seeddatabase",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/controllers/authController.ts",
+      "source_location": "L57",
+      "weight": 1.0,
+      "source": "server_src_controllers_authcontroller_ts",
+      "target": "controllers_authcontroller_register",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/controllers/authController.ts",
+      "source_location": "L167",
+      "weight": 1.0,
+      "source": "server_src_controllers_authcontroller_ts",
+      "target": "controllers_authcontroller_login",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/controllers/authController.ts",
+      "source_location": "L242",
+      "weight": 1.0,
+      "source": "server_src_controllers_authcontroller_ts",
+      "target": "controllers_authcontroller_logout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/routes/auth.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "server_src_routes_auth_ts",
+      "target": "controllers_authcontroller_register",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "client/src/pages/RegisterPage.tsx",
+      "source_location": "L51",
+      "weight": 1.0,
+      "source": "pages_registerpage_handlesubmit",
+      "target": "controllers_authcontroller_register"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/routes/auth.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "server_src_routes_auth_ts",
+      "target": "controllers_authcontroller_login",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "client/src/pages/LoginPage.tsx",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "pages_loginpage_handlesubmit",
+      "target": "controllers_authcontroller_login"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/routes/auth.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "server_src_routes_auth_ts",
+      "target": "controllers_authcontroller_logout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/controllers/wubiController.ts",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "server_src_controllers_wubicontroller_ts",
+      "target": "controllers_wubicontroller_search",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/controllers/wubiController.ts",
+      "source_location": "L162",
+      "weight": 1.0,
+      "source": "server_src_controllers_wubicontroller_ts",
+      "target": "controllers_wubicontroller_getcharacter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/controllers/wubiController.ts",
+      "source_location": "L217",
+      "weight": 1.0,
+      "source": "server_src_controllers_wubicontroller_ts",
+      "target": "controllers_wubicontroller_getcode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/controllers/wubiController.ts",
+      "source_location": "L278",
+      "weight": 1.0,
+      "source": "server_src_controllers_wubicontroller_ts",
+      "target": "controllers_wubicontroller_getrandomcharacters",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/routes/wubi.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "server_src_routes_wubi_ts",
+      "target": "controllers_wubicontroller_search",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/routes/wubi.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "server_src_routes_wubi_ts",
+      "target": "controllers_wubicontroller_getcharacter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/routes/wubi.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "server_src_routes_wubi_ts",
+      "target": "controllers_wubicontroller_getcode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "server/src/routes/wubi.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "server_src_routes_wubi_ts",
+      "target": "controllers_wubicontroller_getrandomcharacters",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/main.tsx",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "client_src_main_tsx",
+      "target": "client_src_app_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/main.tsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "client_src_main_tsx",
+      "target": "client_src_store_index_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/RegisterPage.tsx",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "client_src_pages_registerpage_tsx",
+      "target": "pages_registerpage_handlechange",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/RegisterPage.tsx",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "client_src_pages_registerpage_tsx",
+      "target": "pages_registerpage_handlesubmit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/LoginPage.tsx",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "client_src_pages_loginpage_tsx",
+      "target": "pages_loginpage_handlechange",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/LoginPage.tsx",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "client_src_pages_loginpage_tsx",
+      "target": "pages_loginpage_handlesubmit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "client_src_pages_settingspage_tsx",
+      "target": "pages_settingspage_tabpanel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L107",
+      "weight": 1.0,
+      "source": "client_src_pages_settingspage_tsx",
+      "target": "pages_settingspage_loadsettings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L119",
+      "weight": 1.0,
+      "source": "client_src_pages_settingspage_tsx",
+      "target": "pages_settingspage_savesettings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L131",
+      "weight": 1.0,
+      "source": "client_src_pages_settingspage_tsx",
+      "target": "pages_settingspage_handletabchange",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L135",
+      "weight": 1.0,
+      "source": "client_src_pages_settingspage_tsx",
+      "target": "pages_settingspage_handlesettingchange",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L142",
+      "weight": 1.0,
+      "source": "client_src_pages_settingspage_tsx",
+      "target": "pages_settingspage_handleconfirmaction",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L147",
+      "weight": 1.0,
+      "source": "client_src_pages_settingspage_tsx",
+      "target": "pages_settingspage_executeconfirmaction",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L164",
+      "weight": 1.0,
+      "source": "client_src_pages_settingspage_tsx",
+      "target": "pages_settingspage_resetsettings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L185",
+      "weight": 1.0,
+      "source": "client_src_pages_settingspage_tsx",
+      "target": "pages_settingspage_clearalldata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L193",
+      "weight": 1.0,
+      "source": "client_src_pages_settingspage_tsx",
+      "target": "pages_settingspage_exportdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L221",
+      "weight": 1.0,
+      "source": "client_src_pages_settingspage_tsx",
+      "target": "pages_settingspage_importdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L257",
+      "weight": 1.0,
+      "source": "client_src_pages_settingspage_tsx",
+      "target": "pages_settingspage_getactiontext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L150",
+      "weight": 1.0,
+      "source": "pages_settingspage_executeconfirmaction",
+      "target": "pages_settingspage_resetsettings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L153",
+      "weight": 1.0,
+      "source": "pages_settingspage_executeconfirmaction",
+      "target": "pages_settingspage_clearalldata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SettingsPage.tsx",
+      "source_location": "L156",
+      "weight": 1.0,
+      "source": "pages_settingspage_executeconfirmaction",
+      "target": "pages_settingspage_exportdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/PracticePage.tsx",
+      "source_location": "L130",
+      "weight": 1.0,
+      "source": "client_src_pages_practicepage_tsx",
+      "target": "pages_practicepage_generatepracticecontent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/PracticePage.tsx",
+      "source_location": "L239",
+      "weight": 1.0,
+      "source": "client_src_pages_practicepage_tsx",
+      "target": "pages_practicepage_startpractice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/PracticePage.tsx",
+      "source_location": "L276",
+      "weight": 1.0,
+      "source": "client_src_pages_practicepage_tsx",
+      "target": "pages_practicepage_handleinputchange",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/PracticePage.tsx",
+      "source_location": "L287",
+      "weight": 1.0,
+      "source": "client_src_pages_practicepage_tsx",
+      "target": "pages_practicepage_handlesubmit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/PracticePage.tsx",
+      "source_location": "L320",
+      "weight": 1.0,
+      "source": "client_src_pages_practicepage_tsx",
+      "target": "pages_practicepage_handlekeypress",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/PracticePage.tsx",
+      "source_location": "L328",
+      "weight": 1.0,
+      "source": "client_src_pages_practicepage_tsx",
+      "target": "pages_practicepage_resetpractice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/PracticePage.tsx",
+      "source_location": "L335",
+      "weight": 1.0,
+      "source": "client_src_pages_practicepage_tsx",
+      "target": "pages_practicepage_formattime",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/PracticePage.tsx",
+      "source_location": "L241",
+      "weight": 1.0,
+      "source": "pages_practicepage_startpractice",
+      "target": "pages_practicepage_generatepracticecontent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/PracticePage.tsx",
+      "source_location": "L283",
+      "weight": 1.0,
+      "source": "pages_practicepage_handleinputchange",
+      "target": "pages_practicepage_handlesubmit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/PracticePage.tsx",
+      "source_location": "L322",
+      "weight": 1.0,
+      "source": "pages_practicepage_handlekeypress",
+      "target": "pages_practicepage_handlesubmit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/StatisticsPage.tsx",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "client_src_pages_statisticspage_tsx",
+      "target": "pages_statisticspage_tabpanel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/StatisticsPage.tsx",
+      "source_location": "L110",
+      "weight": 1.0,
+      "source": "client_src_pages_statisticspage_tsx",
+      "target": "pages_statisticspage_loadstatistics",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/StatisticsPage.tsx",
+      "source_location": "L136",
+      "weight": 1.0,
+      "source": "client_src_pages_statisticspage_tsx",
+      "target": "pages_statisticspage_generatemockdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/StatisticsPage.tsx",
+      "source_location": "L168",
+      "weight": 1.0,
+      "source": "client_src_pages_statisticspage_tsx",
+      "target": "pages_statisticspage_analyzedata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/StatisticsPage.tsx",
+      "source_location": "L237",
+      "weight": 1.0,
+      "source": "client_src_pages_statisticspage_tsx",
+      "target": "pages_statisticspage_handletabchange",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/StatisticsPage.tsx",
+      "source_location": "L241",
+      "weight": 1.0,
+      "source": "client_src_pages_statisticspage_tsx",
+      "target": "pages_statisticspage_getaccuracycolor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/StatisticsPage.tsx",
+      "source_location": "L247",
+      "weight": 1.0,
+      "source": "client_src_pages_statisticspage_tsx",
+      "target": "pages_statisticspage_getspeedcolor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/StatisticsPage.tsx",
+      "source_location": "L119",
+      "weight": 1.0,
+      "source": "pages_statisticspage_loadstatistics",
+      "target": "pages_statisticspage_generatemockdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/StatisticsPage.tsx",
+      "source_location": "L123",
+      "weight": 1.0,
+      "source": "pages_statisticspage_loadstatistics",
+      "target": "pages_statisticspage_analyzedata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SearchPage.tsx",
+      "source_location": "L72",
+      "weight": 1.0,
+      "source": "client_src_pages_searchpage_tsx",
+      "target": "pages_searchpage_savesearchhistory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SearchPage.tsx",
+      "source_location": "L78",
+      "weight": 1.0,
+      "source": "client_src_pages_searchpage_tsx",
+      "target": "pages_searchpage_searchwubi",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SearchPage.tsx",
+      "source_location": "L142",
+      "weight": 1.0,
+      "source": "client_src_pages_searchpage_tsx",
+      "target": "pages_searchpage_handlesearch",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SearchPage.tsx",
+      "source_location": "L162",
+      "weight": 1.0,
+      "source": "client_src_pages_searchpage_tsx",
+      "target": "pages_searchpage_handletabchange",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SearchPage.tsx",
+      "source_location": "L168",
+      "weight": 1.0,
+      "source": "client_src_pages_searchpage_tsx",
+      "target": "pages_searchpage_copytoclipboard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SearchPage.tsx",
+      "source_location": "L176",
+      "weight": 1.0,
+      "source": "client_src_pages_searchpage_tsx",
+      "target": "pages_searchpage_clearsearch",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SearchPage.tsx",
+      "source_location": "L183",
+      "weight": 1.0,
+      "source": "client_src_pages_searchpage_tsx",
+      "target": "pages_searchpage_handlehistoryclick",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SearchPage.tsx",
+      "source_location": "L187",
+      "weight": 1.0,
+      "source": "client_src_pages_searchpage_tsx",
+      "target": "pages_searchpage_clearhistory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SearchPage.tsx",
+      "source_location": "L153",
+      "weight": 1.0,
+      "source": "pages_searchpage_handlesearch",
+      "target": "pages_searchpage_savesearchhistory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/pages/SearchPage.tsx",
+      "source_location": "L151",
+      "weight": 1.0,
+      "source": "pages_searchpage_handlesearch",
+      "target": "pages_searchpage_searchwubi",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/services/wubiService.ts",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "client_src_services_wubiservice_ts",
+      "target": "services_wubiservice_wubiservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/services/wubiService.ts",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "services_wubiservice_wubiservice",
+      "target": "services_wubiservice_wubiservice_search",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/services/wubiService.ts",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "services_wubiservice_wubiservice",
+      "target": "services_wubiservice_wubiservice_getcharacter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/services/wubiService.ts",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "services_wubiservice_wubiservice",
+      "target": "services_wubiservice_wubiservice_getcode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "client/src/services/wubiService.ts",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "services_wubiservice_wubiservice",
+      "target": "services_wubiservice_wubiservice_getrandomcharacters",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}

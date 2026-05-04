@@ -1,6 +1,10 @@
 # MyInputMethod graphify Knowledge Graph
 
-- [Interactive graph skipped; view renderer note](graph.html.skipped.txt)
-- [GRAPH_REPORT.md](GRAPH_REPORT.md)
-- [graph.json](graph.json)
-- [Repository README.md](https://github.com/luowei/MyInputMethod#readme)
+This project is split into implementation-specific graphify graphs.
+
+- [OC](OC/)
+- [Swift](Swift/)
+- [SwiftUI](SwiftUI/)
+- [Web](Web/)
+
+- [Repository README](https://github.com/luowei/MyInputMethod#readme)
